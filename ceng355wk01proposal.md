@@ -7,7 +7,7 @@
 5. [ ] :robot: Robotics: e.g. Control/Navigation/Dashboard
 6. [x] :ski: Health and Wellness: e.g. Wearable
 ####  Project Title: 
-Replace this with your title
+Infant Health Monitor
 
 ####  Executive Summary/Description of the Project (75 to 100 words): 
 Write here
