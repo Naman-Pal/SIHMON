@@ -60,7 +60,7 @@ Student Four:
 - Unsoldered connection description:   
 
 ####  GitHub repository link(s):
-[(https://github.com/ZoyebaMahbub5837/InfantHealthMonitor.git)]
+https://github.com/ZoyebaMahbub5837/InfantHealthMonitor.git
 
 ####  Google Play App download link:
 [Example link - EZPARK](https://play.google.com/store/apps/details?id=ca.ezlock.it.ezpark&pli=1)
