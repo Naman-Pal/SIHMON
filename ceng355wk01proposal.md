@@ -25,7 +25,7 @@ Write here
 </details>
 
 ####  List of Names of Students Involved in Project (first and last names and separate members by a comma):
-First Last, One Two
+ZOYEBA MAHBUB, SATINDER KAUR, NAMAN PAL, ESHAN SALWAN
 
 ####  Planned contact email for the [Expo submission form](https://appliedtechnology.humber.ca/shows/past-shows/advanced-manufacturing-projects/advanced-manufacturing-student-submission-form.html)
 example_at_example_dot_com
