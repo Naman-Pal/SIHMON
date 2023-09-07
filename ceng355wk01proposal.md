@@ -5,7 +5,7 @@
 3. [ ] :movie_camera: Consumer: e.g. Entertainment Protocol DMX/Baby Monitoring Project
 4. [ ] :mortar_board: Education: e.g. Robust Hackable Educational Project
 5. [ ] :robot: Robotics: e.g. Control/Navigation/Dashboard
-6. [ ] :ski: Health and Wellness: e.g. Wearable
+6. [x] :ski: Health and Wellness: e.g. Wearable
 ####  Project Title: 
 Replace this with your title
 
