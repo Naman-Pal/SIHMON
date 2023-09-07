@@ -63,7 +63,7 @@ Student Four:
 https://github.com/ZoyebaMahbub5837/InfantHealthMonitor.git
 
 ####  Google Play App download link:
-[Example link - EZPARK](https://play.google.com/store/apps/details?id=ca.ezlock.it.ezpark&pli=1)
+https://play.google.com/store/apps/details?id=ca.biobytes.it.infanthealthmonitor&pli=1
 
 #### Hours per student:
 $14\*3=42$ in class hours, $14\*3=42+$ outside of class.
