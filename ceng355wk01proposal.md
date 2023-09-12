@@ -25,18 +25,18 @@ Write here
 </details>
 
 ####  List of Names of Students Involved in Project (first and last names and separate members by a comma):
-ZOYEBA MAHBUB, SATINDER KAUR, NAMAN PAL, ESHAN SALWAN
+NAMAN PAL, ZOYEBA MAHBUB, SATINDER KAUR, ESHAN SALWAN
 
 ####  Planned contact email for the [Expo submission form](https://appliedtechnology.humber.ca/shows/past-shows/advanced-manufacturing-projects/advanced-manufacturing-student-submission-form.html)
 example_at_example_dot_com
 
 ####  For each individual student state whether they have a complete parts kit, a multimeter, what development platform they have, what sensors/effectors they have along with system Requirements (List what sensors/effectors are to do), functionalty of prototype/describe any unsoldered connections.
 Student One:
-- [ ] Complete parts kit
+- [x] Complete parts kit
 - [ ] Multimeter
 - Development platform: Broadcom single board computer
-- Sensor/effector 1:
-- Unsoldered connection description:   
+- Sensor/effector 1: ADXL 345 Triple Axes Accelerometer Sensor
+- Unsoldered connection description: There are 8 total connections on the adxl 345 breakout board; including GND, VCC	(3.3V), CS	(Chip Select) used in SPI communication to select slave device; SDO (Serial Data Out) used in SPI communication to send data; INT1 and INT2 Interrupt 1 and 2 Outputs; SDA (Serial Data) used in I2C communication to send data; SCL (Serial Clock) used in I2C communication to sync data transmission  
 
 Student Two:
 - [ ] Complete parts kit
