@@ -31,7 +31,7 @@ NAMAN PAL, ZOYEBA MAHBUB, SATINDER KAUR, ESHAN SALWAN
 example_at_example_dot_com
 
 ####  For each individual student state whether they have a complete parts kit, a multimeter, what development platform they have, what sensors/effectors they have along with system Requirements (List what sensors/effectors are to do), functionalty of prototype/describe any unsoldered connections.
-Student One:
+Student One: Naman Pal (Manager)
 - [x] Complete parts kit
 - [ ] Multimeter
 - Development platform: Broadcom single board computer
