@@ -40,12 +40,12 @@ Student One: Naman Pal (Manager)
 - Sensor/effector 1: ADXL 345 Triple Axes Accelerometer Sensor
 - Unsoldered connection description: There are 8 total connections on the adxl 345 breakout board; including GND, VCC	(3.3V), CS	(Chip Select) used in SPI communication to select slave device; SDO (Serial Data Out) used in SPI communication to send data; INT1 and INT2 Interrupt 1 and 2 Outputs; SDA (Serial Data) used in I2C communication to send data; SCL (Serial Clock) used in I2C communication to sync data transmission  
 
-Student Two:
-- [ ] Complete parts kit
+Student Two: Eshan Salwan
+- [x] Complete parts kit
 - [ ] Multimeter
 - Development platform: Broadcom single board computer
-- Sensor/effector 2:
-- Unsoldered connection description:   
+- Sensor/effector 2: LM393 microphone sound sensor
+- Unsoldered connection description:  There are 4 total connections on the LM393 board; VCC (3.3V), GND, AO (Analog Output) real-time voltage signal of the microphone, DO (Digital Output) low and high level signal when the sound intensity reaches a threshold.
 
 Student Three:
 - [ ] Complete parts kit
