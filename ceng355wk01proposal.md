@@ -10,8 +10,9 @@
 Infant Health Monitor
 
 ####  Executive Summary/Description of the Project (75 to 100 words): 
-Write here
+The project's primary objective is the development of a specialized bracelet tailored for infants, capable of monitoring critical health metrics such as heart rate, oxygen levels, body temperature, movement, and ambient sound. This innovative device will seamlessly interface with an Android application designed to display and analyze this wealth of data.
 
+Our ultimate vision is to empower parents and caregivers with a simple and efficient means of continuously monitoring their baby's health in real-time. By having their infant wear the bracelet, parents will be able to effortlessly track vital signs and receive timely alerts in the event of any anomalies. The accompanying app will offer an intuitive and user-friendly interface, enabling users to visualize data, identify trends, and even share vital information with healthcare professionals when necessary. Ultimately, our project strives to provide parents with the peace of mind that comes from knowing their baby's well-being is under vigilant and easily accessible observation.
 ####  Has this project been approved by all parties for posting (Y/N)?
 -  [x] Yes
 -  [ ] No
