@@ -28,7 +28,8 @@ Write here
 NAMAN PAL, ZOYEBA MAHBUB, SATINDER KAUR, ESHAN SALWAN
 
 ####  Planned contact email for the [Expo submission form](https://appliedtechnology.humber.ca/shows/past-shows/advanced-manufacturing-projects/advanced-manufacturing-student-submission-form.html)
-example_at_example_dot_com
+
+naman.pal@humber.ca
 
 ####  For each individual student state whether they have a complete parts kit, a multimeter, what development platform they have, what sensors/effectors they have along with system Requirements (List what sensors/effectors are to do), functionalty of prototype/describe any unsoldered connections.
 Student One: Naman Pal (Manager)
