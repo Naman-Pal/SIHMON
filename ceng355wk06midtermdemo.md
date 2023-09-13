@@ -5,6 +5,7 @@
 - [ ] Hardware and any other project equipment present.
 
 ## Demo
+- Hardware/Firmware, Database, and Mobile App Independent Demonstration, all parts should work independently.
 - [ ] PCB
 - [ ] Case
 - [ ] App 
