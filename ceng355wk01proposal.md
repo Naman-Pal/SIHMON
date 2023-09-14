@@ -60,7 +60,7 @@ Student Four: Zoyeba Mahbub
 - Development platform: Broadcom single board computer
 - Sensor 4: Temperature Sensor TMP006
 - Effector: When the temperature sensor detects an abnormal reading, this effector will initiate data transmission to the software application. It will send the relevant data for further analysis and storage.
-- Unsoldered connection description:  Interconnect headers have been chosen to simplify assembly, allowing secure, solderless connections for components like the TMP006 sensor, facilitating straightforward upgrades.The pins, DRDY (Data Ready), AD1 (Address Bit 1), and AD0 (Address Bit 0), are currently not utilized in the current project configuration. They have been reserved for potential future expansions or the integration of advanced functionalities. 
+- Unsoldered connection description: To optimize assembly, female headers are soldered onto the PCB, while male headers are attached to the TMP006 sensor, for its VCC (Voltage Supply), GND (Ground), SDA (Serial Data), and SCL (Serial Clock) pins. This approach ensures both a reliable initial connection and a convenient pathway for future upgrades. The pins, DRDY (Data Ready), AD1 (Address Bit 1), and AD0 (Address Bit 0), are currently not utilized in the current project configuration. They have been reserved for potential future expansions or the integration of advanced functionalities. 
 
 ####  GitHub repository link(s):
 https://github.com/ZoyebaMahbub5837/InfantHealthMonitor.git
