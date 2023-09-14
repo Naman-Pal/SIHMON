@@ -100,12 +100,20 @@ To make the prototype's design and development simpler, some features were left 
 
 ####  Design approach:
 ```mermaid
-flowchart LR;RaspberryPi<-->Firebase;Firebase<-->Android;
+flowchart LR;
+RaspberryPi<-->adxl_345;
+RaspberryPi<-->lm393;
+RaspberryPi<-->tmp006;
+RaspberryPi<-->max30102;
+RaspberryPi<-->LED;
+
 RaspberryPi<-.->Bluetooth;
 Bluetooth<-.->Android;
-Arduino<-->RaspberryPi;
-Arduino--->Stepper;
-LoadCellHX711--->RaspberryPi; RaspberryPi--->240x320LCD;RaspberryPi--->Relay;Relay--->Solenoid;
+RaspberryPi<-->Firebase;
+Firebase<-->Android;
+WiFi<-.->Android;
+RaspberryPi<-.->WiFi;
+
 ```
 
 
