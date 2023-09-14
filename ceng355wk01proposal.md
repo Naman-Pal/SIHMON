@@ -99,5 +99,6 @@ RaspberryPi--->Relay;
 Relay--->Solenoid;
 ```
 
+
 ####  Mandate: 
 Self funded (unless a sponsor has contractually agreed to contribute).
