@@ -48,10 +48,10 @@ Student Two: Eshan Salwan
 - Unsoldered connection description:  There are 4 total connections on the LM393 board; VCC (3.3V), GND, AO (Analog Output) real-time voltage signal of the microphone, DO (Digital Output) low and high level signal when the sound intensity reaches a threshold.
 
 Student Three:
-- [ ] Complete parts kit
+- [x] Complete parts kit
 - [ ] Multimeter
 - Development platform: Broadcom single board computer
-- Sensor/effector 3:
+- Sensor/effector 3: MAX30102 pulse oximetry and heart-rate sensor
 - Unsoldered connection description:   
 
 Student Four:
