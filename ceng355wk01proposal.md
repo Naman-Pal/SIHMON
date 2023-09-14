@@ -89,6 +89,14 @@ Data Visualization
 Offline Access
 User-Friendly Interface
 
+Here is a brief summary of the features you thought about but did not include in your prototype:
+
+Module for wireless communication (such as Bluetooth)
+GPS Unit
+Mechanisms for Redundancy and Failover
+Energy Planning and Battery Backup
+To make the prototype's design and development simpler, some features were left out, however they might be added in later iterations or improvements.
+
 
 ####  Design approach:
 ```mermaid
