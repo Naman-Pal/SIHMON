@@ -1,6 +1,6 @@
 ## List of projects
-1. [PlantCare Solutions](https://github.com/orgs/PrototypeZone/teams/plantcare-solutions/repositories)
-2. 
+1. [PlantCare Solutions: Flourish](https://github.com/orgs/PrototypeZone/teams/plantcare-solutions/repositories)
+2. [SmartGate](https://github.com/orgs/PrototypeZone/teams/smartgate/repositories)
 3. 
 4. [Housefy by Quantum Quants](https://github.com/orgs/PrototypeZone/teams/quantumquants/repositories)
 5. [EveePet by SleepDeprived](https://github.com/orgs/PrototypeZone/teams/sleepdeprived/repositories)
