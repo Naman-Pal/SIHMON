@@ -80,21 +80,21 @@ $14\frac{3}{20}\*3=6.3$ in class, $14\frac{1.05+1.49}{20}\*3=5.334+$ outside of 
 ####  Scope:
 The main features of the mobile application in infant health monitor solution:
 
-User Authentication
-Real-Time Data Display
-Alerts and Notifications
-Data Logging and History
-User Profiles and Permissions
-Data Visualization
-Offline Access
-User-Friendly Interface
+1. User Authentication
+2. Real-Time Data Display
+3. Alerts and Notifications
+4. Data Logging and History
+5. User Profiles and Permissions
+6. Data Visualization
+7. Offline Access
+8. User-Friendly Interface
 
 Here is a brief summary of the features you thought about but did not include in your prototype:
 
-Module for wireless communication (such as Bluetooth)
-GPS Unit
-Mechanisms for Redundancy and Failover
-Energy Planning and Battery Backup
+1. Module for wireless communication (such as Bluetooth)
+2. GPS Unit
+3. Mechanisms for Redundancy and Failover
+4. Energy Planning and Battery Backup
 To make the prototype's design and development simpler, some features were left out, however they might be added in later iterations or improvements.
 
 
