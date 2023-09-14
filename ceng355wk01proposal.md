@@ -54,12 +54,13 @@ Student Three: Satinder Kaur
 - Sensor/effector 3: MAX30102 pulse oximetry and heart-rate sensor
 - Unsoldered connection description:  Five functionally essential pins are present on the MAX30102 sensor. SCL and SDA enable I2C communication with external devices, while GND creates the ground reference and VIN establishes a connection to the power supply voltage. In addition, interrupts can be set off by particular events via the optional INT pin. 
 
-Student Four:
-- [ ] Complete parts kit
-- [ ] Multimeter
+Student Four: Zoyeba Mahbub
+- [x] Complete parts kit
+- [x] Multimeter
 - Development platform: Broadcom single board computer
-- Sensor/effector 4:
-- Unsoldered connection description:   
+- Sensor 4: Temperature Sensor TMP006
+- Effector: When the temperature sensor detects an abnormal reading, this effector will initiate data transmission to the software application. It will send the relevant data for further analysis and storage.
+- Unsoldered connection description:  Interconnect headers have been chosen to simplify assembly, allowing secure, solderless connections for components like the TMP006 sensor, facilitating straightforward upgrades.The pins, DRDY (Data Ready), AD1 (Address Bit 1), and AD0 (Address Bit 0), are currently not utilized in the current project configuration. They have been reserved for potential future expansions or the integration of advanced functionalities. 
 
 ####  GitHub repository link(s):
 https://github.com/ZoyebaMahbub5837/InfantHealthMonitor.git
