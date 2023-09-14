@@ -37,7 +37,7 @@ Student One: Naman Pal (Manager)
 - [ ] Multimeter
 - Development platform: Broadcom single board computer
 - Sensor/effector 1: ADXL 345 Triple Axes Accelerometer Sensor
-- Unsoldered connection description: There are 8 total connections on the adxl 345 breakout board; including GND, VCC	(3.3V), CS	(Chip Select) used in SPI communication to select slave device; SDO (Serial Data Out) used in SPI communication to send data; INT1 and INT2 Interrupt 1 and 2 Outputs; SDA (Serial Data) used in I2C communication to send data; SCL (Serial Clock) used in I2C communication to sync data transmission  
+- Unsoldered connection description: There are 8 pins on the adxl 345 sensor breakout board. A female header has been soldered onto the PCB. The sensor (male pins) can be attached onto as well as removed from the female header on the PCB. These include: GND, VCC	(3.3V), CS	(Chip Select) used in SPI communication to select slave device; SDO (Serial Data Out) used in SPI communication to send data; INT1 and INT2 Interrupt 1 and 2 Outputs; SDA (Serial Data) used in I2C communication to send data; SCL (Serial Clock) used in I2C communication to sync data transmission  
 
 Student Two: Eshan Salwan
 - [x] Complete parts kit
