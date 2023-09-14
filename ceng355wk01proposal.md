@@ -101,11 +101,11 @@ To make the prototype's design and development simpler, some features were left 
 ####  Design approach:
 ```mermaid
 flowchart LR;
-RaspberryPi<-->adxl_345;
-RaspberryPi<-->lm393;
-RaspberryPi<-->tmp006;
-RaspberryPi<-->max30102;
-RaspberryPi<-->LED;
+adxl_345-->RaspberryPi;
+lm393-->RaspberryPi;
+tmp006-->RaspberryPi;
+max30102-->RaspberryPi;
+LED-->RaspberryPi;
 
 RaspberryPi<-.->Bluetooth;
 Bluetooth<-.->Android;
