@@ -52,7 +52,7 @@ Student Three: Satinder Kaur
 - [ ] Multimeter
 - Development platform: Broadcom single board computer
 - Sensor/effector 3: MAX30102 pulse oximetry and heart-rate sensor
-- Unsoldered connection description:   
+- Unsoldered connection description:  Five functionally essential pins are present on the MAX30102 sensor. SCL and SDA enable I2C communication with external devices, while GND creates the ground reference and VIN establishes a connection to the power supply voltage. In addition, interrupts can be set off by particular events via the optional INT pin. 
 
 Student Four:
 - [ ] Complete parts kit
