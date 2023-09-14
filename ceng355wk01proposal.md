@@ -10,7 +10,7 @@
 Infant Health Monitor
 
 ####  Executive Summary/Description of the Project (75 to 100 words): 
-Our project goal is to create a specialized infant bracelet that monitors crucial health metrics (heart rate, oxygen levels, temperature, movement, and ambient sound) and pairs it with an Android app. The app will analyse and provide insightful information about the baby's health onto their parents' and caregivers' smartphone. It will also have continuous real-time health monitoring for their infants, allowing effortless tracking and timely anomaly alerts (as notifications). The user-friendly app enables data visualization, health trend identification, and easy sharing with healthcare professionals, providing peace of mind through vigilant and accessible observation of baby's well-being.
+Our project goal is to create a specialized infant bracelet that monitors crucial health metrics (heart rate, oxygen levels, temperature, movement, and ambient sound) and pairs it with an Android app. The app will analyze and provide insightful information about the baby's health on their parents' and caregivers' smartphones. It will also have continuous real-time health monitoring for their infants, allowing effortless tracking and timely anomaly alerts (as notifications). The user-friendly app enables data visualization, health trend identification, and easy sharing with healthcare professionals, providing peace of mind through vigilant and accessible observation of the baby's well-being.
 
 ####  Has this project been approved by all parties for posting (Y/N)?
 -  [x] Yes
@@ -31,7 +31,7 @@ NAMAN PAL, ZOYEBA MAHBUB, SATINDER KAUR, ESHAN SALWAN
 
 naman.pal@humber.ca
 
-####  For each individual student state whether they have a complete parts kit, a multimeter, what development platform they have, what sensors/effectors they have along with system Requirements (List what sensors/effectors are to do), functionalty of prototype/describe any unsoldered connections.
+####  For each individual student state whether they have a complete parts kit, a multimeter, what development platform they have, what sensors/effectors they have along with system Requirements (List what sensors/effectors are to do), functionality of prototype/describe any unsoldered connections.
 Student One: Naman Pal (Manager)
 - [x] Complete parts kit
 - [ ] Multimeter
@@ -95,7 +95,7 @@ Here is a brief summary of the features you thought about but did not include in
 2. GPS Unit
 3. Mechanisms for Redundancy and Failover
 4. Energy Planning and Battery Backup
-To make the prototype's design and development simpler, some features were left out, however they might be added in later iterations or improvements.
+To make the prototype's design and development simpler, some features were left out, however, they might be added in later iterations or improvements.
 
 
 ####  Design approach:
@@ -111,4 +111,4 @@ LoadCellHX711--->RaspberryPi; RaspberryPi--->240x320LCD;RaspberryPi--->Relay;Rel
 
 
 ####  Mandate: 
-Self funded (unless a sponsor has contractually agreed to contribute).
+Self-funded (unless a sponsor has contractually agreed to contribute).
