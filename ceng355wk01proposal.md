@@ -47,7 +47,7 @@ Student Two: Eshan Salwan
 - Sensor/effector 2: LM393 microphone sound sensor
 - Unsoldered connection description:  There are 4 total connections on the LM393 board; VCC (3.3V), GND, AO (Analog Output) real-time voltage signal of the microphone, DO (Digital Output) low and high level signal when the sound intensity reaches a threshold.
 
-Student Three:
+Student Three: Satinder Kaur
 - [x] Complete parts kit
 - [ ] Multimeter
 - Development platform: Broadcom single board computer
