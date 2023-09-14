@@ -78,7 +78,7 @@ Meirion Williams
 $14\frac{3}{20}\*3=6.3$ in class, $14\frac{1.05+1.49}{20}\*3=5.334+$ outside of class.
 
 ####  Scope:
-Creation of a Prototype that is not to be left powered unattended. Keeping safety and Z462 in mind, the highest AC voltage that is to be used is 16Vrms from a wall adapter from which +/- 15V or as high as 45 VDC can be obtained. Maximum power consumption is to be 20 Watts. In alignment with the space below the tray in the Humber North Campus Electronics Parts kit the overall project maximum dimensions are 12 13/16" x 5 ¹/₂" x 2 ³/₄" = 32.5cm x 14cm x 7cm. If your PCB doesn’t work or you need to switch sensors/effectors, it is recommended that you use the SparkFun Qwiic system: https://www.sparkfun.com/products/15945
+The main layout for will be defined that will host the navigation drawer. It will have the drawer layout with two child views: Main content are a and the Navigation View. Navigation view will have menu items, header and all additional customizations required by the software. There is a activity fo r
 
 ####  Design approach:
 ```mermaid
