@@ -25,41 +25,41 @@ Our project goal is to create a specialized infant bracelet that monitors crucia
 </details>
 
 ####  List of Names of Students Involved in Project (first and last names and separate members by a comma):
-NAMAN PAL, ZOYEBA MAHBUB, SATINDER KAUR, ESHAN SALWAN
+NAMAN PAL, ZOYEBA MAHBUB, ESHAN SALWAN, SATINDER KAUR
 
 ####  Planned contact email for the [Expo submission form](https://appliedtechnology.humber.ca/shows/past-shows/advanced-manufacturing-projects/advanced-manufacturing-student-submission-form.html)
 
 naman.pal@humber.ca
 
 ####  For each individual student state whether they have a complete parts kit, a multimeter, what development platform they have, what sensors/effectors they have along with system Requirements (List what sensors/effectors are to do), functionality of prototype/describe any unsoldered connections.
-Student One: Naman Pal (Manager)
+Student One (A): Naman Pal (Manager)
 - [x] Complete parts kit
 - [ ] Multimeter
 - Development platform: Broadcom single board computer
 - Sensor/effector 1: ADXL 345 Triple Axes Accelerometer Sensor
 - Unsoldered connection description: There are 8 pins on the adxl 345 sensor breakout board. A female header has been soldered onto the PCB. The sensor (male pins) can be attached onto as well as removed from the female header on the PCB. These include: GND, VCC	(3.3V), CS	(Chip Select) used in SPI communication to select slave device; SDO (Serial Data Out) used in SPI communication to send data; INT1 and INT2 Interrupt 1 and 2 Outputs; SDA (Serial Data) used in I2C communication to send data; SCL (Serial Clock) used in I2C communication to sync data transmission  
 
-Student Two: Eshan Salwan
-- [x] Complete parts kit
-- [ ] Multimeter
-- Development platform: Broadcom single board computer
-- Sensor/effector 2: LM393 microphone sound sensor
-- Unsoldered connection description:  There are 4 total connections on the LM393 board; VCC (3.3V), GND, AO (Analog Output) real-time voltage signal of the microphone, DO (Digital Output) low and high level signal when the sound intensity reaches a threshold.
-
-Student Three: Satinder Kaur
-- [x] Complete parts kit
-- [ ] Multimeter
-- Development platform: Broadcom single board computer
-- Sensor/effector 3: MAX30102 pulse oximetry and heart-rate sensor
-- Unsoldered connection description:  Five functionally essential pins are present on the MAX30102 sensor. SCL and SDA enable I2C communication with external devices, while GND creates the ground reference and VIN establishes a connection to the power supply voltage. In addition, interrupts can be set off by particular events via the optional INT pin. 
-
-Student Four: Zoyeba Mahbub
+Student Two (B): Zoyeba Mahbub
 - [x] Complete parts kit
 - [x] Multimeter
 - Development platform: Broadcom single board computer
 - Sensor 4: Temperature Sensor TMP006
 - Effector: When the temperature sensor detects an abnormal reading, this effector will initiate data transmission to the software application. It will send the relevant data for further analysis and storage.
 - Unsoldered connection description: To optimize assembly, female headers are soldered onto the PCB, while male headers are attached to the TMP006 sensor, for its VCC (Voltage Supply), GND (Ground), SDA (Serial Data), and SCL (Serial Clock) pins. This approach ensures both a reliable initial connection and a convenient pathway for future upgrades. The pins, DRDY (Data Ready), AD1 (Address Bit 1), and AD0 (Address Bit 0), are currently not utilized in the current project configuration. They have been reserved for potential future expansions or the integration of advanced functionalities. 
+
+Student Three (C): Eshan Salwan
+- [x] Complete parts kit
+- [ ] Multimeter
+- Development platform: Broadcom single board computer
+- Sensor/effector 2: LM393 microphone sound sensor
+- Unsoldered connection description:  There are 4 total connections on the LM393 board; VCC (3.3V), GND, AO (Analog Output) real-time voltage signal of the microphone, DO (Digital Output) low and high level signal when the sound intensity reaches a threshold.
+
+Student Four (D): Satinder Kaur
+- [x] Complete parts kit
+- [ ] Multimeter
+- Development platform: Broadcom single board computer
+- Sensor/effector 3: MAX30102 pulse oximetry and heart-rate sensor
+- Unsoldered connection description:  Five functionally essential pins are present on the MAX30102 sensor. SCL and SDA enable I2C communication with external devices, while GND creates the ground reference and VIN establishes a connection to the power supply voltage. In addition, interrupts can be set off by particular events via the optional INT pin. 
 
 ####  GitHub repository link(s):
 https://github.com/ZoyebaMahbub5837/InfantHealthMonitor.git
