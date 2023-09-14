@@ -78,7 +78,17 @@ Meirion Williams
 $14\frac{3}{20}\*3=6.3$ in class, $14\frac{1.05+1.49}{20}\*3=5.334+$ outside of class.
 
 ####  Scope:
-The main layout for will be defined that will host the navigation drawer. It will have the drawer layout with two child views: Main content are a and the Navigation View. Navigation view will have menu items, header and all additional customizations required by the software. There is a activity for each sensor. Each sensor activity has a graph to show 
+The main features of the mobile application in infant health monitor solution:
+
+User Authentication
+Real-Time Data Display
+Alerts and Notifications
+Data Logging and History
+User Profiles and Permissions
+Data Visualization
+Offline Access
+User-Friendly Interface
+
 
 ####  Design approach:
 ```mermaid
