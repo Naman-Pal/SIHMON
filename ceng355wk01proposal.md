@@ -85,19 +85,7 @@ The main layout for will be defined that will host the navigation drawer. It wil
 flowchart LR;RaspberryPi<-->Firebase;Firebase<-->Android;
 RaspberryPi<-.->Bluetooth;Bluetooth<-.->Android;Arduino<-->RaspberryPi;Arduino--->Stepper; LoadCellHX711--->RaspberryPi; RaspberryPi--->240x320LCD;RaspberryPi--->Relay;Relay--->Solenoid;
 ```
-```mermaid
-flowchart LR;
-RaspberryPi<-->Firebase;
-Firebase<-->Android;
-RaspberryPi<-.->Bluetooth;
-Bluetooth<-.->Android;
-Arduino<-->RaspberryPi;
-Arduino--->Stepper;
-LoadCellHX711--->RaspberryPi;
-RaspberryPi--->240x320LCD;
-RaspberryPi--->Relay;
-Relay--->Solenoid;
-```
+
 
 
 ####  Mandate: 
