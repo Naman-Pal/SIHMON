@@ -43,9 +43,9 @@ Student Two (B): Zoyeba Mahbub
 - [x] Complete parts kit
 - [x] Multimeter
 - Development platform: Broadcom single board computer
-- Sensor 4: Temperature Sensor TMP006
+- Sensor 4: Temperature Sensor 2. tmp006: temperature sensor
 - Effector: When the temperature sensor detects an abnormal reading, this effector will initiate data transmission to the software application. It will send the relevant data for further analysis and storage.
-- Unsoldered connection description: To optimize assembly, female headers are soldered onto the PCB, while male headers are attached to the TMP006 sensor, for its VCC (Voltage Supply), GND (Ground), SDA (Serial Data), and SCL (Serial Clock) pins. This approach ensures both a reliable initial connection and a convenient pathway for future upgrades. The pins, DRDY (Data Ready), AD1 (Address Bit 1), and AD0 (Address Bit 0), are currently not utilized in the current project configuration. They have been reserved for potential future expansions or the integration of advanced functionalities. 
+- Unsoldered connection description: To optimize assembly, female headers are soldered onto the PCB, while male headers are attached to the 2. tmp006: temperature sensor sensor, for its VCC (Voltage Supply), GND (Ground), SDA (Serial Data), and SCL (Serial Clock) pins. This approach ensures both a reliable initial connection and a convenient pathway for future upgrades. The pins, DRDY (Data Ready), AD1 (Address Bit 1), and AD0 (Address Bit 0), are currently not utilized in the current project configuration. They have been reserved for potential future expansions or the integration of advanced functionalities. 
 
 Student Three (C): Eshan Salwan
 - [x] Complete parts kit
@@ -101,20 +101,33 @@ To make the prototype's design and development simpler, some features were left 
 ####  Design approach:
 ```mermaid
 flowchart LR;
-adxl_345-->RaspberryPi;
-lm393-->RaspberryPi;
-tmp006-->RaspberryPi;
-max30102-->RaspberryPi;
-LED-->RaspberryPi;
+2.adxl_345:3-axesaccelerometer_sensor-->1.RaspberryPi;
+3.tmp006:temperature_sensor-->1.RaspberryPi;
+4.lm393:5V_sound_sensor-->1.RaspberryPi;
+5.max30102:Pulse_and_Oximeter_sensor-->1.RaspberryPi;
+6.LED-->1.RaspberryPi;
 
-RaspberryPi<-.->Bluetooth;
-Bluetooth<-.->Android;
-RaspberryPi<-->Firebase;
-Firebase<-->Android;
+1.RaspberryPi<-.->7.Bluetooth:Connectivity_using_bluetooth;
+7.Bluetooth:Connectivity_using_bluetooth<-.->Android;
+1.RaspberryPi<-->8.Firebase_realtime_database;
+8.Firebase_realtime_database<-->Android;
 WiFi<-.->Android;
-RaspberryPi<-.->WiFi;
+1.RaspberryPi<-.->WiFi;
 
 ```
+
+| ID | Component Name    | Description      |
+|:---|:----------------  | :---------------:| 
+| 1  | Python Hat        |   True   | 23.99 |
+| 2  | SQL Hat           |   True   | 23.99 |
+| 3  | Codecademy Tee    |  False   | 19.99 |
+| 4  | Codecademy Hoodie |  False   | 42.99 |
+| 5  | Codecademy Hoodie |  False   | 42.99 |
+| 6  | Codecademy Hoodie |  False   | 42.99 |
+| 7  | Codecademy Hoodie |  False   | 42.99 |
+| 8  | Codecademy Hoodie |  False   | 42.99 |
+| 9  | Codecademy Hoodie |  False   | 42.99 |
+| 10 | Codecademy Hoodie |  False   | 42.99 |
 
 
 
