@@ -108,26 +108,26 @@ flowchart LR;
 6.LED-->1.RaspberryPi;
 
 1.RaspberryPi<-.->7.Bluetooth:Connectivity_using_bluetooth;
-7.Bluetooth:Connectivity_using_bluetooth<-.->Android;
+7.Bluetooth:Connectivity_using_bluetooth<-.->10.Android-App:Analyzes_and_provides_conclusions_to_user;
 1.RaspberryPi<-->8.Firebase_realtime_database;
-8.Firebase_realtime_database<-->Android;
-WiFi<-.->Android;
-1.RaspberryPi<-.->WiFi;
+8.Firebase_realtime_database<-->10.Android-App:Analyzes_and_provides_conclusions_to_user;
+9.WiFi:Enables_communication_with_the_app<-.->10.Android-App:Analyzes_and_provides_conclusions_to_user;
+1.RaspberryPi<-.->9.WiFi:Enables_communication_with_the_app;
 
 ```
 
 | ID | Component Name    | Description      |
 |:---|:----------------  | :---------------:| 
-| 1  | Python Hat        |   True   | 23.99 |
-| 2  | SQL Hat           |   True   | 23.99 |
-| 3  | Codecademy Tee    |  False   | 19.99 |
-| 4  | Codecademy Hoodie |  False   | 42.99 |
-| 5  | Codecademy Hoodie |  False   | 42.99 |
-| 6  | Codecademy Hoodie |  False   | 42.99 |
-| 7  | Codecademy Hoodie |  False   | 42.99 |
-| 8  | Codecademy Hoodie |  False   | 42.99 |
-| 9  | Codecademy Hoodie |  False   | 42.99 |
-| 10 | Codecademy Hoodie |  False   | 42.99 |
+| 1  | Raspberry Pi      | Sends sensor data to Firebase |
+| 2  | adxl_345          | Triple Axes Accelerometer sensor, records acceleration along x,y,z axes |
+| 3  | tmp006            | Temperature sensor, senses temperature through the skin |
+| 4  | lm393             | Detects sound, with customizable frequency and amplitude|
+| 5  | max30102          | Pulse Oximeter, senses Oxygen level and heart rate through skin |
+| 6  | LED               | Indicates status of all 4 sensors |
+| 7  | Bluetooth         | Enables communication between hardware and mobile app|
+| 8  | Firebase          | Holds sensor data, as well as user preferences for the app|
+| 9  | WiFi              | Enables communication from hardware and mobile app to Firebase |
+| 10 | Android App       | Displays sensor data on phone, provides analysis and insights on the infant's health based on sensor metrics, plots sensor data on a graph for better understanding, gives alert to caregiver if abnormalities/symptoms occur, calls 911 if a threshold is crossed|
 
 
 
