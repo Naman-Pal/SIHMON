@@ -5,6 +5,20 @@
 ## This week
 - Status update [wk03mobile.md](wk03mobile.md) by student B on behalf of the group.
 - Last week you completed a [15 minute 3D printing tutorial](https://sites.google.com/view/idealab3dprinting/tutorial) 
-and then registered for this week's [Thursday, September 21, 2023 workshop](https://humber.libcal.com/event/3754399).   
-Today's session in J232 will be roughly half an hour such that you can go to LRC 3083 for the 3D Printing workshop 4:00pm - 6:00pm.
-- 3D Printing Software: [OpenSCAD](https://openscad.org/downloads.html), [Cura](https://ultimaker.com/software/ultimaker-cura)
+and then attended the 3D Printing Workshop in the library.
+
+Today's session in J232 will be the full duration and will focus on getting the mobile application status report completed (student B)
+The other team members can assist, and can also work on any outstanding items in the project plan. 
+
+There is a powerpoint presentation that provides guidance on preparaing the mobile status report. This has been loaded into blackboard and shoudl be visble. This will be reviewed quickly in class.  discusison post has also been created. 
+
+Grading
+
+Total of 5 marks
+
+Recent Progress/ 1
+Problems / 1
+Future Considerataions / 1
+Financials / 1
+Project Plan Kanban Updates / 1
+
