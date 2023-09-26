@@ -3,6 +3,8 @@
 Student B writes here
 ## Problems and hyperlinks/urls to potential solutions
 Student B writes here
+## Future Considerations
+Student B writes here
 ## Financial
 ### Expenditures since previous report
 Student B writes here
