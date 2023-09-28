@@ -16,7 +16,11 @@
 - Settings screen offers app customization options.
 
 ### Test Driven Design
-- No specific information provided about test data, scripts, or testing status.
+### JUnit: 
+Employed for unit testing to rigorously verify the correctness of the login module's individual functions and methods, ensuring precise functionality.
+
+### Espresso: 
+Utilized for UI testing, particularly focusing on comprehensive testing of the navigation drawer to guarantee seamless user interaction and correct behavior.
 
 ### Google Store Status
 The application has been successfully submitted to the Google Play Store and has been accepted.
