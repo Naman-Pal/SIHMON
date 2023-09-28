@@ -51,6 +51,14 @@ Extensive testing and debugging will be conducted to pinpoint the root cause of 
 
 ## Financial
 ### Expenditures since previous report
-Student B writes here
+| Item Name |Brief Description | Budgeted Costs |Actual Costs|
+| -------- | -------- | -------- | ---------- |
+|Google Account | Opened google account | 35 | 35 |
+|Total |  | 35 | 35 |
+
 ### Planned future expenses
-Student B writes here
+| Item Name |Brief Description | Budgeted Costs |Actual Costs|
+| -------- | -------- | -------- | ---------- |
+|N/A | N/A | N/A |N/A |
+|Total | N/A | N/A | N/A |
+
