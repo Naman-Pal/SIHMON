@@ -28,12 +28,15 @@ Link to Application in the Google Play Store: https://play.google.com/store/apps
 
 
 
-
-
-
-
 ## Problems and hyperlinks/urls to potential solutions
-Student B writes here
+
+- ### Difficulty connecting graphs to Firebase database, and the graphs are not providing the expected output
+Investigate the Firebase database configuration and data retrieval methods to identify and fix the issue. Additionally, the data in the database will be verified to match the expected format. The graphs will be redesigned to address the graph-related issue,  to ensure they provide the desired output.
+
+- ### Occasional app crashes.
+Extensive testing and debugging will be conducted to pinpoint the root cause of app crashes. This includes analyzing crash reports and logs for specific error details and reviewing the code for potential memory leaks or inefficiencies.
+
+
 ## Future Considerations
 ### Usability
 - Enhance UI and visual design for a more intuitive experience.
