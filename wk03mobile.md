@@ -24,8 +24,7 @@ The application has been successfully submitted to the Google Play Store and has
 Link to Application in the Google Play Store: https://play.google.com/store/apps/details?id=ca.biobytes.it.infanthealthmonitor&pli=1
 
 ### Integration with Firebase Database
-- No specific information provided about the integration with Firebase Database.
-
+Our application seamlessly integrates with Firebase Database, ensuring real-time data synchronization, secure storage, scalability, and cross-platform compatibility. This integration enhances user experiences and allows us to deliver a responsive and secure application."
 
 
 ## Problems and hyperlinks/urls to potential solutions
