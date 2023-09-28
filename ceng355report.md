@@ -2,7 +2,9 @@
 Title Page (1st odd page not numbered, X.0 sections begin on odd pages, otherwise double sided and numbered)  
 ## Declaration of Joint Authorship   
 
-I, Zoyeba Mahbub , confirm that this breakdown of authorship represents mycontribution to the work submitted for assessment and my contribution is my own work andis expressed in my own words. Any uses made within the Technology Report of the works ofany other author, separate to the work group, in any form (ideas, equations, figures, texts,tables, programs), are properly acknowledged at the point of use. A list of the references used is included.
+I, Zoyeba Mahbub , confirm that this breakdown of authorship represents mycontribution to the work submitted for assessment and my contribution is my own work and is expressed in my own words. Any uses made within the Technology Report of the works ofany other author, separate to the work group, in any form (ideas, equations, figures, texts,tables, programs), are properly acknowledged at the point of use. A list of the references used is included.
+
+I, Naman Pal , confirm that this breakdown of authorship represents mycontribution to the work submitted for assessment and my contribution is my own work and is expressed in my own words. Any uses made within the Technology Report of the works of any other author, separate to the work group, in any form (ideas, equations, figures, texts,tables, programs), are properly acknowledged at the point of use. A list of the references used is included.
 
 
 
