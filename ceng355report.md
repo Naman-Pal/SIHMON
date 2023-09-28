@@ -1,9 +1,11 @@
 # CENG 355 Project Name
 Title Page (1st odd page not numbered, X.0 sections begin on odd pages, otherwise double sided and numbered)  
 ## Declaration of Joint Authorship   
-I, Zoyeba Mahbub , confirm that this breakdown of authorship represents mycontribution to the work submitted for assessment and my contribution is my own work andis expressed in my own words. Any uses made within the Technology Report of the works ofany other author, separate to the work group, in any form (ideas, equations, figures, texts,tables, programs), are properly acknowledged at the point of use. A list of the referencesused is included
 
-[^1]: Technology Report Guidelines. OACETT, Revised June 2022. Available at: https://www.oacett.org/getmedia/bd3d7225-0236-49f0-a6c5-8589d44ff7cf/2022_TR_Guidelines_-_Updated_Version_-_Sept_2022.pdf.aspx
+I, Zoyeba Mahbub , confirm that this breakdown of authorship represents mycontribution to the work submitted for assessment and my contribution is my own work andis expressed in my own words. Any uses made within the Technology Report of the works ofany other author, separate to the work group, in any form (ideas, equations, figures, texts,tables, programs), are properly acknowledged at the point of use. A list of the references used is included.
+
+
+
 ## Proposal/Project Specifications   
 [Link to proposal](ceng355wk01proposal.md).   
 ## Executive Summary   
