@@ -33,8 +33,15 @@ Link to Application in the Google Play Store: https://play.google.com/store/apps
 - ### Difficulty connecting graphs to Firebase database, and the graphs are not providing the expected output
 Investigate the Firebase database configuration and data retrieval methods to identify and fix the issue. Additionally, the data in the database will be verified to match the expected format. The graphs will be redesigned to address the graph-related issue,  to ensure they provide the desired output.
 
+https://m2.material.io/design/communication/data-visualization.html#selecting-charts
+https://stackoverflow.com/questions/65177044/firebase-realtime-database-retrieve-data-into-list-and-use-it-on-barchart
+https://www.geeksforgeeks.org/how-to-retrieve-data-from-the-firebase-realtime-database-in-android/
+
 - ### Occasional app crashes.
 Extensive testing and debugging will be conducted to pinpoint the root cause of app crashes. This includes analyzing crash reports and logs for specific error details and reviewing the code for potential memory leaks or inefficiencies.
+
+https://developer.android.com/games/optimize/crash
+https://www.tutorialspoint.com/android-tools-and-methods-to-find-memory-leaks
 
 
 ## Future Considerations
