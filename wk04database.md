@@ -10,8 +10,8 @@ https://stackoverflow.com/questions/65177044/firebase-realtime-database-retrieve
 ### Expenditures since previous report
 | Item Name |Brief Description | Budgeted Costs |Actual Costs|
 | -------- | -------- | -------- | ---------- |
-|Google Account | Opened google account | 35 | 35 |
-|Total |  | 35 | 35 |
+|N/A | N/A | N/A |N/A |
+|Total | N/A | N/A | N/A |
 
 ### Planned future expenses
 | Item Name |Brief Description | Budgeted Costs |Actual Costs|
