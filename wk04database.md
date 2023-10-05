@@ -8,6 +8,13 @@ To find and address the problem, look at the Firebase database settings and data
 https://stackoverflow.com/questions/65177044/firebase-realtime-database-retrieve-data-into-list-and-use-it-on-barchart https://www.geeksforgeeks.org/how-to-retrieve-data-from-the-firebase-realtime-database-in-android/
 ## Financial
 ### Expenditures since previous report
-Student C writes here
+| Item Name |Brief Description | Budgeted Costs |Actual Costs|
+| -------- | -------- | -------- | ---------- |
+|Google Account | Opened google account | 35 | 35 |
+|Total |  | 35 | 35 |
+
 ### Planned future expenses
-Student C writes here
+| Item Name |Brief Description | Budgeted Costs |Actual Costs|
+| -------- | -------- | -------- | ---------- |
+|N/A | N/A | N/A |N/A |
+|Total | N/A | N/A | N/A |
