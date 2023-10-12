@@ -1,6 +1,6 @@
 # Hardware Connectivity Status Update
 ## Recent and current progress
-We are utilizing four distinct sensors: the Temperature sensor (TEMP006), Pulse Oximetry sensor (MAX30102), Accelerometer sensor (ADXL345), and Sound sensor. These sensors are each integrated with their individual PCBs and Raspberry Pis for seamless data collection and processing.
+We are utilizing four distinct sensors: the Temperature sensor (TEMP006), Pulse Oximetry sensor (MAX30102), Accelerometer sensor (ADXL345), and Sound sensor (LM393). These sensors are each integrated with their individual PCBs and Raspberry Pis for seamless data collection and processing.
 
 Purpose of sensors and connectivity:
 1. Temperature Sensor (TEMP006):-
