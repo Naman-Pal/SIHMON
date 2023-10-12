@@ -30,12 +30,12 @@ Purpose of sensors and connectivity:
      Raspberry Pi  4 undertakes the vital role of processing the acceleration data. In this symphony of components and signals, our system functions harmoniously, 
      offering valuable insights into acceleration forces and signaling through the LED.
    
-4. Sound Sensor:
+4. Sound Sensor(LM393):
    - Our sound sensor is dedicated to capturing audio data and assessing noise levels, specifically tracking instances of infant crying or loud noises.
    - The Baby Health Monitor's connectivity setup seamlessly unites vital hardware components to ensure precise sound monitoring. The LM393 sensor serves as the 
      primary data source, capturing sound levels and converting them into electrical signals. This sensor is intricately linked to the Raspberry Pi, acting as the 
      central processing unit. A critical NPN transistor functions as a reliable switch for LED control, while 2.2kΩ and 220Ω resistors optimize the transistor and 
-     protect the LED. These components are securely mounted on a PCB, fostering efficient interactions. In practice, the LM393 sensor captures ambient sound and 
+     protect the LED. These components are securely mounted on a PCB, fostering efficient interactions. In practice, the LM393 sensor captures the ambient sound and 
      sends it to the Raspberry Pi for analysis using complex algorithms, ultimately displaying vital sound-related data through controlled LED brightness. This 
      setup creates a user-friendly system for real-time sound monitoring, enhancing infant care.
 
