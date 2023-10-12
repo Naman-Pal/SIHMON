@@ -21,7 +21,7 @@ Purpose of sensors and connectivity:
      by software algorithms and converted into understandable heart rate and oxygen saturation values. The PCB ensures reliable data transmission and improves the 
      overall functionality of the Baby Health Monitor system.
 
-3. Accelerometer Sensor (ADXL345):-
+4. Accelerometer Sensor (ADXL345):-
    - This sensor specializes in detecting body motion and acceleration, offering valuable insights into an infant's movements and activity.
    - The setup involves a Raspberry Pi 4, an LED, two resistors (220Ω and 2.2kΩ), a transistor, an 8-pin header, and an ADXL345 Triple Axis Accelerometer Sensor, 
      working together seamlessly. The Raspberry Pi 4, acting as the brain of the system, utilizes GPIO Pin 17 to control the LED. When powered on, a high signal 
@@ -30,7 +30,7 @@ Purpose of sensors and connectivity:
      Raspberry Pi  4 undertakes the vital role of processing the acceleration data. In this symphony of components and signals, our system functions harmoniously, 
      offering valuable insights into acceleration forces and signaling through the LED.
    
-4. Sound Sensor(LM393):-
+5. Sound Sensor(LM393):-
    - Our sound sensor is dedicated to capturing audio data and assessing noise levels, specifically tracking instances of infant crying or loud noises.
    - The Baby Health Monitor's connectivity setup seamlessly unites vital hardware components to ensure precise sound monitoring. The LM393 sensor serves as the 
      primary data source, capturing sound levels and converting them into electrical signals. This sensor is intricately linked to the Raspberry Pi, acting as the 
