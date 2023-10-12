@@ -1,9 +1,9 @@
 # Hardware Connectivity Status Update
 ## Recent and current progress
-We are utilizing four distinct sensors: the Temperature sensor (TEMP006), Pulse Oximetry sensor (MAX30102), Accelerometer sensor (ADXL345), and Sound sensor (LM393). These sensors are each integrated with their individual PCBs and Raspberry Pis for seamless data collection and processing.
+We are utilizing four distinct sensors: the Temperature sensor (TMP006), Pulse Oximetry sensor (MAX30102), Accelerometer sensor (ADXL345), and Sound sensor (LM393). These sensors are each integrated with their individual PCBs and Raspberry Pis for seamless data collection and processing.
 
 Purpose of sensors and connectivity:
-1. Temperature Sensor (TEMP006):-
+1. Temperature Sensor (TMP006):-
    - This sensor is primarily employed for measuring temperature. In our project, we utilize it to monitor the body temperature of infants.
    - The setup employs the TMP006 temperature sensor, a Raspberry Pi, an LED, a transistor, and resistors for a cohesive system. The TMP006 derives power from the 
      Raspberry Pi's 3.3V supply and connect to its ground. It exchanges data via GPIO2 (SDA) and GPIO3 (SCL). Optionally, it can trigger temperature alerts via 
