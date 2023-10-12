@@ -44,15 +44,12 @@ Future Integration:
 Our future plans involve consolidating all these sensors onto a single PCB. This integrated PCB will serve as the central data collection hub, connecting to Firebase for real-time data transmission to a mobile application. This unified approach will enhance the efficiency and usability of our monitoring system.
 
 ## Problems and hyperlinks/URLs to potential solutions
-1: Connecting the sensors to the database.
+1. Connecting the sensors to the database.
 2. Updating the app graphs using Firebase readings every x seconds, where x is decided by the user.
 
 Solutions discovered so far (yet to be tried and tested): -
-
-1.
-https://community.appinventor.mit.edu/t/raspberry-pi-firebase-turn-led-on-off-get-status-of-a-pushbutton-slider-servo/45144
+1. https://community.appinventor.mit.edu/t/raspberry-pi-firebase-turn-led-on-off-get-status-of-a-pushbutton-slider-servo/45144
 https://www.cytron.io/tutorial/send-data-to-firebase-using-raspberry-pi
-
 2. https://firebase.google.com/docs/database/admin/retrievedata#:~:text=Asynchronous%20listeners%3A%20Data%20stored%20in,several%20different%20types%20of%20events.
 
 
