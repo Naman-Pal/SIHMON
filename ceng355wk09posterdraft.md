@@ -31,4 +31,4 @@ Be careful of spelling, punctuation and grammar. You are trying to impress poten
 /1 Design file in repository, photo in report.
 
 ## Capstone Showcase
-- Friday April 21st 11:30am-3pm first floor of BCTI -> [2019 Video on YouTube](https://www.youtube.com/watch?v=4B__Qo85ZoU), [ad free video link (expires)](https://video.link/w/4B__Qo85ZoU)
+- Week 14 during class time, likely on the first floor of BCTI -> [2019 Video on YouTube](https://www.youtube.com/watch?v=4B__Qo85ZoU), [ad free video link (expires)](https://video.link/w/4B__Qo85ZoU)
