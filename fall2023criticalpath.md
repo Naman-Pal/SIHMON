@@ -15,8 +15,8 @@ Fall 2023 Class Schedule (Tentative)
 |6   |2023-10-12|Hardware/Firmware, Database, and Mobile App Independent Demonstration, all parts should work independently|5 Connectivity Status|
 |7   |2023-10-19|KiCad, Laser cutting, 3D Printing continued                                                               |10                   |
 |    |2023-10-26|*Reading Week, No Class Scheduled*                                                                        |                     |
-|8   |2023-11-02|Poster Draft, unit and production testing (November 3 Midterm Grades Due)                                 |5                    |
-|9   |2023-11-09|Enclosure and integration status                                                                          |5                    |
+|8   |2023-11-02|Enclosure and Integration status (November 3 Midterm Grades Due)                                          |5                    |
+|9   |2023-11-09|Poster Draft, unit and production testing                                                                 |5                    |
 |10  |2023-11-16|Report Checklist                                                                                          |5                    |
 |11  |2023-11-23|Presentation due, preliminary demonstrations                                                              |5                    |
 |12  |2023-11-30|Troubleshooting, Project Demonstration                                                                    |5                    |
