@@ -15,6 +15,7 @@
 
 ## Enclosure grading
 - In class Thursday November 2nd
+  
 /1 Safety/Hardware present?   
 /1 Case encloses development platform (Raspberry Pi) and custom PCB.   
 /1 Appropriate parts securely attached.   
