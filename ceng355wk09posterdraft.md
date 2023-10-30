@@ -1,13 +1,14 @@
 # CENG 355 Week 09 Poster Draft
 
-**Please note that Poster Draft is being moved to week 9. 
-Enclosure printing is now the deliverable for week 8. **
+## Reminder
+- Please note that Poster Draft is being moved to week 9.   
+- Enclosure printing is now the deliverable for week 8.   
 
 ## Weekly checks for every student:
 - [ ] Present in person in a safe manner for the duration of the class: glasses, no food/drink, etc.
 - [ ] Hardware and any other project equipment present.
 
-## Poster Draft due Friday November 10 2023 at 11pm
+## This Class - Poster Draft due Friday November 10 2023 at 11pm
 **Poster hints and tips.**
 Reuse text that you have from the proposal and other submissions as the basis of your poster content.
 Be careful of spelling, punctuation and grammar. You are trying to impress potential partners. The ability to write clearly and consisely is a key skill, especially in the technology space where jargon and acornyms are used generously. 
@@ -30,5 +31,3 @@ Be careful of spelling, punctuation and grammar. You are trying to impress poten
 /1 Appropriate parts accessible.   
 /1 Design file in repository, photo in report.
 
-## Capstone Showcase
-- Week 14 during class time, likely on the first floor of BCTI -> [2019 Video on YouTube](https://www.youtube.com/watch?v=4B__Qo85ZoU), [ad free video link (expires)](https://video.link/w/4B__Qo85ZoU)
