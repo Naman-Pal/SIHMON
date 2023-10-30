@@ -2,7 +2,7 @@
 
 
 **Reminder - Why we are here at Humber College**
-Remember that we are all on the figurative bus to the skills competition (job search) where, after completing 5.5 semesters, this is indeed where you belong and are able to say:
+- Remember that we are all on the figurative bus to the skills competition (job search) where, after completing 5.5 semesters, this is indeed where you belong and are able to say:
 1. I belong in this academic community.
 2. My ability and competence grow with my effort.
 3. I can succeed at this.
