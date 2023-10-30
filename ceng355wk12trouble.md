@@ -4,7 +4,9 @@
 - [ ] Present in person in a safe manner for the duration of the class: glasses, no food/drink, etc.
 - [ ] Hardware and any other project equipment present.
 
-## Presentations
+## This Class
+
+### Presentations
 - Expected to present or be troubleshooting to be ready for next class.   
 
 /4 Explain each sensor/effector   
@@ -13,7 +15,7 @@
 /4 Database interaction with each sensor/effector   
 /4 Mobile application interaction with each sensor/effector   
 
-## Technical Reports
+### Technical Reports
 Final technical report submitted for assessment
 Due date Friday December 1st 6pm. 
 Grading will start Saturday December 2nd, and result will be visible to students by the next class on 7 December.
