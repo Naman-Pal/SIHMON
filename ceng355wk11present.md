@@ -1,12 +1,13 @@
 # CENG 355 Week 11 Troubleshooting
 
+## Reminder
 - First 20 minutes of class: complete SFQ.
 
 ## Weekly checks for every student:
 - [ ] Present in person in a safe manner for the duration of the class: glasses, no food/drink, etc.
 - [ ] Hardware and any other project equipment present.
 
-## Draft Report
+## This Class - Draft Report
 - Update in Github, first opportunity to submit a good draft version for review
 - We will review draft report and provide feedback comments in Git Hub
 
@@ -18,10 +19,10 @@ Additional Guidance for the report
 - Suggest you have 1 peer reviewer for each section to ensure consistency and accuracy
 - Remember to use the 3 checklists reviewed earlier to guide the report delivery. 
   
-## Presentations
+### Presentations
 - PPT and pdf due, first opportunity to present.   
 
-## troubleshooting.md due next class
+## Next Class troubleshooting.md due
 /1 Present in person in a safe manner for the duration of the class: glasses, no food/drink, etc.   
 /2 Hardware and any other project equipment present.   
 /1 Problems identified and described in troubleshooting.md   
