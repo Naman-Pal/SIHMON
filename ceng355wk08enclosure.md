@@ -20,7 +20,8 @@
 /1 Appropriate parts accessible for maintainability.   
 /1 Design file in repository, photo(s) in report.
 
-## Report and Mechanics Checklist due Friday 3rd November 2023 at 11pm
+## Report and Mechanics Checklist 
+- due Friday 3rd November 2023 at 11pm
 - [Technology Report Guidelines numbered pages pages 11-13, pdf pages 12-14](https://www.oacett.org/getmedia/bd3d7225-0236-49f0-a6c5-8589d44ff7cf/2022_TR_Guidelines_-_Updated_Version_-_Sept_2022.pdf.aspx).
 
   Please study the checklists in section 10 : Technology Report Evaluation carefully. There are 3 in total.
