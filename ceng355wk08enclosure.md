@@ -13,7 +13,8 @@
 - [ ] Present in person in a safe manner for the duration of the class: glasses, no food/drink, etc.
 - [ ] Hardware and any other project equipment present.
 
-## Enclosure grading - In class Thursday November 2nd
+## Enclosure grading
+- In class Thursday November 2nd
 /1 Safety/Hardware present?   
 /1 Case encloses development platform (Raspberry Pi) and custom PCB.   
 /1 Appropriate parts securely attached.   
