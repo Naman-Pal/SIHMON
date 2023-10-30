@@ -6,7 +6,8 @@
 - Explore other groups' projects.   
 - Be able to demo to those walking around.   
 
-## Advanced Manufacturing Capstone Showcase Coordinator (a mechanical Professor) says (edited): 
-- The show timing as it was announced is from 1:00pm to 4:00pm. However, we need to be there earlier to do the set up. The first-floor tables will be in the BCTI in the morning of Friday April 21st. 
-- I will send you the final layout on Tuesday. It's better to go there a day or two before the show to identify your area, pay attention to the power supply on the first floor as it is limited. Please ask each one of your groups to bring an extension cord with more than one outlet and label it with their names.
-- When the show ends, they have to pack up and clean the area before they leave and take their projects and posters home.
+## Advanced Manufacturing Capstone Showcase: 
+- Typically in April, however as we are a co-op section completing our program in December we will have our showcase on December 14th.
+- The show timing is from 3:30pm to 6:00pm. However, we need to be there earlier (3:20pm) to do the set up. The first-floor tables will be in the BCTI are often there the morning of. 
+- It is best to go there a day or two before the show to identify your area, pay attention to the power supply on the first floor as it is limited. Please ask each one of your groups to bring an extension cord with more than one outlet and label it with their names.
+- When the show ends, students are to pack up and clean the area before they leave and take their projects and posters home.
