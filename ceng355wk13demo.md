@@ -1,10 +1,10 @@
 # CENG 355 Week 13 Demonstration
 
-## Presentations
+## This Class - Presentations
 - Last opportunity to present.   
 - Work on getting poster ready.
 
-## Next class
+## Next Class
 /5 Poster updated as per feedback   
 /5 Enclosure, hardware, and mobile application on physical phone   
 /5 Exploring classmates' projects and explaining yours to them   
