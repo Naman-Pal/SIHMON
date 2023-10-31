@@ -9,11 +9,14 @@
 ### Presentations
 - Expected to present or be troubleshooting to be ready for next class.   
 
-/4 Explain each sensor/effector   
-/4 Hardware and enclosure   
-/4 Functionality of each sensor/effector   
-/4 Database interaction with each sensor/effector   
-/4 Mobile application interaction with each sensor/effector   
+The recommended structure for the presentation is as follows
+Explain and be able to demonstrate
+
+- The functionality of each sensor/effector
+- The hardware and enclosure   
+- How the database interacts with eash sensor and effector
+- The database architecture and design 
+- Mobile application interaction with the database and / or each sensor and effector   
 
 ### Technical Reports
 Final technical report submitted for assessment
