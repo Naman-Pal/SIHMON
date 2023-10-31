@@ -19,9 +19,9 @@ Fall 2023 Class Schedule (Tentative)
 |9   |2023-11-09|Poster Draft, unit and production testing                                                                 |Nov. 10, Poster 5    |
 |10  |2023-11-16|Report Checklist                                                                                          |Nov. 17, Checklists 5|
 |11  |2023-11-23|Presentation due, preliminary demonstrations                                                              |Nov. 23, Slides 5    |
-|12  |2023-11-30|Troubleshooting, Project Demonstration                                                                    |Nov. 30, 5           |
-|13  |2023-12-07|Group Final Presentation/Poster                                                                           |Dec. 7, Presentation 20|
-|14  |2023-12-14|Capstone Showcase                                                                                         |Dec. 14, Demonstration 20|
+|12  |2023-11-30|Troubleshooting, Project Demonstration                                                                    |Nov. 30, Demonstration 10|
+|13  |2023-12-07|Group Final Presentation/Poster                                                                           |Dec. 7, Report/Presentation 25|
+|14  |2023-12-14|Capstone Showcase                                                                                         |Dec. 14, Showcase 10 |
 |    |          |                                                                                                          |**100**              |
 
  
