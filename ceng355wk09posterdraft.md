@@ -17,7 +17,7 @@ Be careful of spelling, punctuation and grammar. You are trying to impress poten
 -- SUMMARISED bullet points - each point preferably one line, maximum two lines. First 2-3 words of each bullet may act as header to convey the subject of the bullet. **Bold them ** for emphaisis.   
 -- LEGIBLE - choose large enough font size. Should be comfortably readable by someone about 50-100cm away.   
 -- DIAGRAMS - a picture is worth a thousand words. A well thought out and briefly notated diagram can vastly aid understanding.   
--- TABLES - are good at presenting data 2-5 columns max, 5-8 rows max. Again resist the remptation for high density of infomation - less is more.  
+-- TABLES - are good at presenting data 2-5 columns max, 5-8 rows max. Again resist the temptation for high density of infomation - less is more.  
 
 - [Poster Template](https://github.com/PrototypeZone/ceng355wk05hardwareconnstatus/blob/main/HUM_Poster_Template.pptx), upload updated pptx AND a pdf version.
 - Example [GreenSense](https://github.com/ryanmcadie/GreenSense/blob/4c6248bee2d33b034694df6a5dcf572f0dbefccd/Presentations/GreenSensePoster.pptx.pdf).
