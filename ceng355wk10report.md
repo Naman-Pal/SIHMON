@@ -7,7 +7,7 @@
 - [ ] Present in person in a safe manner for the duration of the class: glasses, no food/drink, etc.
 - [ ] Hardware and any other project equipment present.
 
-## This Class - Report Mechanics and Structure
+## This class - Report Mechanics and Structure
 Discussion of checklist and next steps.  
 
 ### Report and Mechanics Checklist 
@@ -27,8 +27,8 @@ Please study the checklists in section 10 : Technology Report Evaluation careful
 /1 Checklist truthful   
 /1 Valid Comments   - This for your team to ask questions and provide feedback about the report structure and content. 
 
-## Next Class - Powerpoint Slides and pdf due - week 11 - 23 November
-Please save PPT and PDF in non-updateable format in the submisision
+## Next class - Powerpoint Slides and pdf due - week 11 - 23 November
+- Please save PPT and PDF in non-updateable format in the submisision
 
 /1 Hardware slide with 4 sensors/effectors   
 /1 Database slide   
