@@ -4,7 +4,7 @@
 - [ ] Present in person in a safe manner for the duration of the class: glasses, no food/drink, etc.
 - [ ] Hardware and any other project equipment present.
 
-## This Class
+## This class
 
 ### Presentations
 - Expected to present or be troubleshooting to be ready for next class.   
