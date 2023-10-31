@@ -7,7 +7,9 @@
 - [ ] Present in person in a safe manner for the duration of the class: glasses, no food/drink, etc.
 - [ ] Hardware and any other project equipment present.
 
-## This Class - Draft Report
+## This class - Draft Report, Presentations
+
+### Draft Report
 - Update in Github, first opportunity to submit a good draft version for review
 - We will review draft report and provide feedback comments in Git Hub
 
@@ -20,9 +22,9 @@ Additional Guidance for the report
 - Remember to use the 3 checklists reviewed earlier to guide the report delivery. 
   
 ### Presentations
-- PPT and pdf due, first opportunity to present.   
+- PPT and pdf due today Thursday November 23, first opportunity to present.   
 
-## Next Class troubleshooting.md due
+## Next class troubleshooting.md due
 /1 Present in person in a safe manner for the duration of the class: glasses, no food/drink, etc.   
 /2 Hardware and any other project equipment present.   
 /1 Problems identified and described in troubleshooting.md   
