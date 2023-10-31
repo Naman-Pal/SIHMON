@@ -15,13 +15,13 @@ Fall 2023 Class Schedule (Tentative)
 |6   |2023-10-12|Hardware/Firmware, Database, and Mobile App Independent Demonstration, all parts should work independently|5 Connectivity Status|
 |7   |2023-10-19|KiCad, Laser cutting, 3D Printing continued                                                               |10                   |
 |    |2023-10-26|*Reading Week, No Class Scheduled*                                                                        |                     |
-|8   |2023-11-02|Enclosure and Integration status (November 3 Midterm Grades Due)                                          |5                    |
-|9   |2023-11-09|Poster Draft, unit and production testing                                                                 |5                    |
-|10  |2023-11-16|Report Checklist                                                                                          |5                    |
-|11  |2023-11-23|Presentation due, preliminary demonstrations                                                              |5                    |
-|12  |2023-11-30|Troubleshooting, Project Demonstration                                                                    |5                    |
-|13  |2023-12-07|Group Final Presentation/Poster                                                                           |20                   |
-|14  |2023-12-14|Capstone Showcase                                                                                         |20                   |
+|8   |2023-11-02|Enclosure and Integration status (November 3 Midterm Grades Due)                                          |Nov. 2, Case 5       |
+|9   |2023-11-09|Poster Draft, unit and production testing                                                                 |Nov. 10, Poster 5    |
+|10  |2023-11-16|Report Checklist                                                                                          |Nov. 17, Checklists 5|
+|11  |2023-11-23|Presentation due, preliminary demonstrations                                                              |Nov. 23, Slides 5    |
+|12  |2023-11-30|Troubleshooting, Project Demonstration                                                                    |Nov. 30, 5           |
+|13  |2023-12-07|Group Final Presentation/Poster                                                                           |Dec. 7, 20           |
+|14  |2023-12-14|Capstone Showcase                                                                                         |Dec. 14, 20          |
 |    |          |                                                                                                          |**100**              |
 
  
