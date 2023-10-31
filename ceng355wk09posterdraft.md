@@ -8,7 +8,7 @@
 - [ ] Present in person in a safe manner for the duration of the class: glasses, no food/drink, etc.
 - [ ] Hardware and any other project equipment present.
 
-## This Class - Poster Draft due Friday November 10 2023 at 11pm
+## This class - Poster Draft due Friday November 10 2023 at 11pm
 **Poster hints and tips.**
 Reuse text that you have from the proposal and other submissions as the basis of your poster content.
 Be careful of spelling, punctuation and grammar. You are trying to impress potential partners. The ability to write clearly and consisely is a key skill, especially in the technology space where jargon and acornyms are used generously. 
@@ -24,10 +24,6 @@ Be careful of spelling, punctuation and grammar. You are trying to impress poten
 - Unit testing -> consider testing each component separately.
 - Production testing -> consider what you would testing if a thousand came off an assembly line before sending them to customers.
 
-## Next Class - Enclosure grading
-/1 Safety/Hardware present?   
-/1 Case encloses development platform and custom PCB.   
-/1 Appropriate parts securely attached.   
-/1 Appropriate parts accessible.   
-/1 Design file in repository, photo in report.
+## Next class - Enclosure grading
+- Report checklists
 
