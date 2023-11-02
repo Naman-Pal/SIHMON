@@ -1,13 +1,14 @@
-# CENG 355 Week 12 Troubleshooting
+# CENG 355 Week 12 Troubleshooting, Project Demonstration
 
 ## Weekly checks for every student:
 - [ ] Present in person in a safe manner for the duration of the class: glasses, no food/drink, etc.
 - [ ] Hardware and any other project equipment present.
 
 ## This class
-This class will provide time for you to be able to actually do your presentation and demonstration, and / or continue to troubleshoot issues. 
-If your team is ready to present then you should plan to do so to gain feedback. 
-If you need some more time to troubleshoot that is fine, but you must be ready to with final presentation and associated demo for week 13. 
+Project functionality demonstration /10.   
+This class will provide time for you to be able to actually do your presentation and demonstration, and continue to troubleshoot issues.   
+If your team is ready to present then you should plan to do so to gain feedback.   
+You must be ready to with final presentation for week 13.   
 
 ### Presentations
 The recommended structure for the presentation is as follows
