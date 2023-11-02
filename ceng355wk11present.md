@@ -24,8 +24,5 @@ Additional Guidance for the report
 ### Presentations
 - PPT and pdf due today Thursday November 23, first opportunity to present.   
 
-## Next class troubleshooting.md due
-/1 Present in person in a safe manner for the duration of the class: glasses, no food/drink, etc.   
-/2 Hardware and any other project equipment present.   
-/1 Problems identified and described in troubleshooting.md   
-/1 Solution approach identified in troubleshooting.md   
+## Next class
+Project functionality demonstration /10.
