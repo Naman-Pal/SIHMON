@@ -1,4 +1,4 @@
-# CENG 355 Week 11 Troubleshooting
+# CENG 355 Week 11 Presentation due, preliminary demonstrations
 
 ## Reminder
 - First 20 minutes of class: complete SFQ.
