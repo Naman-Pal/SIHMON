@@ -2,14 +2,14 @@
 Title Page (1st odd page not numbered, X.0 sections begin on odd pages, otherwise double sided and numbered)  
 ## Declaration of Joint Authorship   
 
-**Table of Contributions**
+#Table of Contributions
 
 You will notice from the OACETT Gudelines page 3 and 4 and from the PowerPoint presnetation Joint Declaration Directions https://learn.humber.ca/ultra/courses/_235686_1/outline/file/_17191432_1 that a table is required decribing how each team members contributed to each major section of the document. This can be done at either the Heading 1 and / or Heading 2 level. This must be on a seperate page above the joint decalaration statements. 
 
 - Heading 1 : the major sections e.g. 1.0 Introduction, 2.0 Hardware Development Platformn Report, etc
 - Heading 2 : the level 1 subsections e.g, 1.1, 1.2, 1.3, 2.1, 2.2.
 
-**Declarations**
+# Declarations
 
 I, Naman Pal, confirm that this breakdown of authorship represents my contribution to the work submitted for assessment and my contribution is my own work and is expressed in my own words. Any uses made within the Technology Report of the works of any other author, separate to the work group, in any form (ideas, equations, figures, texts, tables, programs), are properly acknowledged at the point of use. A list of the references used is included.
 
