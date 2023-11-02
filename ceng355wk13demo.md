@@ -5,7 +5,7 @@
 - Work on getting poster ready.
 
 ## Next class
-/5 Poster updated as per feedback   
-/5 Enclosure, hardware, and mobile application on physical phone   
-/5 Exploring classmates' projects and explaining yours to them   
-/5 Always on demonstration   
+/2.5 Poster updated as per feedback   
+/2.5 Enclosure, hardware, and mobile application on physical phone   
+/2.5 Exploring classmates' projects and explaining yours to them   
+/2.5 Always on demonstration   
