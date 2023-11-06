@@ -20,11 +20,14 @@ There are 25 total marks available for the presentation and final report.
 - Final Report - 10  marks  
 
 ### Presentations - Final Version due week 13
-The grading will be based on   
+Each Team will have approximately 15 minutes to both present and demonstrate their solution   
+The grading will be based on    
 - the content of the slides
-- how well you orally present the material
-- how well the demonstration is coordinated with both the content and the 
+- how well you orally present the presenttaion material
+- how well the demonstration is coordinated with the content in the presentation
 
+Marks will be awarded as follows   
+   
 - /2 The functionality of each sensor/effector
 - /2 The hardware and enclosure   
 - /2 How the database interacts with each sensor and effector
@@ -34,11 +37,11 @@ The grading will be based on
 - /2 the effectiveness of the demonstration 
 
 ### Technical Reports - Due Week 13
-The technical report is to be completed according to the OACETT guidelines, and the ceng355report.md template. 
+The technical report is to be completed according to the OACETT guidelines, and the ceng355report.md template.   
 
-The technical report content can include content from or links to the work done earlier in this course and the precursor courses. 
-The teams should NOT have to reproduce all this work. You have effectively been developing the technical report content during the project.
-However if the application or hardware has changed then you may need to update and resubmit these documents if you link out to them. 
+The technical report content can include content from or links to the work done earlier in this course and the precursor courses.   
+The teams should NOT have to reproduce all this work. You have effectively been developing the technical report content during the project.   
+However if the application or hardware has changed then you may need to update and resubmit these documents if you link out to them.   
 
 - /1 Executive Summary and linked proposal
 - /1 Joint declaration division of labour table and actual declarations themselves
@@ -47,8 +50,8 @@ However if the application or hardware has changed then you may need to update a
 - /1 Section 2: Hardware Development Platform
 - /1 Section 3: Mobile Application Report
 - /1 Section 4: Integration
-- /2 Section 5: Results and Discussion
-- /1 Section 6: Conclusions
+- /1 Section 5: Results and Discussion
+- /2 Section 6: Conclusions
 
 #### Reuse material
 Thus content developed in this course and the precursor courses can be reused or linked to in the relevant sections.
@@ -59,8 +62,8 @@ Thus content developed in this course and the precursor courses can be reused or
 - Gannt Chart - you can include links to the GitHub Project and its associated milestones and issues that you have been maintaining throughout CENG355. 
 - The Poster / presentation produced in CENG355
 - The troubleshooting report and other CENG355 progress reports
-- mobile deliverables - The mobile application report(s) produced in the CENG322 Software Project
-- Hardware deliverables - The hardware reports produced in the CENG317 Hardware Production Technology course
+- mobile deliverables - The mobile application report(s) produced in the CENG322 Software Project. If you have made changes during the timeline of CENG355 please link an updated document. 
+- Hardware deliverables - The hardware reports produced in the CENG317 Hardware Production Technology course. Be careful to update your bill of materials. include reference to your 3D printed and laser cut parts built in this course. 
 
 #### New Material
 You will need to produce some original material. The key sections that will contain new material be the results, conclusions and associated recommendations. 
@@ -73,5 +76,7 @@ You will need to produce some original material. The key sections that will cont
 #### Joint Declaration - Table of Contributions
 You will notice from the OACETT Guidelines page 3 and 4 and from the PowerPoint presentation Joint Declaration Directions https://learn.humber.ca/ultra/courses/_235686_1/outline/file/_17191432_1 that a table is required describing how each team members contributed to each major section of the document. This can be done at either the Heading 1 and / or Heading 2 level. This must be on a separate page above the joint declaration statements. 
 
-- Heading 1 : the major sections e.g. 1.0 Introduction, 2.0 Hardware Development Platform Report, etc.
-- Heading 2 : the level 1 subsections e.g., 1.1, 1.2, 1.3, 2.1, 2.2.
+- Sections : the major sections e.g. 1.0 Introduction, 2.0 Hardware Development Platform Report, etc.
+- Sub Sections : the level 1 subsections e.g., 1.1, 1.2, 1.3, 2.1, 2.2.
+
+Use subsections if you feel you need to add more clarity on who did what.
