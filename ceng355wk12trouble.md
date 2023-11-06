@@ -13,7 +13,7 @@ If your team is ready to present then you should plan to do so to gain feedback.
 
 ## Next Class
 All teams will be required to present and submit the final technical report in week 13 (December 7 2023).
-This final presentation and technocal report will be graded.
+This final presentation and technical report will be graded in week 13.
 There are 25 total marks available for the presentation and final report.
 
 - Final Presentation with demonstration - 15 marks   
