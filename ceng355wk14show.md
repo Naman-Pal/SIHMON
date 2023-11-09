@@ -19,3 +19,4 @@
 
 ## Next steps
 - Hopefully you are done and working on something like [your career](https://careers.humber.ca/student-careerconnect.php).
+- Consider posting your project to: https://appliedtechnology.humber.ca/shows/past-shows/advanced-manufacturing-projects/advanced-manufacturing-student-submission-form.html   
