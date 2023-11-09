@@ -24,6 +24,6 @@ Be careful of spelling, punctuation and grammar. You are trying to impress poten
 - Unit testing -> consider testing each component separately.
 - Production testing -> consider what you would testing if a thousand came off an assembly line before sending them to customers.
 
-## Next class - Enclosure grading
+## Next class
 - Report checklists
 
