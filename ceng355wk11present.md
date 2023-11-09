@@ -22,12 +22,12 @@ Additional Guidance for the report
 - Remember to use the 3 checklists reviewed earlier to guide the report delivery. 
   
 ### Presentations
-- PPT and pdf due today Thursday November 23, first opportunity to demonstrate.
-/1 Hardware slide with 4 sensors/effectors
-/1 Database slide
-/1 Mobile application slide
-/1 Demonstration setup slide
-/1 Actual demonstration slide
+- PPT and pdf due today Thursday November 23, first opportunity to demonstrate.   
+/1 Hardware slide with 4 sensors/effectors   
+/1 Database slide   
+/1 Mobile application slide   
+/1 Demonstration setup slide   
+/1 Actual demonstration slide   
 
 ## Next class
 Project functionality demonstration /10.
