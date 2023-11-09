@@ -23,7 +23,7 @@ There are 25 total marks available for the presentation and final report.
 Each Team will have approximately 15 minutes to both present and demonstrate their solution   
 The grading will be based on    
 - the content of the slides
-- how well you orally present the presenttaion material
+- how well you orally present the presentation material
 - how well the demonstration is coordinated with the content in the presentation
 
 Marks will be awarded as follows   
@@ -54,15 +54,15 @@ However if the application or hardware has changed then you may need to update a
 - /2 Section 6: Conclusions
 
 #### Reuse material
-Thus content developed in this course and the precursor courses can be reused or linked to in the relevant sections.
+The content developed in this course and the precursor courses can be reused or linked to in the relevant sections.
 
 - Executive Summary from the proposal produced during CENG355
 - Declaration of authorship (include an updated table of contributions and the declarations)
 - The OACETT Report Checklists produced during CENG355
-- Gannt Chart - you can include links to the GitHub Project and its associated milestones and issues that you have been maintaining throughout CENG355. 
+- Gantt Chart - you can include links to the GitHub Project and its associated milestones and issues that you have been maintaining throughout CENG355. 
 - The Poster / presentation produced in CENG355
 - The troubleshooting report and other CENG355 progress reports
-- mobile deliverables - The mobile application report(s) produced in the CENG322 Software Project. If you have made changes during the timeline of CENG355 please link an updated document. 
+- Mobile deliverables - The mobile application report(s) produced in the CENG322 Software Project. If you have made changes during the timeline of CENG355 please link an updated document. 
 - Hardware deliverables - The hardware reports produced in the CENG317 Hardware Production Technology course. Be careful to update your bill of materials. include reference to your 3D printed and laser cut parts built in this course. 
 
 #### New Material
