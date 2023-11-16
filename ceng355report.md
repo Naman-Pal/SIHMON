@@ -100,7 +100,14 @@ We have designed SIHMON (Smart Infant Health MONitor) for parents with babies, e
 
 ## 1.0 Introduction   
 ### 1.1 Background   
+Our vision is to provide parents/caregivers, a convenient way to monitor their infant’s health in real-time. With the baby wearing the bracelet, parents can not only track their baby's critical health metrics but also receive alerts if the metrics cross a certain threshold. Inspired by the increasing deaths worldwide caused by SIDS (Sudden Infant Death Syndrome), we created SIHMON (Smart Infant Health MONitor). SIHMON will revolutionize the Healthcare Industry. The app provides a user-friendly interface to view the data, understand trends, and share information with healthcare professionals. Even non-technical caregivers can easily navigate our app. Ultimately, we aim to help parents/caregivers ensure their baby's well-being and give them peace of mind. 
+
 ### 1.2 Project Requirements and Specifications   
+#### 1.2.1 Hardware Requirements: -
+- Raspberry Pi
+- The 4 sensors: adxl345 (accelerometer), tmp006 (temperature), max30102 (pulse and oximeter), lm393 (sound)
+- PCB (created for SIHMON by BioBytes)
+- Encasing for the hardware (created for SIHMON by BioBytes)
 ### 1.3 Project Schedule   
 Insert Gantt Chart
 - Milestone Level is sufficient
