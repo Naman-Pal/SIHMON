@@ -3,7 +3,7 @@ This section evaluates the structure, formatting and writing techniques used in 
 Fulfillment of this criteria leads to a TR that looks professional, is easy to read and is
 representative of the formatting standards of the industry. Here is a simple footnote[^1].
 
-[^1]: Technology Report Guidelines. OACETT, Revised June 2022. Available at: https://www.oacett.org/getmedia/bd3d7225-0236-49f0-a6c5-8589d44ff7cf/2022_TR_Guidelines_-_Updated_Version_-_Sept_2022.pdf.aspx
+[^1]: Technology Report Guidelines. OACETT, Revised September 2022. Available at: https://www.oacett.org/getmedia/5ad707d7-f472-4b24-a7fe-f34e270b0c41/2022_TR_Guidelines_-_Updated_Version_-_Sept_2022.pdf
 
 
 - [ ] 1. Does the Title, in ten words or less, inform readers of the precise subject matter
