@@ -1,4 +1,4 @@
-# CENG 355 Project Name
+# CENG 355: Smart Infant Health MONitor (SIHMON)
 Title Page (1st odd page not numbered, X.0 sections begin on odd pages, otherwise double sided and numbered)  
 
 ## Declaration of Joint Authorship   
@@ -21,7 +21,11 @@ I, Eshan Salwan, confirm that this breakdown of authorship represents my contrib
 ## Proposal/Project Specifications   
 [Link to proposal](ceng355wk01proposal.md).   
 ## Executive Summary   
-Insert from proposal.     
+We have designed SIHMON (Smart Infant Health MONitor) for parents with babies, especially with health complications like SIDS (Sudden Infant Death Syndrome). SIHMON consists of 2 key components. 
+- A BioSensor bracelet, which the baby wears.
+- An Android app, which analyzes the baby’s health using the data from the bracelet.
+
+ The bracelet monitors the infant’s health using sensors like heart rate, oxygen levels, body temperature, movement, and surrounding sound. The bracelet is connected to the Android app through Firebase (back-end). The app displays this health data, analyzes it, and provides insights into the infant’s health based on the analysis to the parent/caregiver.
 
 ## Table of Contents
 
