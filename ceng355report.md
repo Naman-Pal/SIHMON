@@ -162,7 +162,28 @@ Insert Gantt Chart
 ### 4.7 Solutions   
 
 ## 5.0 Results and Discussion   
-### 5.1
+### 5.1 Research on Infant-Health Worldwide
+There are several 
+- SIDS: Sudden Infant Death Syndrome
+  SIDS is the leading cause of death in infants between one month and one year of age in the United States alone, where approximately 2500 children per year die as a result of SIDS.
+- Gastrointestinal issues
+- Congenital heart diseases
+- Respiratory infections
+  Babies commonly develop respiratory infections under the age of 5. If not diagnosed and monitored properly, they lead to lifelong respiratory complications, limiting the baby's ability for physical activities, and hence deeply affecting their futures. Not just that, respiratory infections cause 5.02 deaths per 1000 live births in the US alone. 
+- Prematurely born babies
+
+### 5.2 Similar products available in the market
+There have been similar attempts at making health monitors, bracelets, and infant care devices. However, SIHMON brings a fresh approach. The idea of making SIHMON as a bracelet was inspired by the Apple Smart Watch. Previous attempts at monitoring the baby's health include cameras, temperature, and sleep quality monitors. However, these focus mostly on external agents. SIHMON focuses on monitoring the baby's health itself, and not the environment the baby is in. It is tailored for infants and babies with health complications.
+
+Some previously implemented projects include: -
+#### 5.2.1 Apple SmartWatch
+Link to product: https://www.bestbuy.ca/en-ca/product/apple-watch-series-9-gps-45mm-midnight-aluminium-case-with-midnight-sport-band-medium-large-160-210mm/17278985
+
+Description: Offers mobile phone features like calling, texting, voice assistants, and time on the smartwatch. Includes added features like heart rate monitoring and calories-burnt counting.
+#### 5.2.1 Owlet Dream Duo with Camera
+Link to product: https://www.bestbuy.ca/en-ca/product/owlet-dream-duo-with-cam-2-wearable-baby-monitor-ps04nmbbj-mint-green/16370778?cmp=knc-s-71700000071826053&gad_source=1&gclid=Cj0KCQiA3uGqBhDdARIsAFeJ5r1eDRFvVe-JG9XNVT66-kG2XsYuzoVu2mWZphQhz-62qWaP-wFTgZgaAtzNEALw_wcB&gclsrc=aw.ds 
+
+Description: Monitors the baby's movements, heart rate, and sounds; streams the baby's live sleep using a camera. 
 
 ## 6.0 Conclusions   
 
@@ -173,3 +194,10 @@ Insert Gantt Chart
 Link to GitHub repository for app.
 
 ## 8.0 References   
+= https://www.uptodate.com/contents/sudden-infant-death-syndrome-sids-beyond-the-basics/print#:~:text=SIDS%20is%20the%20leading%20cause,as%20a%20result%20of%20SIDS.
+- https://www.bestbuy.ca/en-ca/product/owlet-dream-duo-with-cam-2-wearable-baby-monitor-ps04nmbbj-mint-green/16370778?cmp=knc-s-71700000071826053&gad_source=1&gclid=Cj0KCQiA3uGqBhDdARIsAFeJ5r1eDRFvVe-JG9XNVT66-kG2XsYuzoVu2mWZphQhz-62qWaP-wFTgZgaAtzNEALw_wcB&gclsrc=aw.ds
+- https://www.bestbuy.ca/en-ca/product/apple-watch-series-9-gps-45mm-midnight-aluminium-case-with-midnight-sport-band-medium-large-160-210mm/17278985
+- https://www.mayoclinic.org/diseases-conditions/sudden-infant-death-syndrome/symptoms-causes/syc-20352800#:~:text=Sudden%20infant%20death%20syndrome%20is,often%20die%20in%20their%20cribs.
+- https://kidshealth.org/en/parents/sids.html
+- https://www.childrenshospital.org/conditions/sudden-infant-death-syndrome-sids
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6325348/
