@@ -164,15 +164,17 @@ Insert Gantt Chart
 ## 5.0 Results and Discussion   
 ### 5.1 Research on Infant-Health Worldwide
 There are several 
-- SIDS: Sudden Infant Death Syndrome
+- SIDS: Sudden Infant Death Syndrome. ![Figure 2: How-to-Protect-the-child-from-SIDS](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/5795caeb-0ffc-4240-8e5a-332ec3118474)
+###### Figure 2: SIDS Poster     
+
   SIDS is the leading cause of death in infants between one month and one year of age in the United States alone, where approximately 2500 children per year die as a result of SIDS.
-- Gastrointestinal issues
+- Gastrointestinal issues: 
   It is the second leading cause of death in infants under 5 years of age. It is very common for babies to have gastrointestinal complications for a variety of reasons including diet, physical activity, and even sleep. However, common problems like diarrhea can seriously dehydrate the infant, often leading to underdeveloped organs, malnutrition, and even death. The worst part is most parents would never realize their baby's developing these complications, as this requires continuous monitoring of the baby's health, especially after meals. These often develop into bigger digestive issues as the baby grows, if not treated early. 
-- Heart Defects
+- Heart Defects: 
   About 40,000 babies are born with Heart defects each year in the US alone. Such babies are vulnerable to more serious complications like respiratory diseases, poor brain and organ development, and malnutrition. Such babies' health has to be monitored to ensure the baby's proper development, especially during the early stages of their lives.
-- Respiratory infections
+- Respiratory infections: 
   Babies commonly develop respiratory infections under the age of 5. If not diagnosed and monitored properly, they lead to lifelong respiratory complications, limiting the baby's ability for physical activities, and hence deeply affecting their futures. Not just that, respiratory infections cause 5.02 deaths per 1000 live births in the US alone. 
-- Prematurely born babies
+- Prematurely born babies: 
   An estimated 13.4 million babies were born pre-term in 2020, with nearly 1 million dying from preterm complications worldwide. It is not feasible for all parents to keep their children in the ICU for months. Monitoring such babies' sleep, heart rates, and oxygen levels during different times of the day can make all the difference. 
 
 ### 5.2 Similar products available in the market
@@ -197,7 +199,7 @@ Description: Monitors the baby's movements, heart rate, and sounds; streams the 
 Link to GitHub repository for app.
 
 ## 8.0 References   
-= https://www.uptodate.com/contents/sudden-infant-death-syndrome-sids-beyond-the-basics/print#:~:text=SIDS%20is%20the%20leading%20cause,as%20a%20result%20of%20SIDS.
+- https://www.uptodate.com/contents/sudden-infant-death-syndrome-sids-beyond-the-basics/print#:~:text=SIDS%20is%20the%20leading%20cause,as%20a%20result%20of%20SIDS.
 - https://www.bestbuy.ca/en-ca/product/owlet-dream-duo-with-cam-2-wearable-baby-monitor-ps04nmbbj-mint-green/16370778?cmp=knc-s-71700000071826053&gad_source=1&gclid=Cj0KCQiA3uGqBhDdARIsAFeJ5r1eDRFvVe-JG9XNVT66-kG2XsYuzoVu2mWZphQhz-62qWaP-wFTgZgaAtzNEALw_wcB&gclsrc=aw.ds
 - https://www.bestbuy.ca/en-ca/product/apple-watch-series-9-gps-45mm-midnight-aluminium-case-with-midnight-sport-band-medium-large-160-210mm/17278985
 - https://www.mayoclinic.org/diseases-conditions/sudden-infant-death-syndrome/symptoms-causes/syc-20352800#:~:text=Sudden%20infant%20death%20syndrome%20is,often%20die%20in%20their%20cribs.
@@ -208,4 +210,5 @@ Link to GitHub repository for app.
 - https://www.cdc.gov/ncbddd/heartdefects/facts.html#:~:text=CHDs%20are%20present%20at%20birth,formed%20parts%20of%20the%20heart).
 - https://www.marchofdimes.org/find-support/topics/planning-baby/congenital-heart-defects-and-critical-chds
 - https://www.who.int/news/item/09-05-2023-152-million-babies-born-preterm-in-the-last-decade#:~:text=An%20estimated%2013.4%20million%20babies,37%20weeks%20of%20pregnancy)%20worldwide.
+- https://www.drthindhomeopathy.com/wp-content/uploads/2021/03/How-to-Protect-the-child-from-SIDS.png
 - 
