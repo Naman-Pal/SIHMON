@@ -35,7 +35,7 @@ describe the section or subsection content?
 
 - [x] 9. Does the Body include results/data from the study?
 
-- [ ] 10. Are illustrations, tables, diagrams and charts clearly drawn, labelled and
+- [x] 10. Are illustrations, tables, diagrams and charts clearly drawn, labelled and
 Numbered?
 
 *The situation with our diagrams is...*
@@ -43,33 +43,28 @@ Numbered?
 - [ ] 11. Is each Conclusion, and if applicable, each Recommendation, stated in a
 separate paragraph and in a positive way?
 
-*The situation with our Conclusion is...*
+*The situation with our Conclusion is that is is under construction, we will soon bring future implementations of SIHMON in the conclusion*
 
-- [ ] 12. Are the References/Bibliography complete?
-
-*The situation with our References is...*
+- [x] 12. Are the References/Bibliography complete?
 
 - [ ] 13. Do the Appendices support the study?
+  * The appendix section is yet to be completed.* 
 
-*The situation with our Appendices is...*
+- [x] 14. Is the spelling correct?
+*Grammarly was used to handle spellcheck. *
 
-- [ ] 14. Is the spelling correct?
+- [x] 15. Is the language free of jargon?
+*chatGPT was used to reduce jargon. *
 
-*The situation with running a spellcheck is...*
-
-- [ ] 15. Is the language free of jargon?
-
-- [ ] 16. Is the same voice (I, one, person, etc.) used consistently throughout the
+- [x] 16. Is the same voice (I, one, person, etc.) used consistently throughout the
 Technology Report?
 
-*The situation with voice in our report is...*
+- [x] 17. Do the grammar and punctuation follow normally accepted rules of use?
 
-- [ ] 17. Do the grammar and punctuation follow normally accepted rules of use?
-
-- [ ] 18. Are thoughts and illustrations/diagrams/charts that do not belong to the writer
+- [x] 18. Are thoughts and illustrations/diagrams/charts that do not belong to the writer
 properly identified and footnoted in the text?
 
-*Identify work of others.*
+- Workload distribution: The report is primarily done by Naman Pal. The research was a combined effort of Naman and Zoyeba. The hardware and software specifics were mainly done by Eshan Salwan. 
 
 # Appendices
 
