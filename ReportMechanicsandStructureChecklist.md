@@ -61,7 +61,7 @@ Technology Report?
 - [x] 18. Are thoughts and illustrations/diagrams/charts that do not belong to the writer
 properly identified and footnoted in the text?
 
-- Workload distribution: The report is primarily done by Naman Pal. The research was a combined effort of Naman and Zoyeba. The hardware and software specifics were mainly done by Eshan Salwan. 
+- Workload distribution: The report is primarily done by Naman Pal. The research and references part was a combined effort of Naman and Zoyeba. The hardware and software specifics were mainly done by Eshan Salwan. 
 
 # Appendices
 
