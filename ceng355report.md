@@ -191,6 +191,15 @@ Link to product: https://www.bestbuy.ca/en-ca/product/owlet-dream-duo-with-cam-2
 Description: Monitors the baby's movements, heart rate, and sounds; streams the baby's live sleep using a camera. 
 
 ## 6.0 Conclusions   
+In a nutshell, SIHMON (Smart Infant Health MONitor) is more than just a tech project; it's about making a real impact in the lives of parents worldwide. With its BioSensor bracelet and user-friendly app, SIHMON offers a simple yet powerful solution to monitor infants' health, particularly addressing the concern of Sudden Infant Death Syndrome (SIDS).
+
+Picture this: a parent gets a friendly alert on their phone, prompting them to check on their baby as SIHMON detects any unusual health signs. It's not just about technology; it's about providing peace of mind in an unpredictable world.
+
+Beyond individual families, SIHMON could change how we approach healthcare. It bridges the gap between parents and healthcare professionals, making infant health a shared responsibility. The goal is a world where technology isn't a barrier, but a tool that brings people together to protect the littlest lives.
+
+Furthermore, SIHMON can be developed into much advanced solutions that can potentially save millions of lives and improve healthcare worldwide. SIHMON can be extended to be used for patients in general. Meaning that most patients that require close monitoring benefit from SIHMON, as they would not need to be admitted to the hospital to use their advanced tools for health monitoring, as it can be done easily using our product. This won't just help the users, but also free up space in the hospital, so that the room can be used for other, more serious cases.  
+
+In essence, SIHMON represents human ingenuity and care. Through SIHMON, we envision a future where parents can embrace the joys of parenthood without constant fear, and a progressive healthcare industry, accessible to all.
 
 ## 7.0 Appendix
 ### 7.1 Firmware code   
