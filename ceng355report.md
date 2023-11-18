@@ -100,7 +100,7 @@ We have designed SIHMON (Smart Infant Health MONitor) for parents with babies, e
 
 ## 1.0 Introduction   
 ### 1.1 Background   
-Our vision is to provide parents/caregivers, a convenient way to monitor their infant’s health in real-time. With the baby wearing the bracelet, parents can not only track their baby's critical health metrics but also receive alerts if the metrics cross a certain threshold. Inspired by the increasing deaths worldwide caused by SIDS (Sudden Infant Death Syndrome), we created SIHMON (Smart Infant Health MONitor). SIHMON will revolutionize the Healthcare Industry. The app provides a user-friendly interface to view the data, understand trends, and share information with healthcare professionals. Even non-technical caregivers can easily navigate our app. Ultimately, we aim to help parents/caregivers ensure their baby's well-being and give them peace of mind. 
+Our vision is to provide parents/caregivers, a convenient way to monitor their infant’s health in real-time. With the baby wearing the bracelet, parents can track their baby's critical health metrics and receive alerts if the metrics cross a certain threshold. Inspired by the increasing deaths worldwide caused by SIDS (Sudden Infant Death Syndrome), we created SIHMON (Smart Infant Health MONitor). SIHMON will revolutionize the Healthcare Industry by providing a user-friendly interface to monitor the health information of the infant, understand trends, and share information with healthcare professionals. Even non-technical caregivers can easily navigate our app. Ultimately, we aim to help parents/caregivers ensure their baby's well-being and give them peace of mind. This report dives into the development methodologies and strategies, including the software and hardware we used to bring the idea of SIHMON to reality. We have used an iterative approach to build this report.
 
 ### 1.2 Project Requirements and Specifications   
 #### 1.2.1 Hardware Requirements: -
@@ -162,6 +162,7 @@ Insert Gantt Chart
 ### 4.7 Solutions   
 
 ## 5.0 Results and Discussion   
+### 5.1
 
 ## 6.0 Conclusions   
 
