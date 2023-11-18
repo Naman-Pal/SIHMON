@@ -167,10 +167,13 @@ There are several
 - SIDS: Sudden Infant Death Syndrome
   SIDS is the leading cause of death in infants between one month and one year of age in the United States alone, where approximately 2500 children per year die as a result of SIDS.
 - Gastrointestinal issues
-- Congenital heart diseases
+  It is the second leading cause of death in infants under 5 years of age. It is very common for babies to have gastrointestinal complications for a variety of reasons including diet, physical activity, and even sleep. However, common problems like diarrhea can seriously dehydrate the infant, often leading to underdeveloped organs, malnutrition, and even death. The worst part is most parents would never realize their baby's developing these complications, as this requires continuous monitoring of the baby's health, especially after meals. These often develop into bigger digestive issues as the baby grows, if not treated early. 
+- Heart Defects
+  About 40,000 babies are born with Heart defects each year in the US alone. Such babies are vulnerable to more serious complications like respiratory diseases, poor brain and organ development, and malnutrition. Such babies' health has to be monitored to ensure the baby's proper development, especially during the early stages of their lives.
 - Respiratory infections
   Babies commonly develop respiratory infections under the age of 5. If not diagnosed and monitored properly, they lead to lifelong respiratory complications, limiting the baby's ability for physical activities, and hence deeply affecting their futures. Not just that, respiratory infections cause 5.02 deaths per 1000 live births in the US alone. 
 - Prematurely born babies
+  An estimated 13.4 million babies were born pre-term in 2020, with nearly 1 million dying from preterm complications worldwide. It is not feasible for all parents to keep their children in the ICU for months. Monitoring such babies' sleep, heart rates, and oxygen levels during different times of the day can make all the difference. 
 
 ### 5.2 Similar products available in the market
 There have been similar attempts at making health monitors, bracelets, and infant care devices. However, SIHMON brings a fresh approach. The idea of making SIHMON as a bracelet was inspired by the Apple Smart Watch. Previous attempts at monitoring the baby's health include cameras, temperature, and sleep quality monitors. However, these focus mostly on external agents. SIHMON focuses on monitoring the baby's health itself, and not the environment the baby is in. It is tailored for infants and babies with health complications.
@@ -201,3 +204,8 @@ Link to GitHub repository for app.
 - https://kidshealth.org/en/parents/sids.html
 - https://www.childrenshospital.org/conditions/sudden-infant-death-syndrome-sids
 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6325348/
+- https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease
+- https://www.cdc.gov/ncbddd/heartdefects/facts.html#:~:text=CHDs%20are%20present%20at%20birth,formed%20parts%20of%20the%20heart).
+- https://www.marchofdimes.org/find-support/topics/planning-baby/congenital-heart-defects-and-critical-chds
+- https://www.who.int/news/item/09-05-2023-152-million-babies-born-preterm-in-the-last-decade#:~:text=An%20estimated%2013.4%20million%20babies,37%20weeks%20of%20pregnancy)%20worldwide.
+- 
