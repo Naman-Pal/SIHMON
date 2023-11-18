@@ -45,8 +45,8 @@ separate paragraph and in a positive way?
 
 - [x] 12. Are the References/Bibliography complete?
 
-- [ ] 13. Do the Appendices support the study?
-  * The appendix section is yet to be completed.* 
+- [x] 13. Do the Appendices support the study?
+  * The appendix section only contains the hardware and software code, as the studies (including infant health problems and the need for SIHMON), and other relevant data (working of our hardware and software) are already a part of the report.* 
 
 - [x] 14. Is the spelling correct?
 *Grammarly was used to handle spellcheck. *
