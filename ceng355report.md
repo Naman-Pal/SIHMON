@@ -165,7 +165,7 @@ Insert Gantt Chart
 ### 5.1 Research on Infant-Health Worldwide
 There are several 
 - SIDS: Sudden Infant Death Syndrome. ![Figure 2: How-to-Protect-the-child-from-SIDS](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/5795caeb-0ffc-4240-8e5a-332ec3118474)
-###### Figure 2: SIDS Poster     
+###### Figure 2: SIDS Poster: retrived from www.drthindhomeopathy.com
 
   SIDS is the leading cause of death in infants between one month and one year of age in the United States alone, where approximately 2500 children per year die as a result of SIDS.
 - Gastrointestinal issues: 
@@ -196,7 +196,7 @@ Description: Monitors the baby's movements, heart rate, and sounds; streams the 
 ### 7.1 Firmware code   
 [Link to firmware](firmware).
 ### 7.2 Mobile Application code   
-Link to GitHub repository for app.
+[Link to GitHub repository of the Mobile App Project](https://github.com/ZoyebaMahbub5837/InfantHealthMonitor).
 
 ## 8.0 References   
 - https://www.uptodate.com/contents/sudden-infant-death-syndrome-sids-beyond-the-basics/print#:~:text=SIDS%20is%20the%20leading%20cause,as%20a%20result%20of%20SIDS.
