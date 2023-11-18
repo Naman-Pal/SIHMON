@@ -27,17 +27,13 @@ admitted, and what procedures are used?
 describe the section or subsection content?
 -- We have only added a few more headings and subheadings, and we made sure they were accurate. As we add more sections, we will make sure to keep the headings and subheadings in check.
 
-- [ ] 7. Does the Body include information regarding the methodology?
+- [x] 7. Does the Body include information regarding the methodology?
+-- Methodology is a part of both Hardware and Software aspects. We added discussions in the results and discussions section.
+ 
+- [x] 8. Does the Body include recent research findings?
+-- This can be found in the results and discussions section.
 
-*The situation with the Body of our report is...*
-
-- [ ] 8. Does the Body include recent research findings?
-
-*The situation with the Body of our report is...*
-
-- [ ] 9. Does the Body include results/data from the study?
-
-*The situation with the Body of our report is...*
+- [x] 9. Does the Body include results/data from the study?
 
 - [ ] 10. Are illustrations, tables, diagrams and charts clearly drawn, labelled and
 Numbered?
