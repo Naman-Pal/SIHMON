@@ -38,10 +38,8 @@ describe the section or subsection content?
 - [x] 10. Are illustrations, tables, diagrams and charts clearly drawn, labelled and
 Numbered?
 
-- [ ] 11. Is each Conclusion, and if applicable, each Recommendation, stated in a
+- [x] 11. Is each Conclusion, and if applicable, each Recommendation, stated in a
 separate paragraph and in a positive way?
-
-  *The situation with our Conclusion is that it is under construction, we will soon bring future implementations of SIHMON in the conclusion*
 
 - [x] 12. Are the References/Bibliography complete?
 
