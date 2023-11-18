@@ -38,12 +38,10 @@ describe the section or subsection content?
 - [x] 10. Are illustrations, tables, diagrams and charts clearly drawn, labelled and
 Numbered?
 
-*The situation with our diagrams is...*
-
 - [ ] 11. Is each Conclusion, and if applicable, each Recommendation, stated in a
 separate paragraph and in a positive way?
 
-*The situation with our Conclusion is that is is under construction, we will soon bring future implementations of SIHMON in the conclusion*
+  *The situation with our Conclusion is that it is under construction, we will soon bring future implementations of SIHMON in the conclusion*
 
 - [x] 12. Are the References/Bibliography complete?
 
@@ -58,6 +56,7 @@ separate paragraph and in a positive way?
 
 - [x] 16. Is the same voice (I, one, person, etc.) used consistently throughout the
 Technology Report?
+     *we is used throughout, indicating our group effort*
 
 - [x] 17. Do the grammar and punctuation follow normally accepted rules of use?
 
