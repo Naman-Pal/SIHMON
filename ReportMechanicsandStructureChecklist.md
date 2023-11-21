@@ -62,7 +62,7 @@ Technology Report?
 properly identified and footnoted in the text?
 
 - Workload distribution: The hardware and software specifics were mainly done by Eshan Salwan.
-- The report is primarily done by Naman Pal. The research and references part was a combined effort of the whole team, as everyone researched their components. Each group member also did the hardware for their respective sensors and PCB design. The combined PCB was mainly designed by Naman Pal. The documentation and report parts and the reports were handled mainly by Naman Pal. The poster draft was made by Naman Pal and Satinder Kaur. The Android app and the Firebase specifics were mainly done by Eshan Salwan and Zoyeba Mahbub.
+- The report is primarily done by Naman Pal. The research and references part was a combined effort of the whole team, as everyone researched their components. Each group member also did the hardware for their respective sensors and PCB design. The combined PCB was mainly designed by Naman Pal. The documentation and report parts and the reports were handled mainly by Naman Pal and Satinder Kaur. The poster draft was made by Naman Pal and Satinder Kaur. The Android app and the Firebase specifics were mainly done by Eshan Salwan and Zoyeba Mahbub.
 
 # Appendices
 
