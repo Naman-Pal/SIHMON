@@ -54,14 +54,15 @@ separate paragraph and in a positive way?
 
 - [x] 16. Is the same voice (I, one, person, etc.) used consistently throughout the
 Technology Report?
-     *we is used throughout, indicating our group effort*
+     *'we' is used throughout, indicating our group effort*
 
 - [x] 17. Do the grammar and punctuation follow normally accepted rules of use?
 
 - [x] 18. Are thoughts and illustrations/diagrams/charts that do not belong to the writer
 properly identified and footnoted in the text?
 
-- Workload distribution: The report is primarily done by Naman Pal. The research and references part was a combined effort of Naman and Zoyeba. The hardware and software specifics were mainly done by Eshan Salwan. 
+- Workload distribution: The hardware and software specifics were mainly done by Eshan Salwan.
+- The report is primarily done by Naman Pal. The research and references part was a combined effort of the whole team, as everyone researched their components. Each group member also did the hardware for their respective sensors and PCB design. The combined PCB was mainly designed by Naman Pal. The documentation and report parts and the reports were handled mainly by Naman Pal. The poster draft was made by Satinder Kaur. The Android app and the Firebase specifics were mainly done by Eshan Salwan and Zoyeba Mahbub.
 
 # Appendices
 
