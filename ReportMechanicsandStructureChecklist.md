@@ -1,6 +1,6 @@
 # Report Mechanics and Structure Checklist
 This section evaluates the structure, formatting and writing techniques used in the TR.
-Fulfillment of this criteria leads to a TR that looks professional, is easy to read and is
+Fulfillment of these criteria leads to a TR that looks professional, is easy to read and is
 representative of the formatting standards of the industry. Here is a simple footnote[^1].
 
 [^1]: Technology Report Guidelines. OACETT, Revised September 2022. Available at: https://www.oacett.org/getmedia/5ad707d7-f472-4b24-a7fe-f34e270b0c41/2022_TR_Guidelines_-_Updated_Version_-_Sept_2022.pdf
@@ -23,14 +23,16 @@ admitted, and what procedures are used?
 
 -- We are focussing on laying a foundation for the report by adding essentials like software and hardware used. We will go on to describe each section in detail soon.
 
-- [x] 6. Do the headings and subheadings in the Body adequately and accurately
-describe the section or subsection content?
+- [x] 6. Do the headings and subheadings in the Body adequately and accurately describe the section or subsection content?
+
 -- We have only added a few more headings and subheadings, and we made sure they were accurate. As we add more sections, we will make sure to keep the headings and subheadings in check.
 
 - [x] 7. Does the Body include information regarding the methodology?
+
 -- Methodology is a part of both Hardware and Software aspects. We added discussions in the results and discussions section.
  
 - [x] 8. Does the Body include recent research findings?
+
 -- This can be found in the results and discussions section.
 
 - [x] 9. Does the Body include results/data from the study?
@@ -44,7 +46,8 @@ separate paragraph and in a positive way?
 - [x] 12. Are the References/Bibliography complete?
 
 - [x] 13. Do the Appendices support the study?
-  * The appendix section only contains the hardware and software code, as the studies (including infant health problems and the need for SIHMON), and other relevant data (working of our hardware and software) are already a part of the report.* 
+
+ -- The appendix section only contains the hardware and software code, as the studies (including infant health problems and the need for SIHMON), and other relevant data (working of our hardware and software) are already a part of the report.* 
 
 - [x] 14. Is the spelling correct?
 *Grammarly was used to handle spellcheck. *
@@ -54,7 +57,7 @@ separate paragraph and in a positive way?
 
 - [x] 16. Is the same voice (I, one, person, etc.) used consistently throughout the
 Technology Report?
-     *'we' is used throughout, indicating our group effort*
+     *' We' is used throughout, indicating our group effort*
 
 - [x] 17. Do the grammar and punctuation follow normally accepted rules of use?
 
