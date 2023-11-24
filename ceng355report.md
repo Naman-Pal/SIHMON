@@ -1,25 +1,25 @@
 # CENG 355: Smart Infant Health MONitor (SIHMON)
-Title Page (1st odd page not numbered, X.0 sections begin on odd pages, otherwise double sided and numbered)  
+Title Page (1st odd page not numbered, X.0 sections begin on odd pages, otherwise double-sided and numbered)  
 
 ## Declaration of Joint Authorship   
 
 ### Table of Contributions
-You will notice from the OACETT Gudelines page 3 and 4 and from the PowerPoint presnetation Joint Declaration Directions https://learn.humber.ca/ultra/courses/_235686_1/outline/file/_17191432_1 that a table is required decribing how each team members contributed to each major section of the document. This can be done at either the Heading 1 and / or Heading 2 level. This must be on a seperate page above the joint decalaration statements. 
+You will notice from the OACETT Guidelines pages 3 and 4 and from the PowerPoint presentation Joint Declaration Directions https://learn.humber.ca/ultra/courses/_235686_1/outline/file/_17191432_1 that a table is required describing how each team member contributed to each major section of the document. This can be done at either the Heading 1 and Heading 2 levels. This must be on a separate page above the joint declaration statements. 
 
-- Heading 1 : the major sections e.g. 1.0 Introduction, 2.0 Hardware Development Platformn Report, etc
-- Heading 2 : the level 1 subsections e.g, 1.1, 1.2, 1.3, 2.1, 2.2.
+- Heading 1: the major sections e.g. 1.0 Introduction, 2.0 Hardware Development Platform Report, etc
+- Heading 2: the level 1 subsection e.g., 1.1, 1.2, 1.3, 2.1, 2.2.
 
 ### Declarations
-I, Naman Pal, confirm that this breakdown of authorship represents my contribution to the work submitted for assessment and my contribution is my own work and is expressed in my own words. Any uses made within the Technology Report of the works of any other author, separate to the work group, in any form (ideas, equations, figures, texts, tables, programs), are properly acknowledged at the point of use. A list of the references used is included.
+I, Naman Pal, confirm that this breakdown of authorship represents my contribution to the work submitted for assessment and my contribution is my own work and is expressed in my own words. Any uses made within the Technology Report of the works of any other author, separate from the work group, in any form (ideas, equations, figures, texts, tables, programs), are properly acknowledged at the point of use. A list of the references used is included.
 
-I, Zoyeba Mahbub, confirm that this breakdown of authorship represents my contribution to the work submitted for assessment and my contribution is my own work and is expressed in my own words. Any uses made within the Technology Report of the works of any other author, separate to the work group, in any form (ideas, equations, figures, texts, tables, programs), are properly acknowledged at the point of use. A list of the references used is included.
+I, Zoyeba Mahbub, confirm that this breakdown of authorship represents my contribution to the work submitted for assessment and my contribution is my own work and is expressed in my own words. Any uses made within the Technology Report of the works of any other author, separate from the work group, in any form (ideas, equations, figures, texts, tables, programs), are properly acknowledged at the point of use. A list of the references used is included.
 
-I, Satinder Kaur, confirm that this breakdown of authorship represents my contribution to the work submitted for assessment and my contribution is my own work and is expressed in my own words. Any uses made within the Technology Report of the works of any other author, separate to the work group, in any form (ideas, equations, figures, texts, tables, programs), are properly acknowledged at the point of use. A list of the references used is included.
+I, Satinder Kaur, confirm that this breakdown of authorship represents my contribution to the work submitted for assessment and my contribution is my own work and is expressed in my own words. Any uses made within the Technology Report of the works of any other author, separate from the work group, in any form (ideas, equations, figures, texts, tables, programs), are properly acknowledged at the point of use. A list of the references used is included.
 
-I, Eshan Salwan, confirm that this breakdown of authorship represents my contribution to the work submitted for assessment and my contribution is my own work and is expressed in my own words. Any uses made within the Technology Report of the works of any other author, separate to the work group, in any form (ideas, equations, figures, texts, tables, programs), are properly acknowledged at the point of use. A list of the references used is included.
+I, Eshan Salwan, confirm that this breakdown of authorship represents my contribution to the work submitted for assessment and my contribution is my own work and is expressed in my own words. Any uses made within the Technology Report of the works of any other author, separate from the work group, in any form (ideas, equations, figures, texts, tables, programs), are properly acknowledged at the point of use. A list of the references used is included.
 
 ## Proposal/Project Specifications   
-[Link to proposal](ceng355wk01proposal.md).   
+[Link to the proposal](ceng355wk01proposal.md).   
 ## Executive Summary   
 We have designed SIHMON (Smart Infant Health MONitor) for parents with babies, especially with health complications like SIDS (Sudden Infant Death Syndrome). SIHMON consists of 2 key components. 
 - A BioSensor bracelet, which the baby wears.
@@ -145,31 +145,31 @@ Insert Gantt Chart
 #### 3.2.1 Toast message   
 #### 3.2.2 Exit confirmation dialog   
 ### 3.3 Navigation drawer   
-### 3.4 End-user considerations   
+### 3.4 End-user Considerations   
 #### 3.4.1 User interface   
 ### 3.5 Firebase authentication   
-#### 3.5.1 Backend- push/pull from firebase database   
+#### 3.5.1 Backend- push/pull from Firebase database   
 ### 3.6 Internationalization   
 ### 3.7 Test cases   
 
 ## 4.0 Integration   
 ### 4.1 Enterprise wireless connectivity   
 ### 4.2 Database configuration   
-### 4.3 Network and Security considerations   
+### 4.3 Network and Security Considerations   
 ### 4.4 Unit Testing   
 ### 4.5 Production Testing   
 ### 4.6 Challenges/Problems   
 ### 4.7 Solutions   
 
 ## 5.0 Results and Discussion   
-### 5.1 Research on Infant-Health Worldwide
+### 5.1 Research on Infant Health Worldwide
 There are several 
 - SIDS: Sudden Infant Death Syndrome. ![Figure 2: How-to-Protect-the-child-from-SIDS](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/5795caeb-0ffc-4240-8e5a-332ec3118474)
-###### Figure 2: SIDS Poster: retrived from www.drthindhomeopathy.com
+###### Figure 2: SIDS Poster: retrieved from www.drthindhomeopathy.com
 
   SIDS is the leading cause of death in infants between one month and one year of age in the United States alone, where approximately 2500 children per year die as a result of SIDS.
 - Gastrointestinal issues: 
-  It is the second leading cause of death in infants under 5 years of age. It is very common for babies to have gastrointestinal complications for a variety of reasons including diet, physical activity, and even sleep. However, common problems like diarrhea can seriously dehydrate the infant, often leading to underdeveloped organs, malnutrition, and even death. The worst part is most parents would never realize their baby's developing these complications, as this requires continuous monitoring of the baby's health, especially after meals. These often develop into bigger digestive issues as the baby grows, if not treated early. 
+  It is the second leading cause of death in infants under 5 years of age. It is very common for babies to have gastrointestinal complications for a variety of reasons including diet, physical activity, and even sleep. However, common problems like diarrhea can seriously dehydrate the infant, often leading to underdeveloped organs, malnutrition, and even death. The worst part is most parents would never realize their baby is developing these complications, as this requires continuous monitoring of the baby's health, especially after meals. These often develop into bigger digestive issues as the baby grows, if not treated early. 
 - Heart Defects: 
   About 40,000 babies are born with Heart defects each year in the US alone. Such babies are vulnerable to more serious complications like respiratory diseases, poor brain and organ development, and malnutrition. Such babies' health has to be monitored to ensure the baby's proper development, especially during the early stages of their lives.
 - Respiratory infections: 
@@ -184,7 +184,7 @@ Some previously implemented projects include: -
 #### 5.2.1 Apple SmartWatch
 Link to product: https://www.bestbuy.ca/en-ca/product/apple-watch-series-9-gps-45mm-midnight-aluminium-case-with-midnight-sport-band-medium-large-160-210mm/17278985
 
-Description: Offers mobile phone features like calling, texting, voice assistants, and time on the smartwatch. Includes added features like heart rate monitoring and calories-burnt counting.
+Description: Offers mobile phone features like calling, texting, voice assistants, and time on the smartwatch. Includes added features like heart rate monitoring and calorie-burnt counting.
 #### 5.2.1 Owlet Dream Duo with Camera
 Link to product: https://www.bestbuy.ca/en-ca/product/owlet-dream-duo-with-cam-2-wearable-baby-monitor-ps04nmbbj-mint-green/16370778?cmp=knc-s-71700000071826053&gad_source=1&gclid=Cj0KCQiA3uGqBhDdARIsAFeJ5r1eDRFvVe-JG9XNVT66-kG2XsYuzoVu2mWZphQhz-62qWaP-wFTgZgaAtzNEALw_wcB&gclsrc=aw.ds 
 
@@ -197,7 +197,7 @@ Picture this: a parent gets a friendly alert on their phone, prompting them to c
 
 Beyond individual families, SIHMON could change how we approach healthcare. It bridges the gap between parents and healthcare professionals, making infant health a shared responsibility. The goal is a world where technology isn't a barrier, but a tool that brings people together to protect the littlest lives.
 
-Furthermore, SIHMON can be developed into much advanced solutions that can potentially save millions of lives and improve healthcare worldwide. SIHMON can be extended to be used for patients in general. Meaning that most patients that require close monitoring benefit from SIHMON, as they would not need to be admitted to the hospital to use their advanced tools for health monitoring, as it can be done easily using our product. This won't just help the users, but also free up space in the hospital, so that the room can be used for other, more serious cases.  
+Furthermore, SIHMON can be developed into many advanced solutions that can potentially save millions of lives and improve healthcare worldwide. SIHMON can be extended to be used for patients in general. Meaning that most patients who require close monitoring benefit from SIHMON, as they would not need to be admitted to the hospital to use their advanced tools for health monitoring, as it can be done easily using our product. This won't just help the users, but also free up space in the hospital so that the room can be used for other, more serious cases.  
 
 In essence, SIHMON represents human ingenuity and care. Through SIHMON, we envision a future where parents can embrace the joys of parenthood without constant fear, and a progressive healthcare industry, accessible to all.
 
