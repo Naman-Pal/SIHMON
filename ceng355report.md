@@ -14,17 +14,18 @@ You will notice from the OACETT Guidelines pages 3 and 4 and from the PowerPoint
 - Heading 2: the level 1 subsection e.g., 1.1, 1.2, 1.3, 2.1, 2.2.
 -->
 
-| Section | Total Number of Pages | Naman Pal | Eshan Salwan | Satinder Kaur | Zoyeba Mahbub |
+| Section | Total Number of Pages | (A) Naman Pal | (B) Eshan Salwan | (C) Satinder Kaur | (D) Zoyeba Mahbub |
 | --- | --- | --- | --- | --- | --- |  
-| Introduction | 3 | 1 33% | 0.5 11% | 0.75 25% | 0.75 25% |  
-| Hardware | 3 | 1 33% | 0.5 11% | 0.75 25% | 0.75 25% |  
-| Mobile Application Report | 3 | 1 33% | 0.5 11% | 0.75 25% | 0.75 25% |  
-| Integration | 3 | 1 33% | 0.5 11% | 0.75 25% | 0.75 25% |  
-| Results and Discussions | 3 | 1 33% | 0.5 11% | 0.75 25% | 0.75 25% |  
-| Conclusion | 3 | 1 33% | 0.5 11% | 0.75 25% | 0.75 25% |  
-| Appendix | 3 | 1 33% | 0.5 11% | 0.75 25% | 0.75 25% |  
-| References | 20 | 7 33% | 4.5 11% | 4.5 25% | 4 25% |  
-| Total | 20 | 7 33% | 4.5 11% | 4.5 25% | 4 25% |  
+| Preliminaries | 4 | 2 50% | 1 25% | 0.75 13% | 0.75 12% |  
+| Introduction | 2 | 2 100% | 0 0% | 0 0% | 0 0% |  
+| Hardware | x | y z% | y z% | y z% | y z% |  
+| Mobile Application Report | x | y z% | y z% | y z% | y z% |  
+| Integration | x | y z% | y z% | y z% | y z% |  
+| Results and Discussions | 3 | 3 100% | 0 0% | 0 0% | 0 0% |  
+| Conclusion | 1 | 1 100% | 0 0% | 0 0% | 0 0% |  
+| Appendix | x | y z% | y z% | y z% | y z% |  
+| References | 1 | 0.25 25% | 0.25 25% | 0.25 25% | 0.25 25% |  
+| Total | x | 5 25% | 5 25% | 5 25% | 5 25% |  
 
 
 ### Declarations
