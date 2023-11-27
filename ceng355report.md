@@ -4,10 +4,11 @@ Title Page (1st odd page not numbered, X.0 sections begin on odd pages, otherwis
 ## Declaration of Joint Authorship   
 
 ### Table of Contributions
-Naman Pal (Project Manager | Team Leader): My contributions to the report include the following sections: Firmware (Python program running on the Hardware), Hardware connectivity and testing, schematic, breadboard circuit, Printed Circuit Board (PCB), executive summary, introduction, conclusion, background, results and discussions, Appendix, formatting the report, and adding and removing sections.  
-
+The table below indicates the contribution of each member to all sections of the Technical Report. Columns 3 through 6 denote the contribution in terms of pages, and hence the percentage of the section completed; 1 column per student. The bottom row summarizes the overall contribution of all members toward the Technical Report. 
 
 <!-- 
+My contributions to the report include the following sections: Firmware (Python program running on the Hardware), Hardware connectivity and testing, schematic, breadboard circuit, Printed Circuit Board (PCB), executive summary, introduction, conclusion, background, results and discussions, Appendix, formatting the report, and adding and removing sections.  
+
 You will notice from the OACETT Guidelines pages 3 and 4 and from the PowerPoint presentation Joint Declaration Directions https://learn.humber.ca/ultra/courses/_235686_1/outline/file/_17191432_1 that a table is required describing how each team member contributed to each major section of the document. This can be done at either the Heading 1 and Heading 2 levels. This must be on a separate page above the joint declaration statements. 
 - Heading 1: the major sections e.g. 1.0 Introduction, 2.0 Hardware Development Platform Report, etc
 - Heading 2: the level 1 subsection e.g., 1.1, 1.2, 1.3, 2.1, 2.2.
@@ -24,7 +25,7 @@ You will notice from the OACETT Guidelines pages 3 and 4 and from the PowerPoint
 
 
 ### Declarations
-I, Naman Pal, confirm that this breakdown of authorship represents my contribution to the work submitted for assessment and my contribution is my own work and is expressed in my own words. Any uses made within the Technology Report of the works of any other author, separate from the work group, in any form (ideas, equations, figures, texts, tables, programs), are properly acknowledged at the point of use. A list of the references used is included.
+I, Naman Pal, the founding Team Leader of BioBytes, and the Project Manager of SIHMON (Smart Infant Health MONitor), confirm that this breakdown of authorship represents my contribution to the work submitted for assessment and my contribution is my own work and is expressed in my own words. Any uses made within the Technology Report of the works of any other author, separate from the work group, in any form (ideas, equations, figures, texts, tables, programs), are properly acknowledged at the point of use. A list of the references used is included.
 
 I, Zoyeba Mahbub, confirm that this breakdown of authorship represents my contribution to the work submitted for assessment and my contribution is my own work and is expressed in my own words. Any uses made within the Technology Report of the works of any other author, separate from the work group, in any form (ideas, equations, figures, texts, tables, programs), are properly acknowledged at the point of use. A list of the references used is included.
 
