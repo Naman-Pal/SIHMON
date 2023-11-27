@@ -6,15 +6,21 @@ Title Page (1st odd page not numbered, X.0 sections begin on odd pages, otherwis
 ### Table of Contributions
 Naman Pal (Project Manager | Team Leader): My contributions to the report include the following sections: Firmware (Python program running on the Hardware), Hardware connectivity and testing, schematic, breadboard circuit, Printed Circuit Board (PCB), executive summary, introduction, conclusion, background, results and discussions, Appendix, formatting the report, and adding and removing sections.  
 
-You will notice from the OACETT Guidelines pages 3 and 4 and from the PowerPoint presentation Joint Declaration Directions https://learn.humber.ca/ultra/courses/_235686_1/outline/file/_17191432_1 that a table is required describing how each team member contributed to each major section of the document. This can be done at either the Heading 1 and Heading 2 levels. This must be on a separate page above the joint declaration statements. 
 
+<!-- 
+You will notice from the OACETT Guidelines pages 3 and 4 and from the PowerPoint presentation Joint Declaration Directions https://learn.humber.ca/ultra/courses/_235686_1/outline/file/_17191432_1 that a table is required describing how each team member contributed to each major section of the document. This can be done at either the Heading 1 and Heading 2 levels. This must be on a separate page above the joint declaration statements. 
 - Heading 1: the major sections e.g. 1.0 Introduction, 2.0 Hardware Development Platform Report, etc
 - Heading 2: the level 1 subsection e.g., 1.1, 1.2, 1.3, 2.1, 2.2.
+-->
 
-| Command | Description |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| Section | Total Number of Pages | Naman Pal | Eshan Salwan | Satinder Kaur | Zoyeba Mahbub |
+| --- | --- | --- | --- | --- | --- |  
+| Introduction | 3 | 1 33% | 0.5 11% | 0.75 25% | 0.75 25% |  
+| Introduction | 3 | 1 33% | 0.5 11% | 0.75 25% | 0.75 25% |  
+| Introduction | 3 | 1 33% | 0.5 11% | 0.75 25% | 0.75 25% |  
+| Introduction | 3 | 1 33% | 0.5 11% | 0.75 25% | 0.75 25% |  
+| Introduction | 3 | 1 33% | 0.5 11% | 0.75 25% | 0.75 25% |  
+| Total | 20 | 7 33% | 4.5 11% | 4.5 25% | 4 25% |  
 
 
 ### Declarations
