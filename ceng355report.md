@@ -133,13 +133,13 @@ Our vision is to provide parents/caregivers, a convenient way to monitor their i
 - 40-pin stacking header for Raspberry Pi
 - Hardware Case: created for SIHMON by BioBytes
 ### 1.3 Project Schedule   
-Final Gantt Charts: Indlude the latest 2 updates to our Mobile App 
+Final Gantt Charts: Indlude the 2 latest updates to our Mobile App 
 ###### <a name="fig1">Figure 1: Gantt Chart 1</a>     
 ![image](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/098c8d50-4f4b-49fb-bded-e09b8a8cff35)
 ###### <a name="fig2">Figure 1: Gantt Chart 2</a>    
 ![image](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/7edb27fa-0f3e-45ce-a586-d64881f1b9fa)
 
-Final Schedule 
+Final Schedule: 2 Latest Sprint Plans
 ###### <a name="fig3">Figure 3: Project Schedule 1</a>     
 ![image](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/33ec83aa-266c-4d3d-a302-41649e27751b)
 ###### <a name="fig4">Figure 4: Project Schedule 2</a>     
@@ -153,7 +153,11 @@ Final Schedule
 #### 2.1.3 PCB Bill of Materials   
 #### 2.1.4 Overall Budget (incl. shipping, duty, taxes)   
 ### 2.2 Schematic   
+The schematic circuit design was completed on Fritzing PC software and laid the foundation for our breadboard and hence the PCB circuit. 
+![Schematic View](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/82e7b46b-07fc-4149-bcec-60ad6d77be41)
+
 ### 2.3 Breadboard   
+
 ### 2.4 Printed Circuit Board   
 #### 2.4.1 Independent   
 #### 2.4.2 Combined   
