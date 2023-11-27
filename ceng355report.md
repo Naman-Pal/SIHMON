@@ -120,6 +120,13 @@ The bracelet monitors the infant’s health using sensors like heart rate, oxyge
 [Figure 2: Gantt Chart 2](#fig2)  
 [Figure 3: Project Schedule 1](#fig3)  
 [Figure 4: Project Schedule 2](#fig4)  
+[Figure 5: Figure 5: Collective Schematic Design](#fig5)  
+[Figure 6.1: adxl345 accelerometer sensor breadboard testing](#fig6.1)  
+[Figure 6.2: adxl345 with LED breadboard testing](#fig6.2)  
+[Figure 7: tmp006 temperature sensor breadboard testing](#fig8)  
+[Figure 8: max30102 pulse and oximeter sensor breadboard testing](#fig8)  
+[Figure 9: lm393 sound sensor breadboard testing](#fig9)  
+
 
 ## 1.0 Introduction   
 ### 1.1 Background   
@@ -153,10 +160,25 @@ Final Schedule: 2 Latest Sprint Plans
 #### 2.1.3 PCB Bill of Materials   
 #### 2.1.4 Overall Budget (incl. shipping, duty, taxes)   
 ### 2.2 Schematic   
+###### <a name="fig5">Figure 5: Collective Schematic Design</a>     
+
 The schematic circuit design was completed on Fritzing PC software and laid the foundation for our breadboard and hence the PCB circuit. 
 ![Schematic View](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/82e7b46b-07fc-4149-bcec-60ad6d77be41)
 
 ### 2.3 Breadboard   
+The breadboard circuit was extensively used to test our circuits and sensors. We tested every sensor individually before assembling them onto our PCB.   
+
+###### <a name="fig6.1">Figure 6.1: adxl345 accelerometer sensor breadboard testing</a>     
+![image](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/0e0e88fa-92df-4040-a812-154719fe6073)
+###### <a name="fig6.2">Figure 6.2: adxl345 with LED breadboard testing</a>     
+![image](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/0e0e88fa-92df-4040-a812-154719fe6073)
+
+###### <a name="fig6">Figure 7: tmp006 temperature sensor breadboard testing</a>     
+
+###### <a name="fig7">Figure 8: max30102 pulse and oximeter sensor breadboard testing</a>     
+   
+###### <a name="fig8">Figure 9: lm393 sound sensor breadboard testing</a>     
+
 
 ### 2.4 Printed Circuit Board   
 #### 2.4.1 Independent   
