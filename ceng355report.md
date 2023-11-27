@@ -116,10 +116,10 @@ The bracelet monitors the infant’s health using sensors like heart rate, oxyge
 [8.0 References](#80-references)  
 
 ## List of Figures   
-[Figure 1: Gantt Chart 1](#figure-1-gantt-chart)  
-[Figure 2: Gantt Chart](#figure-1-gantt-chart)  
-[Figure 3: Gantt Chart](#figure-1-gantt-chart)  
-[Figure 4: Gantt Chart](#figure-1-gantt-chart)  
+[Figure 1: Gantt Chart 1](#fig1)  
+[Figure 2: Gantt Chart 2](#fig2)  
+[Figure 3: Project Schedule 1](#fig3)  
+[Figure 4: Project Schedule 2](#fig4)  
 
 ## 1.0 Introduction   
 ### 1.1 Background   
@@ -134,15 +134,15 @@ Our vision is to provide parents/caregivers, a convenient way to monitor their i
 - Hardware Case: created for SIHMON by BioBytes
 ### 1.3 Project Schedule   
 Final Gantt Charts: Indlude the latest 2 updates to our Mobile App 
-###### Figure 1: Gantt Chart 1     
+###### <a name="fig1">Figure 1: Gantt Chart 1</a>     
 ![image](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/098c8d50-4f4b-49fb-bded-e09b8a8cff35)
-###### Figure 2: Gantt Chart 2    
+###### <a name="fig2">Figure 1: Gantt Chart 2</a>    
 ![image](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/7edb27fa-0f3e-45ce-a586-d64881f1b9fa)
 
 Final Schedule 
-###### Figure 3: Project Schedule 1     
+###### <a name="fig3">Figure 3: Project Schedule 1</a>     
 ![image](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/33ec83aa-266c-4d3d-a302-41649e27751b)
-###### Figure 4: Project Schedule 2     
+###### <a name="fig4">Figure 4: Project Schedule 2</a>     
 ![image](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/8ad69c1a-97be-4e0e-ba37-841f52a5c109)
 
 
