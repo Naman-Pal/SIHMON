@@ -37,7 +37,7 @@ I, Satinder Kaur, confirm that this breakdown of authorship represents my contri
 
 I, Eshan Salwan, confirm that this breakdown of authorship represents my contribution to the work submitted for assessment and my contribution is my own work and is expressed in my own words. Any uses made within the Technology Report of the works of any other author, separate from the work group, in any form (ideas, equations, figures, texts, tables, programs), are properly acknowledged at the point of use. A list of the references used is included.
 
-## Proposal and Project Specifications   
+## <a name="proposal">Project Proposal and Specifications</a>   
 [Link to the proposal](ceng355wk01proposal.md).   
 
 ## Executive Summary   
@@ -50,7 +50,7 @@ The bracelet monitors the infant’s health using sensors like heart rate, oxyge
 ## Table of Contents
 
 [Declaration of Joint Authorship](#declaration-of-joint-authorship)   
-[Proposal and Project Specifications](#proposalproject-specifications)   
+[Project Proposal and Specifications](#proposal)   
 [Executive Summary](#executive-summary)   
 [Table of Contents](#table-of-contents)   
 [List of Figures](#list-of-figures)   
