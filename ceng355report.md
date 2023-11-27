@@ -50,7 +50,7 @@ The bracelet monitors the infant’s health using sensors like heart rate, oxyge
 ## Table of Contents
 
 [Declaration of Joint Authorship](#declaration-of-joint-authorship)   
-[Proposal/Project Specifications](#proposalproject-specifications)   
+[Proposal and Project Specifications](#proposalproject-specifications)   
 [Executive Summary](#executive-summary)   
 [Table of Contents](#table-of-contents)   
 [List of Figures](#list-of-figures)   
@@ -116,7 +116,10 @@ The bracelet monitors the infant’s health using sensors like heart rate, oxyge
 [8.0 References](#80-references)  
 
 ## List of Figures   
-[Figure 1: Gantt Chart](#figure-1-gantt-chart)  
+[Figure 1: Gantt Chart 1](#figure-1-gantt-chart)  
+[Figure 2: Gantt Chart](#figure-1-gantt-chart)  
+[Figure 3: Gantt Chart](#figure-1-gantt-chart)  
+[Figure 4: Gantt Chart](#figure-1-gantt-chart)  
 
 ## 1.0 Introduction   
 ### 1.1 Background   
@@ -124,15 +127,24 @@ Our vision is to provide parents/caregivers, a convenient way to monitor their i
 
 ### 1.2 Project Requirements and Specifications   
 #### 1.2.1 Hardware Requirements: -
-- Raspberry Pi
-- The 4 sensors: adxl345 (accelerometer), tmp006 (temperature), max30102 (pulse and oximeter), lm393 (sound)
-- PCB (created for SIHMON by BioBytes)
-- Encasing for the hardware (created for SIHMON by BioBytes)
+- Raspberry Pi 3 Model B Kit: SoC computer + Power Adapter + Ethernet cable + Ethernet to USB adapter
+- The 4 sensors: adxl345 (accelerometer), tmp006 (temperature), max30102 (pulse and oximeter), and lm393 (sound)
+- Soldered PCB (Printed Circuit Board) with resistors, transistor, and LED: designed and soldered for SIHMON by BioBytes
+- 40-pin stacking header for Raspberry Pi
+- Hardware Case: created for SIHMON by BioBytes
 ### 1.3 Project Schedule   
-Insert Gantt Chart
-- Milestone Level is sufficient
+Final Gantt Charts: Indlude the latest 2 updates to our Mobile App 
+###### Figure 1: Gantt Chart 1     
+![image](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/098c8d50-4f4b-49fb-bded-e09b8a8cff35)
+###### Figure 2: Gantt Chart 2    
+![image](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/7edb27fa-0f3e-45ce-a586-d64881f1b9fa)
 
-###### Figure 1: Gantt Chart     
+Final Schedule 
+###### Figure 3: Project Schedule 1     
+![image](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/33ec83aa-266c-4d3d-a302-41649e27751b)
+###### Figure 4: Project Schedule 2     
+![image](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/8ad69c1a-97be-4e0e-ba37-841f52a5c109)
+
 
 ## 2.0 Hardware Development Platform Report/Build instructions   
 ### 2.1 Parts, Components, Materials   
