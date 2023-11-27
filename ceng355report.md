@@ -4,10 +4,18 @@ Title Page (1st odd page not numbered, X.0 sections begin on odd pages, otherwis
 ## Declaration of Joint Authorship   
 
 ### Table of Contributions
+Naman Pal (Project Manager | Team Leader): My contributions to the report include the following sections: Firmware (Python program running on the Hardware), Hardware connectivity and testing, schematic, breadboard circuit, Printed Circuit Board (PCB), executive summary, introduction, conclusion, background, results and discussions, Appendix, formatting the report, and adding and removing sections.  
+
 You will notice from the OACETT Guidelines pages 3 and 4 and from the PowerPoint presentation Joint Declaration Directions https://learn.humber.ca/ultra/courses/_235686_1/outline/file/_17191432_1 that a table is required describing how each team member contributed to each major section of the document. This can be done at either the Heading 1 and Heading 2 levels. This must be on a separate page above the joint declaration statements. 
 
 - Heading 1: the major sections e.g. 1.0 Introduction, 2.0 Hardware Development Platform Report, etc
 - Heading 2: the level 1 subsection e.g., 1.1, 1.2, 1.3, 2.1, 2.2.
+
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
+
 
 ### Declarations
 I, Naman Pal, confirm that this breakdown of authorship represents my contribution to the work submitted for assessment and my contribution is my own work and is expressed in my own words. Any uses made within the Technology Report of the works of any other author, separate from the work group, in any form (ideas, equations, figures, texts, tables, programs), are properly acknowledged at the point of use. A list of the references used is included.
@@ -18,14 +26,15 @@ I, Satinder Kaur, confirm that this breakdown of authorship represents my contri
 
 I, Eshan Salwan, confirm that this breakdown of authorship represents my contribution to the work submitted for assessment and my contribution is my own work and is expressed in my own words. Any uses made within the Technology Report of the works of any other author, separate from the work group, in any form (ideas, equations, figures, texts, tables, programs), are properly acknowledged at the point of use. A list of the references used is included.
 
-## Proposal/Project Specifications   
+## Proposal and Project Specifications   
 [Link to the proposal](ceng355wk01proposal.md).   
+
 ## Executive Summary   
 We have designed SIHMON (Smart Infant Health MONitor) for parents with babies, especially with health complications like SIDS (Sudden Infant Death Syndrome). SIHMON consists of 2 key components. 
 - A BioSensor bracelet, which the baby wears.
-- An Android app, which analyzes the baby’s health using the data from the bracelet.
+- An Android app, which analyzes the baby’s health using the data from the bracelet.   
 
- The bracelet monitors the infant’s health using sensors like heart rate, oxygen levels, body temperature, movement, and surrounding sound. The bracelet is connected to the Android app through Firebase (back-end). The app displays this health data, analyzes it, and provides insights into the infant’s health based on the analysis to the parent/caregiver.
+The bracelet monitors the infant’s health using sensors like heart rate, oxygen levels, body temperature, movement, and surrounding sound. The bracelet is connected to the Android app through Firebase (back-end). The app displays this health data, analyzes it, and provides insights into the infant’s health based on the analysis to the parent/caregiver.
 
 ## Table of Contents
 
