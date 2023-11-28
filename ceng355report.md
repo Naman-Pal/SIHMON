@@ -175,11 +175,11 @@ The breadboard circuit was extensively used to test our circuits and sensors. We
 ###### <a name="fig6.2">Figure 6.2: adxl345 with LED breadboard testing</a>     
 ![image](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/0e0e88fa-92df-4040-a812-154719fe6073)
 
-###### <a name="fig6">Figure 7: tmp006 temperature sensor breadboard testing</a>     
+###### <a name="fig"7>Figure 7: tmp006 temperature sensor breadboard testing</a>     
 
-###### <a name="fig7">Figure 8: max30102 pulse and oximeter sensor breadboard testing</a>     
+###### <a name="fig8">Figure 8: max30102 pulse and oximeter sensor breadboard testing</a>     
    
-###### <a name="fig8">Figure 9: lm393 sound sensor breadboard testing</a>     
+###### <a name="fig9">Figure 9: lm393 sound sensor breadboard testing</a>     
 
 
 ### 2.4 Printed Circuit Board   
@@ -231,7 +231,17 @@ There are several
 - SIDS: Sudden Infant Death Syndrome. ![Figure 2: How-to-Protect-the-child-from-SIDS](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/5795caeb-0ffc-4240-8e5a-332ec3118474)
 ###### Figure 2: SIDS Poster: retrieved from www.drthindhomeopathy.com
 
-  SIDS is the leading cause of death in infants between one month and one year of age in the United States alone, where approximately 2500 children per year die as a result of SIDS.
+  SIDS is the leading cause of death in infants between one month and one year of age in the United States alone, where approximately 2500 children per year die as a result of SIDS[^1][^2][^3][^4].
+
+[^1]: UpToDate.com . Available at :https://www.uptodate.com/contents/sudden-infant-death-syndrome-sids-beyond-the-basics/print#:~:text=SIDS%20is%20the%20leading%20cause,as%20a%20result%20of%20SIDS.
+
+[^2]: Technology Report Guidelines. OACETT, Revised September 2022. Available at :https://www.mayoclinic.org/diseases-conditions/sudden-infant-death-syndrome/symptoms-causes/syc-20352800#:~:text=Sudden%20infant%20death%20syndrome%20is,often%20die%20in%20their%20cribs
+
+[^3]: Technology Report Guidelines. OACETT, Revised September 2022. Available at :https://kidshealth.org/en/parents/sids.html
+
+[^4]: Technology Report Guidelines. OACETT, Revised September 2022. Available at :https://www.childrenshospital.org/conditions/sudden-infant-death-syndrome-sids
+
+
 - Gastrointestinal issues: 
   It is the second leading cause of death in infants under 5 years of age. It is very common for babies to have gastrointestinal complications for a variety of reasons including diet, physical activity, and even sleep. However, common problems like diarrhea can seriously dehydrate the infant, often leading to underdeveloped organs, malnutrition, and even death. The worst part is most parents would never realize their baby is developing these complications, as this requires continuous monitoring of the baby's health, especially after meals. These often develop into bigger digestive issues as the baby grows, if not treated early. 
 - Heart Defects: 
@@ -239,7 +249,8 @@ There are several
 - Respiratory infections: 
   Babies commonly develop respiratory infections under the age of 5. If not diagnosed and monitored properly, they lead to lifelong respiratory complications, limiting the baby's ability for physical activities, and hence deeply affecting their futures. Not just that, respiratory infections cause 5.02 deaths per 1000 live births in the US alone. 
 - Prematurely born babies: 
-  An estimated 13.4 million babies were born pre-term in 2020, with nearly 1 million dying from preterm complications worldwide. It is not feasible for all parents to keep their children in the ICU for months. Monitoring such babies' sleep, heart rates, and oxygen levels during different times of the day can make all the difference. 
+  An estimated 13.4 million babies were born pre-term in 2020, with nearly 1 million dying from preterm complications worldwide. It is not feasible for all parents to keep their children in the ICU for months. Monitoring such babies' sleep, heart rates, and oxygen levels during different times of the day can make all the difference.
+  
 ### <a name="similar_products">5.2 Similar products available in the market</a>
 There have been similar attempts at making health monitors, bracelets, and infant care devices. However, SIHMON brings a fresh approach. The idea of making SIHMON as a bracelet was inspired by the Apple Smart Watch. Previous attempts at monitoring the baby's health include cameras, temperature, and sleep quality monitors. However, these focus mostly on external agents. SIHMON focuses on monitoring the baby's health itself, and not the environment the baby is in. It is tailored for infants and babies with health complications.
 
@@ -273,7 +284,7 @@ This is the link to the GitHub repository of our software project for the mobile
 [Link to GitHub repository of the Mobile App Project](https://github.com/ZoyebaMahbub5837/InfantHealthMonitor).   
 
 ## 8.0 References   
-- https://www.uptodate.com/contents/sudden-infant-death-syndrome-sids-beyond-the-basics/print#:~:text=SIDS%20is%20the%20leading%20cause,as%20a%20result%20of%20SIDS.
+- 
 - https://www.bestbuy.ca/en-ca/product/owlet-dream-duo-with-cam-2-wearable-baby-monitor-ps04nmbbj-mint-green/16370778?cmp=knc-s-71700000071826053&gad_source=1&gclid=Cj0KCQiA3uGqBhDdARIsAFeJ5r1eDRFvVe-JG9XNVT66-kG2XsYuzoVu2mWZphQhz-62qWaP-wFTgZgaAtzNEALw_wcB&gclsrc=aw.ds
 - https://www.bestbuy.ca/en-ca/product/apple-watch-series-9-gps-45mm-midnight-aluminium-case-with-midnight-sport-band-medium-large-160-210mm/17278985
 - https://www.mayoclinic.org/diseases-conditions/sudden-infant-death-syndrome/symptoms-causes/syc-20352800#:~:text=Sudden%20infant%20death%20syndrome%20is,often%20die%20in%20their%20cribs.
