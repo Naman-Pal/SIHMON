@@ -140,12 +140,15 @@ In essence, SIHMON is a straightforward yet impactful solution. It envisions a f
 [Figure 8.1: max30102 pulse and oximeter sensor breadboard testing using finger](#fig8.1)  
 [Figure 8.2: max30102 pulse and oximeter with Raspberry Pi](#fig8.2)  
 [Figure 9: lm393 sound sensor breadboard testing](#fig9)  
-
+[Figure 10.1: PCB View in Fritzing Software](#fig10.1)  
+[Figure 10.2: PCB in Gerber Format on the JLCPCB website](#fig10.2)  
+[Figure 10.3: Unassembled PCB from JLCPCB](#fig10.3)  
+[Figure 10.4: PCB after assembly: includes 4 sensors, resistors, transistor, short pin headers, LED, and connection with Raspberry Pi](#fig10.4)  
 
 
 ## 1.0 Introduction   
 ### 1.1 Background   
-Our vision is to provide parents/caregivers, a convenient way to monitor their infant’s health in real-time. With the baby wearing the bracelet, parents can track their baby's critical health metrics and receive alerts if the metrics cross a certain threshold. Inspired by the increasing deaths worldwide caused by SIDS (Sudden Infant Death Syndrome), we created SIHMON (Smart Infant Health MONitor). SIHMON will revolutionize the Healthcare Industry by providing a user-friendly interface to monitor the health information of the infant, understand trends, and share information with healthcare professionals. Even non-technical caregivers can easily navigate our app. Ultimately, we aim to help parents/caregivers ensure their baby's well-being and give them peace of mind. This report dives into the development methodologies and strategies, including the software and hardware we used to bring the idea of SIHMON to reality. We have used an iterative approach to build this report.
+Our vision is to provide parents/caregivers, with a convenient way to monitor their infant’s health in real-time. With the baby wearing the bracelet, parents can track their baby's critical health metrics and receive alerts if the metrics cross a certain threshold. Inspired by the increasing deaths worldwide caused by SIDS (Sudden Infant Death Syndrome), we created SIHMON (Smart Infant Health MONitor). SIHMON will revolutionize the Healthcare Industry by providing a user-friendly interface to monitor the health information of the infant, understand trends, and share information with healthcare professionals. Even non-technical caregivers can easily navigate our app. Ultimately, we aim to help parents/caregivers ensure their baby's well-being and give them peace of mind. This report dives into the development methodologies and strategies, including the software and hardware we used to bring the idea of SIHMON to reality. We have used an iterative approach to build this report.
 
 ### 1.2 Project Requirements and Specifications   
 #### 1.2.1 Hardware Requirements: -
@@ -199,8 +202,18 @@ The breadboard circuit was extensively used to test our circuits and sensors. We
 ![WhatsApp Image 2023-11-28 at 09 24 58](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/a86ee815-86a9-4900-839d-57dea8ee8c61)
 
 ### 2.4 Printed Circuit Board   
-After rigorously and successfully testing all the sensors on a breadboard, we tested each circuit on the PCB. We used the Fritzing software to build our PCB design. We collaborated with JLCPCB, a well-known Chinese PCB manufacturer, to produce our PCBs. We assembled one PCB per sensor: we soldered resistors, transistors, LED, and a short pin header (one for each sensor) onto each PCB, and successfully tested all 4 circuits.   
-Hence, we combined all 4 sensors into one PCB and tested the final circuit.
+After rigorously and successfully testing all the sensors on a breadboard, we tested each circuit on the PCB. We used the Fritzing software to build our PCB design. 
+###### <a name="fig10.1">Figure 10.1: PCB View in Fritzing Software</a>     
+![PCB View](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/cafe0a56-8a6f-419c-8b30-12b104b90955)   
+We collaborated with JLCPCB, a well-known Chinese PCB manufacturer, to produce our PCBs. We sent out the design to JLCPCB in Gerber format. 
+###### <a name="fig10.2">Figure 10.2: PCB in Gerber Format on the JLCPCB website</a>     
+![Gerber View](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/37bfbe9f-8e8d-4b63-90d6-997300b11087)   
+###### <a name="fig10.3">Figure 10.3: Unassembled PCB from JLCPCB</a>     
+![unz](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/7ad4ed43-4457-4faf-972a-4695bc36d2ff)   
+We assembled one PCB per sensor by soldering resistors, transistors, LED, and a short pin header onto each PCB. We soldered short pin headers onto the PCB instead of the sensor themselves so that we could attach and remove sensors, hence making it easier to troubleshoot any potential errors. and successfully tested all 4 circuits. Hence, we combined all 4 sensors into one PCB and tested the final circuit.   
+###### <a name="fig10.4">Figures 10.4.1 and 10.4.2: PCB after assembly: includes 4 sensors, resistors, transistor, short pin headers, LED, and connection with Raspberry Pi</a>     
+![as2z](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/8fbb4bfd-a01d-4df6-ac9f-fafe25a3ce31)    
+![as1z](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/0a773493-3250-4506-9092-09e1d2dc94bb)   
 
 #### 2.4.1 Independent   
 #### 2.4.2 Combined   
