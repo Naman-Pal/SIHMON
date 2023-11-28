@@ -172,7 +172,7 @@ The schematic circuit design was completed on Fritzing PC software and laid the 
 The breadboard circuit was extensively used to test our circuits and sensors. We tested every sensor individually before assembling them onto our PCB.   
 
 ###### <a name="fig6.1">Figure 6.1: adxl345 accelerometer sensor breadboard testing</a>     
-![Sensor testing picture 3](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/a7d28919-b1b4-4d71-b8bf-20df09e7203f)
+![Sensor testing picture 3](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/a7d28919-b1b4-4d71-b8bf-20df09e7203f | height="50")
 ###### <a name="fig6.2">Figure 6.2: adxl345 with LED breadboard testing</a>     
 ![image](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/0e0e88fa-92df-4040-a812-154719fe6073)
 ###### <a name="fig7.1">Figure 7.1: tmp006 temperature sensor and LED breadboard testing</a>     
@@ -181,8 +181,8 @@ The breadboard circuit was extensively used to test our circuits and sensors. We
 ![PI](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/154cb657-83c6-44c1-ad5f-2538c8d68da9)
 
 ###### <a name="fig8">Figure 8: max30102 pulse and oximeter sensor breadboard testing</a>     
-   
 ###### <a name="fig9">Figure 9: lm393 sound sensor breadboard testing</a>     
+![WhatsApp Image 2023-11-28 at 09 24 58](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/a86ee815-86a9-4900-839d-57dea8ee8c61)
 
 ### 2.4 Printed Circuit Board   
 After rigorously and successfully testing all the sensors on a breadboard, we tested each circuit on the PCB. We used the Fritzing software to build our PCB design. We collaborated with JLCPCB, a well-known Chinese PCB manufacturer, to produce our PCBs. We assembled one PCB per sensor: we soldered resistors, transistors, LED, and a short pin header (one for each sensor) onto each PCB, and successfully tested all 4 circuits.   
@@ -237,19 +237,32 @@ There are several
 
 [^1]: UpToDate.com . Available at :https://www.uptodate.com/contents/sudden-infant-death-syndrome-sids-beyond-the-basics/print#:~:text=SIDS%20is%20the%20leading%20cause,as%20a%20result%20of%20SIDS.
 
-[^2]: Technology Report Guidelines. OACETT, Revised September 2022. Available at :https://www.mayoclinic.org/diseases-conditions/sudden-infant-death-syndrome/symptoms-causes/syc-20352800#:~:text=Sudden%20infant%20death%20syndrome%20is,often%20die%20in%20their%20cribs
+[^2]: MayoClinic. (2023). Sudden Infant Death Syndrome (SIDS). Available at :https://www.mayoclinic.org/diseases-conditions/sudden-infant-death-syndrome/symptoms-causes/syc-20352800#:~:text=Sudden%20infant%20death%20syndrome%20is,often%20die%20in%20their%20cribs.   
 
-[^3]: Technology Report Guidelines. OACETT, Revised September 2022. Available at :https://kidshealth.org/en/parents/sids.html
+[^3]: Ben-Joseph E. & Nemours Kids Health. (2022). Sudden Infant Death Syndrome (SIDS). Available at :https://kidshealth.org/en/parents/sids.html
 
-[^4]: Technology Report Guidelines. OACETT, Revised September 2022. Available at :https://www.childrenshospital.org/conditions/sudden-infant-death-syndrome-sids
+[^4]: Childrenshospital.org. (n.d.). What you need to know about SIDS. Available at :https://www.childrenshospital.org/conditions/sudden-infant-death-syndrome-sids
 
 
 - Gastrointestinal issues: 
-  It is the second leading cause of death in infants under 5 years of age. It is very common for babies to have gastrointestinal complications for a variety of reasons including diet, physical activity, and even sleep. However, common problems like diarrhea can seriously dehydrate the infant, often leading to underdeveloped organs, malnutrition, and even death. The worst part is most parents would never realize their baby is developing these complications, as this requires continuous monitoring of the baby's health, especially after meals. These often develop into bigger digestive issues as the baby grows, if not treated early. 
+  It is the second leading cause of death in infants under 5 years of age. It is very common for babies to have gastrointestinal complications for a variety of reasons including diet, physical activity, and even sleep. However, common problems like diarrhea can seriously dehydrate the infant, often leading to underdeveloped organs, malnutrition, and even death [^5}. The worst part is most parents would never realize their baby is developing these complications, as this requires continuous monitoring of the baby's health, especially after meals. These often develop into bigger digestive issues as the baby grows, if not treated early.
+
+[^5]: who.int. (2017). Diarrhoeal disease. Available at :https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease
+  
 - Heart Defects: 
-  About 40,000 babies are born with Heart defects each year in the US alone. Such babies are vulnerable to more serious complications like respiratory diseases, poor brain and organ development, and malnutrition. Such babies' health has to be monitored to ensure the baby's proper development, especially during the early stages of their lives.
+  About 40,000 babies are born with Heart defects each year in the US alone[^6]. Such babies are vulnerable to more serious complications like respiratory diseases, poor brain and organ development, and malnutrition[^7]. Such babies' health has to be monitored to ensure the baby's proper development, especially during the early stages of their lives.
+
+[^6]: marchofdimes.org. (2019). Congenital Heart Defects and CHDs. Available at :https://www.marchofdimes.org/find-support/topics/planning-baby/congenital-heart-defects-and-critical-chds
+
+[^7]: cdc.gov. (2023). Congenital Heart Defects. Available at :https://www.cdc.gov/ncbddd/heartdefects/facts.html#:~:text=CHDs%20are%20present%20at%20birth,formed%20parts%20of%20the%20heart
+
 - Respiratory infections: 
-  Babies commonly develop respiratory infections under the age of 5. If not diagnosed and monitored properly, they lead to lifelong respiratory complications, limiting the baby's ability for physical activities, and hence deeply affecting their futures. Not just that, respiratory infections cause 5.02 deaths per 1000 live births in the US alone. 
+  Babies commonly develop respiratory infections under the age of 5. If not diagnosed and monitored properly, they lead to lifelong respiratory complications, limiting the baby's ability for physical activities, and hence deeply affecting their futures. Not just that, respiratory infections cause 5.02 deaths per 1000 live births in the US alone[^8].
+  
+[^8]: National Library of Medicine (US Govt.). (2019). Mortality Associated With Acute Respiratory Infections Among Children at Home. Available at :https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6325348/
+  
+  
+
 - Prematurely born babies: 
   An estimated 13.4 million babies were born pre-term in 2020, with nearly 1 million dying from preterm complications worldwide. It is not feasible for all parents to keep their children in the ICU for months. Monitoring such babies' sleep, heart rates, and oxygen levels during different times of the day can make all the difference.
   
@@ -289,10 +302,8 @@ This is the link to the GitHub repository of our software project for the mobile
 - 
 - https://www.bestbuy.ca/en-ca/product/owlet-dream-duo-with-cam-2-wearable-baby-monitor-ps04nmbbj-mint-green/16370778?cmp=knc-s-71700000071826053&gad_source=1&gclid=Cj0KCQiA3uGqBhDdARIsAFeJ5r1eDRFvVe-JG9XNVT66-kG2XsYuzoVu2mWZphQhz-62qWaP-wFTgZgaAtzNEALw_wcB&gclsrc=aw.ds
 - https://www.bestbuy.ca/en-ca/product/apple-watch-series-9-gps-45mm-midnight-aluminium-case-with-midnight-sport-band-medium-large-160-210mm/17278985
-- https://www.mayoclinic.org/diseases-conditions/sudden-infant-death-syndrome/symptoms-causes/syc-20352800#:~:text=Sudden%20infant%20death%20syndrome%20is,often%20die%20in%20their%20cribs.
-- https://kidshealth.org/en/parents/sids.html
-- https://www.childrenshospital.org/conditions/sudden-infant-death-syndrome-sids
-- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6325348/
+- 
+- 
 - https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease
 - https://www.cdc.gov/ncbddd/heartdefects/facts.html#:~:text=CHDs%20are%20present%20at%20birth,formed%20parts%20of%20the%20heart).
 - https://www.marchofdimes.org/find-support/topics/planning-baby/congenital-heart-defects-and-critical-chds
