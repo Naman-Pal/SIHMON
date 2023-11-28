@@ -78,7 +78,7 @@ The bracelet monitors the infant’s health using sensors like heart rate, oxyge
 [3.0 Mobile Application Report](#30-mobile-application-report)  
 [3.1 Layout](#31-layout)  
 [3.1.1 Splash Screen with Drawable Image](#311-splash-screen-with-drawable-image)  
-[3.1.2 App Icon](#312-app-icon)  
+[3.1.2 App Icon](#312-app-icon)   
 [3.1.3 User Sign-Up/Registration, Login Activity, Reset/Lost Password](#313-user-sign-upregistration-login-activity-resetlost-password)  
 [3.1.4 Data Visualization Activity](#314-data-visualization-activity)  
 [3.1.5 Action Control Activity](#315-action-control-activity)  
@@ -106,6 +106,10 @@ The bracelet monitors the infant’s health using sensors like heart rate, oxyge
 [4.7 Solutions](#47-solutions)  
 
 [5.0 Results and Discussion](#50-results-and-discussion)
+[5.1 Research on Infant Health Worldwide](#research)
+[5.2 Similar products available in the market](#similar_products)
+
+
 
 [6.0 Conclusions](#60-conclusions)
 
@@ -224,7 +228,7 @@ PYTHON CODE BI KIYA
 ### 4.7 Solutions   
 
 ## 5.0 Results and Discussion   
-### 5.1 Research on Infant Health Worldwide
+### <a name="research">5.1 Research on Infant Health Worldwide</a>
 There are several 
 - SIDS: Sudden Infant Death Syndrome. ![Figure 2: How-to-Protect-the-child-from-SIDS](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/5795caeb-0ffc-4240-8e5a-332ec3118474)
 ###### Figure 2: SIDS Poster: retrieved from www.drthindhomeopathy.com
@@ -238,8 +242,7 @@ There are several
   Babies commonly develop respiratory infections under the age of 5. If not diagnosed and monitored properly, they lead to lifelong respiratory complications, limiting the baby's ability for physical activities, and hence deeply affecting their futures. Not just that, respiratory infections cause 5.02 deaths per 1000 live births in the US alone. 
 - Prematurely born babies: 
   An estimated 13.4 million babies were born pre-term in 2020, with nearly 1 million dying from preterm complications worldwide. It is not feasible for all parents to keep their children in the ICU for months. Monitoring such babies' sleep, heart rates, and oxygen levels during different times of the day can make all the difference. 
-
-### 5.2 Similar products available in the market
+### <a name="similar_products">5.2 Similar products available in the market</a>
 There have been similar attempts at making health monitors, bracelets, and infant care devices. However, SIHMON brings a fresh approach. The idea of making SIHMON as a bracelet was inspired by the Apple Smart Watch. Previous attempts at monitoring the baby's health include cameras, temperature, and sleep quality monitors. However, these focus mostly on external agents. SIHMON focuses on monitoring the baby's health itself, and not the environment the baby is in. It is tailored for infants and babies with health complications.
 
 Some previously implemented projects include: -
