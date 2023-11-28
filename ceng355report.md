@@ -105,13 +105,11 @@ The bracelet monitors the infant’s health using sensors like heart rate, oxyge
 [4.6 Challenges/Problems](#46-challengesproblems)  
 [4.7 Solutions](#47-solutions)  
 
-[5.0 Results and Discussion](#50-results-and-discussion)
-[5.1 Research on Infant Health Worldwide](#research)
-[5.2 Similar products available in the market](#similar_products)
+[5.0 Results and Discussion](#50-results-and-discussion)   
+[5.1 Research on Infant Health Worldwide](#research)   
+[5.2 Similar products available in the market](#similar_products)   
 
-
-
-[6.0 Conclusions](#60-conclusions)
+[6.0 Conclusions](#60-conclusions)   
 
 [7.0 Appendix](#70-appendix)  
 [7.1 Firmware Code](#71-firmware-code)  
@@ -268,9 +266,11 @@ In essence, SIHMON represents human ingenuity and care. Through SIHMON, we envis
 
 ## 7.0 Appendix
 ### 7.1 Firmware code   
-[Link to firmware](firmware).
+This is the link to our firmware, which includes individual Python test files for each of our sensors, and our final Python program. The final program is in the 'Final Python' directory and includes 4 files: 3 dependencies, and one main file.   
+[Link to firmware](firmware).   
 ### 7.2 Mobile Application code   
-[Link to GitHub repository of the Mobile App Project](https://github.com/ZoyebaMahbub5837/InfantHealthMonitor).
+This is the link to the GitHub repository of our software project for the mobile app. The app is built on Android Studio with Java and XML.   
+[Link to GitHub repository of the Mobile App Project](https://github.com/ZoyebaMahbub5837/InfantHealthMonitor).   
 
 ## 8.0 References   
 - https://www.uptodate.com/contents/sudden-infant-death-syndrome-sids-beyond-the-basics/print#:~:text=SIDS%20is%20the%20leading%20cause,as%20a%20result%20of%20SIDS.
