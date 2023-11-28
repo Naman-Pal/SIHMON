@@ -17,14 +17,14 @@ You will notice from the OACETT Guidelines pages 3 and 4 and from the PowerPoint
 | Section | Total Number of Pages | (A) Naman Pal | (B) Eshan Salwan | (C) Satinder Kaur | (D) Zoyeba Mahbub |
 | --- | --- | --- | --- | --- | --- |  
 | Preliminaries | 4 | 2 50% | 1 25% | 0.75 13% | 0.75 12% |  
-| Introduction | 2 | 2 100% | 0 0% | 0 0% | 0 0% |  
-| Hardware | x | y z% | y z% | y z% | y z% |  
+| Introduction | 4 | 4 100% | 0 0% | 0 0% | 0 0% |  
+| Hardware | x | 5 z% | y z% | y z% | y z% |  
 | Mobile Application Report | x | y z% | y z% | y z% | y z% |  
 | Integration | x | y z% | y z% | y z% | y z% |  
 | Results and Discussions | 3 | 3 100% | 0 0% | 0 0% | 0 0% |  
-| Conclusion | 1 | 1 100% | 0 0% | 0 0% | 0 0% |  
-| Appendix | x | y z% | y z% | y z% | y z% |  
-| References | 1 | 0.25 25% | 0.25 25% | 0.25 25% | 0.25 25% |  
+| Conclusion | 0.75 | 0.75 100% | 0 0% | 0 0% | 0 0% |  
+| Appendix | 0.5 | 0.5 100% | 0 0% | 0 0% | 0 0% |
+| References | 1 | 0.5 50% | 0.25 25% | 0.25 25% | 0.25 25% |  
 | Total | x | 5 25% | 5 25% | 5 25% | 5 25% |  
 
 
