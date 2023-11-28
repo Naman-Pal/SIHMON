@@ -181,6 +181,10 @@ The breadboard circuit was extensively used to test our circuits and sensors. We
 
 
 ### 2.4 Printed Circuit Board   
+After rigorously and successfully testing all the sensors on a breadboard, we tested each circuit on the PCB. We used the Fritzing software to build our PCB design. We collaborated with JLCPCB, a well-known Chinese PCB manufacturer, to produce our PCBs. We assembled one PCB per sensor: we soldered resistors, transistors, LED, and a short pin header (one for each sensor) onto each PCB, and successfully tested all 4 circuits.   
+Hence, we combined all 4 sensors into one PCB, and tested the final circuit.
+
+PYTHON CODE BI KIYA
 #### 2.4.1 Independent   
 #### 2.4.2 Combined   
 ### 2.5 Enclosure   
