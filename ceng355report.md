@@ -137,8 +137,10 @@ In essence, SIHMON is a straightforward yet impactful solution. It envisions a f
 [Figure 6.2: adxl345 with LED breadboard testing](#fig6.2)  
 [Figure 7.1: tmp006 temperature sensor and LED breadboard testing](#fig7.1)  
 [Figure 7.2: tmp006 temperature sensor breadboard testing with Raspberry Pi](#fig7.2)  
-[Figure 8: max30102 pulse and oximeter sensor breadboard testing](#fig8)  
+[Figure 8.1: max30102 pulse and oximeter sensor breadboard testing using finger](#fig8.1)  
+[Figure 8.2: max30102 pulse and oximeter with Raspberry Pi](#fig8.2)  
 [Figure 9: lm393 sound sensor breadboard testing](#fig9)  
+
 
 
 ## 1.0 Introduction   
@@ -189,16 +191,17 @@ The breadboard circuit was extensively used to test our circuits and sensors. We
 ![LED](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/cec45bdc-3eca-4be9-af97-8a9e0a747d84)
 ###### <a name="fig7.2">Figure 7.2: tmp006 temperature sensor breadboard testing with Raspberry Pi</a>     
 ![PI](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/154cb657-83c6-44c1-ad5f-2538c8d68da9)
-
-###### <a name="fig8">Figure 8: max30102 pulse and oximeter sensor breadboard testing</a>     
+###### <a name="fig8.1">Figure 8.1: max30102 pulse and oximeter sensor breadboard testing using finger</a>     
+![w finger](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/7180bd8d-c992-420b-941e-3f820219f166)
+###### <a name="fig8.2">Figure 8.2: max30102 pulse and oximeter with Raspberry Pi</a>     
+![w pi](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/0cce92cf-6512-441a-8f7c-30b2c9858882)
 ###### <a name="fig9">Figure 9: lm393 sound sensor breadboard testing</a>     
 ![WhatsApp Image 2023-11-28 at 09 24 58](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/a86ee815-86a9-4900-839d-57dea8ee8c61)
 
 ### 2.4 Printed Circuit Board   
 After rigorously and successfully testing all the sensors on a breadboard, we tested each circuit on the PCB. We used the Fritzing software to build our PCB design. We collaborated with JLCPCB, a well-known Chinese PCB manufacturer, to produce our PCBs. We assembled one PCB per sensor: we soldered resistors, transistors, LED, and a short pin header (one for each sensor) onto each PCB, and successfully tested all 4 circuits.   
-Hence, we combined all 4 sensors into one PCB, and tested the final circuit.
+Hence, we combined all 4 sensors into one PCB and tested the final circuit.
 
-PYTHON CODE BI KIYA
 #### 2.4.1 Independent   
 #### 2.4.2 Combined   
 ### 2.5 Enclosure   
@@ -255,7 +258,7 @@ There are several
 
 
 - Gastrointestinal issues: 
-  It is the second leading cause of death in infants under 5 years of age. It is very common for babies to have gastrointestinal complications for a variety of reasons including diet, physical activity, and even sleep. However, common problems like diarrhea can seriously dehydrate the infant, often leading to underdeveloped organs, malnutrition, and even death [^5]. The worst part is most parents would never realize their baby is developing these complications, as this requires continuous monitoring of the baby's health, especially after meals. These often develop into bigger digestive issues as the baby grows, if not treated early.
+  It is the second leading cause of death in infants under 5 years of age. It is widespread for babies to have gastrointestinal complications for a variety of reasons including diet, physical activity, and even sleep. However, common problems like diarrhea can seriously dehydrate the infant, often leading to underdeveloped organs, malnutrition, and even death [^5]. The worst part is most parents would never realize their baby is developing these complications, as this requires continuous monitoring of the baby's health, especially after meals. If not treated early, these often develop into bigger digestive issues as the baby grows.
 
 [^5]: who.int. (2017). Diarrhoeal disease. Available at :https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease
   
