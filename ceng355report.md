@@ -125,7 +125,8 @@ The bracelet monitors the infant’s health using sensors like heart rate, oxyge
 [Figure 5: Figure 5: Collective Schematic Design](#fig5)  
 [Figure 6.1: adxl345 accelerometer sensor breadboard testing](#fig6.1)  
 [Figure 6.2: adxl345 with LED breadboard testing](#fig6.2)  
-[Figure 7: tmp006 temperature sensor breadboard testing](#fig8)  
+[Figure 7.1: tmp006 temperature sensor and LED breadboard testing](#fig7.1)  
+[Figure 7.2: tmp006 temperature sensor breadboard testing with Raspberry Pi](#fig7.2)  
 [Figure 8: max30102 pulse and oximeter sensor breadboard testing](#fig8)  
 [Figure 9: lm393 sound sensor breadboard testing](#fig9)  
 
@@ -164,23 +165,24 @@ Final Schedule: 2 Latest Sprint Plans
 ### 2.2 Schematic   
 ###### <a name="fig5">Figure 5: Collective Schematic Design</a>     
 
-The schematic circuit design was completed on Fritzing PC software and laid the foundation for our breadboard and hence the PCB circuit. 
+The schematic circuit design was completed on Fritzing PC software and laid the foundation for our breadboard and hence the PCB circuit.   
 ![Schematic View](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/82e7b46b-07fc-4149-bcec-60ad6d77be41)
 
 ### 2.3 Breadboard   
 The breadboard circuit was extensively used to test our circuits and sensors. We tested every sensor individually before assembling them onto our PCB.   
 
 ###### <a name="fig6.1">Figure 6.1: adxl345 accelerometer sensor breadboard testing</a>     
-![image](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/0e0e88fa-92df-4040-a812-154719fe6073)
+![Sensor testing picture 3](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/a7d28919-b1b4-4d71-b8bf-20df09e7203f)
 ###### <a name="fig6.2">Figure 6.2: adxl345 with LED breadboard testing</a>     
 ![image](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/0e0e88fa-92df-4040-a812-154719fe6073)
-
-###### <a name="fig"7>Figure 7: tmp006 temperature sensor breadboard testing</a>     
+###### <a name="fig7.1">Figure 7.1: tmp006 temperature sensor and LED breadboard testing</a>     
+![LED](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/cec45bdc-3eca-4be9-af97-8a9e0a747d84)
+###### <a name="fig7.2">Figure 7.2: tmp006 temperature sensor breadboard testing with Raspberry Pi</a>     
+![PI](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/154cb657-83c6-44c1-ad5f-2538c8d68da9)
 
 ###### <a name="fig8">Figure 8: max30102 pulse and oximeter sensor breadboard testing</a>     
    
 ###### <a name="fig9">Figure 9: lm393 sound sensor breadboard testing</a>     
-
 
 ### 2.4 Printed Circuit Board   
 After rigorously and successfully testing all the sensors on a breadboard, we tested each circuit on the PCB. We used the Fritzing software to build our PCB design. We collaborated with JLCPCB, a well-known Chinese PCB manufacturer, to produce our PCBs. We assembled one PCB per sensor: we soldered resistors, transistors, LED, and a short pin header (one for each sensor) onto each PCB, and successfully tested all 4 circuits.   
