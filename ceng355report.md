@@ -101,7 +101,8 @@ In essence, SIHMON is a straightforward yet impactful solution. It envisions a f
 [3.3 Navigation Drawer](#33-navigation-drawer)  
 [3.4 End-User Considerations](#34-end-user-considerations)  
 [3.4.1 User Interface](#341-user-interface)  
-[3.5 Firebase Authentication](#35-firebase-authentication)  
+[3.5 Firebase Authentication](#35-firebase-authentication) 
+In our app, we use Firebase Authentication to make secure authentication easy while improving the sign-in and onboarding experience for end users. It provides endless scalability, supporting login for email and password accounts, Google, Twitter, and Facebook.
 [3.5.1 Backend - Push/Pull from Firebase Database](#351-backend--pushpull-from-firebase-database)  
 [3.6 Internationalization](#36-internationalization)  
 [3.7 Test Cases](#37-test-cases)  
