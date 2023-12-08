@@ -219,7 +219,16 @@ We assembled one PCB per sensor by soldering resistors, transistors, LED, and a 
 #### 2.4.2 Combined   
 ### 2.5 Enclosure   
 #### 2.5.1 Laser cutting   
-#### 2.5.2 3D printing   
+#### Design and Material Selection
+The enclosure was designed using CorelDRAW, a vector graphics editor, to achieve an intricate design suitable for laser cutting.3mm acrylic material was chosen due to its transparency, sturdiness, and laser-friendly properties, allowing for a clear view of the internal components while protecting them.
+
+![image](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/105024283/3ae148f4-b9ec-4693-a295-600a1a1c0cd4)
+#### Fabrication Process, Assembly and Features
+The design was sent to Humber's Laser Cut Studio for precision cutting. Post-cutting, the enclosure was assembled with features tailored for functionality:
+Cable Management: Openings were included to facilitate power and peripheral connections to the Raspberry Pi.
+Network Connectivity: Accommodations were made to allow for Ethernet adapter connection without compromising the case's structure.
+Ventilation: Holes were strategically placed for airflow to prevent overheating.
+Sensor Accessibility: The design features a dedicated cutout aligned with the microphone of the sound sensor, permitting unobstructed sound detection. A top opening allows easy access to the sensors, ensuring convenience in monitoring and maintenance tasks.
 ### 2.6 Image/firmware   
 ### 2.7 Connectivity/testing   
 
