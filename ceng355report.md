@@ -148,7 +148,7 @@ In essence, SIHMON is a straightforward yet impactful solution. It envisions a f
 
 ## 1.0 Introduction   
 ### 1.1 Background   
-Our vision is to provide parents/caregivers, with a convenient way to monitor their infant’s health in real-time. With the baby wearing the bracelet, parents can track their baby's critical health metrics and receive alerts if the metrics cross a certain threshold. Inspired by the increasing deaths worldwide caused by SIDS (Sudden Infant Death Syndrome), we created SIHMON (Smart Infant Health MONitor). SIHMON will revolutionize the Healthcare Industry by providing a user-friendly interface to monitor the health information of the infant, understand trends, and share information with healthcare professionals. Even non-technical caregivers can easily navigate our app. Ultimately, we aim to help parents/caregivers ensure their baby's well-being and give them peace of mind. This report dives into the development methodologies and strategies, including the software and hardware we used to bring the idea of SIHMON to reality. We have used an iterative approach to build this report.
+Our vision is to provide parents/caregivers, with a convenient way to monitor their infant’s health in real-time. With the baby wearing the bracelet, parents can track their baby's critical health metrics and receive alerts if the metrics cross a certain threshold. Inspired by the increasing deaths worldwide caused by SIDS (Sudden Infant Death Syndrome), SIHMON was created (Smart Infant Health MONitor). SIHMON will revolutionize the Healthcare Industry by providing a user-friendly interface to monitor the health information of the infant, understand trends, and share information with healthcare professionals. Even non-technical caregivers can easily navigate our app. Ultimately, we aim to help parents/caregivers ensure their baby's well-being and give them peace of mind. This report dives into the development methodologies and strategies, including the software and hardware used to bring the idea of SIHMON to reality. We have used an iterative approach to build this report.
 
 ### 1.2 Project Requirements and Specifications   
 #### 1.2.1 Hardware Requirements: -
@@ -158,7 +158,7 @@ Our vision is to provide parents/caregivers, with a convenient way to monitor th
 - 40-pin stacking header for Raspberry Pi
 - Hardware Case: created for SIHMON by BioBytes
 ### 1.3 Project Schedule   
-Final Gantt Charts: Indlude the 2 latest updates to our Mobile App 
+Final Gantt Charts: Indlude the 2 latest updates to the Mobile App 
 ###### <a name="fig1">Figure 1: Gantt Chart 1</a>     
 ![image](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/098c8d50-4f4b-49fb-bded-e09b8a8cff35)
 ###### <a name="fig2">Figure 2: Gantt Chart 2</a>    
@@ -180,11 +180,11 @@ Final Schedule: 2 Latest Sprint Plans
 ### 2.2 Schematic   
 ###### <a name="fig5">Figure 5: Collective Schematic Design</a>     
 
-The schematic circuit design was completed on Fritzing PC software and laid the foundation for our breadboard and hence the PCB circuit.   
+The schematic circuit design was completed on Fritzing PC software and laid the foundation for the breadboard and hence the PCB circuit.   
 ![Schematic View](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/82e7b46b-07fc-4149-bcec-60ad6d77be41)
 
 ### 2.3 Breadboard   
-The breadboard circuit was extensively used to test our circuits and sensors. We tested every sensor individually before assembling them onto our PCB.   
+The breadboard circuit was extensively used to test the circuits and sensors. Every sensor was tested individually before assembling them onto the PCB.   
 
 ###### <a name="fig6.1">Figure 6.1: adxl345 accelerometer sensor breadboard testing</a>     
 ![Sensor testing picture 3](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/a7d28919-b1b4-4d71-b8bf-20df09e7203f)
@@ -202,15 +202,15 @@ The breadboard circuit was extensively used to test our circuits and sensors. We
 ![WhatsApp Image 2023-11-28 at 09 24 58](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/a86ee815-86a9-4900-839d-57dea8ee8c61)
 
 ### 2.4 Printed Circuit Board   
-After rigorously and successfully testing all the sensors on a breadboard, we tested each circuit on the PCB. We used the Fritzing software to build our PCB design. 
+After rigorously and successfully testing all the sensors on a breadboard, each circuit was tested on the PCB. The Fritzing software was used to build the PCB design. 
 ###### <a name="fig10.1">Figure 10.1: PCB View in Fritzing Software</a>     
 ![PCB View](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/cafe0a56-8a6f-419c-8b30-12b104b90955)   
-We collaborated with JLCPCB, a well-known Chinese PCB manufacturer, to produce our PCBs. We sent out the design to JLCPCB in Gerber format. 
+JLCPCB, a well-known Chinese PCB manufacturer, produced the PCBs. The design was sent to JLCPCB in Gerber format. 
 ###### <a name="fig10.2">Figure 10.2: PCB in Gerber Format on the JLCPCB website</a>     
 ![Gerber View](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/37bfbe9f-8e8d-4b63-90d6-997300b11087)   
 ###### <a name="fig10.3">Figure 10.3: Unassembled PCB from JLCPCB</a>     
 ![unz](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/7ad4ed43-4457-4faf-972a-4695bc36d2ff)   
-We assembled one PCB per sensor by soldering resistors, transistors, LED, and a short pin header onto each PCB. We soldered short pin headers onto the PCB instead of the sensor themselves so that we could attach and remove sensors, hence making it easier to troubleshoot any potential errors. and successfully tested all 4 circuits. Hence, we combined all 4 sensors into one PCB and tested the final circuit.   
+One PCB was assembled per sensor by soldering resistors, transistors, LED, and a short pin header onto each PCB. Short pin headers were soldered onto the PCB instead of the sensors themselves so that sensors could be attached or removed sensors, hence making it easier to troubleshoot any potential errors. and successfully tested all 4 circuits. Hence, all 4 sensors were combined into one PCB and tested the final circuit.   
 ###### <a name="fig10.4">Figures 10.4.1 and 10.4.2: PCB after assembly: includes 4 sensors, resistors, transistor, short pin headers, LED, and connection with Raspberry Pi</a>     
 ![as2z](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/8fbb4bfd-a01d-4df6-ac9f-fafe25a3ce31)    
 ![as1z](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/0a773493-3250-4506-9092-09e1d2dc94bb)   
@@ -253,7 +253,7 @@ Sensor Accessibility: The design features a dedicated cutout aligned with the mi
 ### 3.4 End-user Considerations   
 #### 3.4.1 User interface   
 ### 3.5 Firebase authentication   
-In our app, we use Firebase Authentication to make secure authentication easy while improving the sign-in and onboarding experience for end users. It provides endless scalability, supporting login for email and password accounts, Google, Twitter, and Facebook.
+In the app, Firebase Authentication is used to make secure authentication easy while improving the sign-in and onboarding experience for end users. It provides endless scalability, supporting login for email and password accounts, Google, Twitter, and Facebook.
 #### 3.5.1 Backend- push/pull from Firebase database   
 ### 3.6 Internationalization   
 ### 3.7 Test cases   
@@ -355,10 +355,10 @@ In essence, SIHMON represents human ingenuity and care. Through SIHMON, we envis
 
 ## 7.0 Appendix
 ### 7.1 Firmware code   
-This is the link to our firmware, which includes individual Python test files for each of our sensors, and our final Python program. The final program is in the 'Final Python' directory and includes 4 files: 3 dependencies, and one main file.   
+This is the link to the firmware, which includes individual Python test files for each of the sensors, and the final Python program. The final program is in the 'Final Python' directory and includes 4 files: 3 dependencies, and one main file.   
 [Link to firmware](firmware).   
 ### 7.2 Mobile Application code   
-This is the link to the GitHub repository of our software project for the mobile app. The app is built on Android Studio with Java and XML.   
+This is the link to the GitHub repository of the software project for the mobile app. The app is built on Android Studio with Java and XML.   
 [Link to GitHub repository of the Mobile App Project](https://github.com/ZoyebaMahbub5837/InfantHealthMonitor).   
 
 ## 8.0 References   
