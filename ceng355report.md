@@ -226,13 +226,13 @@ The enclosure was designed using CorelDRAW, a vector graphics editor, to achieve
 #### Fabrication Process, Assembly and Features
 The design was sent to Humber's Laser Cut Studio for precision cutting. Post-cutting, the enclosure was assembled with features tailored for functionality:
 
-Cable Management: Openings were included to facilitate power and peripheral connections to the Raspberry Pi.
+- Cable Management: Openings were included to facilitate power and peripheral connections to the Raspberry Pi.
 
-Network Connectivity: Accommodations were made to allow for Ethernet adapter connection without compromising the case's structure.
+- Network Connectivity: Accommodations were made to allow for Ethernet adapter connection without compromising the case's structure.
 
-Ventilation: Holes were strategically placed for airflow to prevent overheating.
+- Ventilation: Holes were strategically placed for airflow to prevent overheating.
 
-Sensor Accessibility: The design features a dedicated cutout aligned with the microphone of the sound sensor, permitting unobstructed sound detection. A top opening allows easy access to the sensors, ensuring convenience in monitoring and maintenance tasks.
+- Sensor Accessibility: The design features a dedicated cutout aligned with the microphone of the sound sensor, permitting unobstructed sound detection. A top opening allows easy access to the sensors, ensuring convenience in monitoring and maintenance tasks.
 ### 2.6 Image/firmware   
 ### 2.7 Connectivity/testing   
 
@@ -269,17 +269,17 @@ The Realtime Database offers a highly efficient platform for handling the live s
 #### Record Retention and Cloud Functions
 Sensor records are retained in the Firestore database for a period of 7 days. This duration is programmatically managed using Firebase Cloud Functions, which also facilitate the transfer of real-time readings from the Realtime Database to Firestore. The functions include:
 
-createDailyRecord: Initializes a new record for daily data capture.
+- createDailyRecord: Initializes a new record for daily data capture.
 
-deleteOldRecords: Scheduled to clean up records older than 7 days.
+- deleteOldRecords: Scheduled to clean up records older than 7 days.
 
-updateMovementRecord: Triggers upon movement data update in the Realtime Database.
+- updateMovementRecord: Triggers upon movement data update in the Realtime Database.
 
-updateOxygenRecord: Activates when new oxygen saturation data is received.
+- updateOxygenRecord: Activates when new oxygen saturation data is received.
 
-updatePulseRecord: Responds to changes in the heart rate data.
+- updatePulseRecord: Responds to changes in the heart rate data.
 
-updateTemperatureRecord: Captures updates to temperature readings.
+- updateTemperatureRecord: Captures updates to temperature readings.
 
 This configuration ensures up-to-date health monitoring with a manageable historical data footprint.
 
