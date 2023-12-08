@@ -225,9 +225,13 @@ The enclosure was designed using CorelDRAW, a vector graphics editor, to achieve
 ![image](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/105024283/3ae148f4-b9ec-4693-a295-600a1a1c0cd4)
 #### Fabrication Process, Assembly and Features
 The design was sent to Humber's Laser Cut Studio for precision cutting. Post-cutting, the enclosure was assembled with features tailored for functionality:
+
 Cable Management: Openings were included to facilitate power and peripheral connections to the Raspberry Pi.
+
 Network Connectivity: Accommodations were made to allow for Ethernet adapter connection without compromising the case's structure.
+
 Ventilation: Holes were strategically placed for airflow to prevent overheating.
+
 Sensor Accessibility: The design features a dedicated cutout aligned with the microphone of the sound sensor, permitting unobstructed sound detection. A top opening allows easy access to the sensors, ensuring convenience in monitoring and maintenance tasks.
 ### 2.6 Image/firmware   
 ### 2.7 Connectivity/testing   
@@ -257,6 +261,28 @@ In our app, we use Firebase Authentication to make secure authentication easy wh
 ## 4.0 Integration   
 ### 4.1 Enterprise wireless connectivity   
 ### 4.2 Database configuration   
+The database architecture is built on Firebase's ecosystem, utilizing both Firestore and the Realtime Database to manage user profiles, authentication, and sensor data.
+#### User Authentication and Profiles
+Firebase Authentication is utilized to manage user access and credentials, ensuring security and a seamless user experience. Upon successful login, user profiles are stored within the Firestore database, which is designed for richer, more complex data structures.
+#### Sensor Data Management
+The Realtime Database offers a highly efficient platform for handling the live sensor data stream. Each sensor's data is nested under a 'sensor' key, ensuring an organized and scalable data model.
+#### Record Retention and Cloud Functions
+Sensor records are retained in the Firestore database for a period of 7 days. This duration is programmatically managed using Firebase Cloud Functions, which also facilitate the transfer of real-time readings from the Realtime Database to Firestore. The functions include:
+
+createDailyRecord: Initializes a new record for daily data capture.
+
+deleteOldRecords: Scheduled to clean up records older than 7 days.
+
+updateMovementRecord: Triggers upon movement data update in the Realtime Database.
+
+updateOxygenRecord: Activates when new oxygen saturation data is received.
+
+updatePulseRecord: Responds to changes in the heart rate data.
+
+updateTemperatureRecord: Captures updates to temperature readings.
+
+This configuration ensures up-to-date health monitoring with a manageable historical data footprint.
+
 ### 4.3 Network and Security Considerations   
 ### 4.4 Unit Testing   
 ### 4.5 Production Testing   
