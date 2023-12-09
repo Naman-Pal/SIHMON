@@ -150,6 +150,7 @@ In essence, SIHMON is a straightforward yet impactful solution. It envisions a f
 [Figure 11.3: Login Page of the mobile application](#fig11.3)
 [Figure 11.4: About Us Screen of the mobile application](#fig11.4)
 [Figure 11.5: Settings Screen of the mobile application](#fig11.5)
+[Figure 11.6: Mobile Application Flow](#fig11.6)
 
 ## 1.0 Introduction   
 ### 1.1 Background   
@@ -277,7 +278,7 @@ The action control activity centers around setting threshold values, which is cr
 #### 3.1.6 About  
 The "About Us" section of the application articulates the core objective of facilitating infant health monitoring, outlining the functionality of the smart bracelet and its integration with the mobile app for real-time updates and alerts. It features a section that introduces the development team, adding a personal touch with illustrated avatars and names, which enhances user trust. 
 ###### <a name="fig11.4">Figure 11.4: About</a>
-<img src="https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/133720897/2c18510e-138c-4eb0-9d89-8a334995588e" alt="About" width="200" height="400" depth="100">
+<img src="https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/133720897/2c18510e-138c-4eb0-9d89-8a334995588e" alt="About Us Screen" width="200" height="400" depth="100">
 
 #### 3.1.7 Emergency  
 The 'Emergency' feature in the toolbar menu is a critical functionality designed for urgent situations. When accessed, it allows the user to make an immediate call to 911, ensuring rapid assistance can be sought during potential crises.
@@ -285,9 +286,13 @@ The 'Emergency' feature in the toolbar menu is a critical functionality designed
 #### 3.1.8 Settings 
 The settings screen in the application is a comprehensive control panel that allows users to customize their experience. It provides options to manage notifications, enable a portrait orientation lock, and set sound alerts. It features sliders for setting threshold values for various health indicators such as movement, temperature, heart rate, and oxygen saturation levels—critical for receiving personalized alerts. Additional settings include feedback submission, informational access to 'About Us', and a logout function for user security.
 ###### <a name="fig11.5">Figure 11.5: Settings</a>
-<img src="https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/133720897/1fbf982f-6a03-456a-9a41-6d26965d4379" alt="Settings" width="200" height="400" depth="100">
+<img src="https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/133720897/1fbf982f-6a03-456a-9a41-6d26965d4379" alt="Settings Screen" width="200" height="400" depth="100">
 
-### 3.2 Flow diagram   
+### 3.2 Flow diagram  
+The flow of the mobile application is strategically designed to ensure a smooth user journey from start to finish. Upon launching the app, users are greeted with a splash screen, followed by a login page. Once authenticated, they land on the home screen, which serves as a gateway to various features accessible through the navigation drawer and the toolbar. The navigation drawer offers detailed monitoring options like temperature and sleep, while the toolbar provides quick access to user profile settings and emergency contacts, encapsulating a comprehensive user experience.
+###### <a name="fig11.6">Figure 11.6: Mobile Application Flow</a>
+<img src="https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/133720897/4f2c7a2f-488a-4df3-812a-2136da0f6cb3" alt="Flow Diagram of mobile application" width="200" height="500" depth="200">
+
 #### 3.2.1 Toast message   
 #### 3.2.2 Exit confirmation dialog   
 ### 3.3 Navigation drawer   
