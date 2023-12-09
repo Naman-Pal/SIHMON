@@ -148,7 +148,7 @@ In essence, SIHMON is a straightforward yet impactful solution. It envisions a f
 [Figure 11.1: Splash Screen of the mobile application](#fig11.1)
 [Figure 11.2: Registration page of the mobile application](#fig11.2)
 [Figure 11.3: Login Page of the mobile application](#fig11.3)
-[Figure 12: Login Page of the mobile application](#fig12)
+[Figure 11.4: Login Page of the mobile application](#fig11.4)
 ## 1.0 Introduction   
 ### 1.1 Background   
 Our vision is to provide parents/caregivers, with a convenient way to monitor their infant’s health in real-time. With the baby wearing the bracelet, parents can track their baby's critical health metrics and receive alerts if the metrics cross a certain threshold. Inspired by the increasing deaths worldwide caused by SIDS (Sudden Infant Death Syndrome), SIHMON was created (Smart Infant Health MONitor). SIHMON will revolutionize the Healthcare Industry by providing a user-friendly interface to monitor the health information of the infant, understand trends, and share information with healthcare professionals. Even non-technical caregivers can easily navigate our app. Ultimately, we aim to help parents/caregivers ensure their baby's well-being and give them peace of mind. This report dives into the development methodologies and strategies, including the software and hardware used to bring the idea of SIHMON to reality. We have used an iterative approach to build this report.
@@ -273,7 +273,7 @@ The application's data visualization uses line charts to display key health metr
 
 #### 3.1.6 About  
 The "About Us" section of the application articulates the core objective of facilitating infant health monitoring, outlining the functionality of the smart bracelet and its integration with the mobile app for real-time updates and alerts. It features a section that introduces the development team, adding a personal touch with illustrated avatars and names, which enhances user trust. 
-###### <a name="fig12">Figure 12: About</a>
+###### <a name="fig11.4">Figure 11.4: About</a>
 <img src="https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/133720897/2c18510e-138c-4eb0-9d89-8a334995588e" alt="About" width="200" height="400" depth="100">
 
 #### 3.1.7 Emergency   
