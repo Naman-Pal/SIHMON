@@ -314,7 +314,9 @@ The app, Firebase Authentication is used to make secure authentication easy whil
 ### 3.6 Internationalization   
 ### 3.7 Test cases
 In this project test cases are utilized to test the proper functionality of specific components of the app. The app uses a navigation drawer to enhance end users' UI experience, specific test cases are made to ensure the user is getting the expected result.
+
 Example of one test case that tested the navigation drawer to open the oxygen/pulse fragment:
+```
  @Test
     public void PulseOxymeterFragmentIsDisplayed(){
         onView(withId(R.id.activity_main_drawer_layout))
@@ -326,6 +328,7 @@ Example of one test case that tested the navigation drawer to open the oxygen/pu
 
         onView(withId(R.id.tab_layout)).check(matches(isDisplayed()));
     }
+```
 
 The project uses the same concept to test other functionality of the app 
 
@@ -368,6 +371,7 @@ In developing the monitor, a paramount concern is the secure and reliable transm
 JUnit is used for testing user authentication. Tests verify that the system correctly identifies and authenticates legitimate users. Testing also helps ensure that the system handles invalid inputs, such as incorrect passwords, and provides appropriate feedback.
 
 Example:
+```
 public class UserAuthenticationUnitTest {
     @Test
     public void testValidEmail() {
@@ -417,11 +421,12 @@ public class UserAuthenticationUnitTest {
         assertFalse(validate.Password("test21!"));
     }
 }
-
+```
 **Espresso:**
 Espresso is used for tests that verify each menu item in the drawer correctly navigates to the corresponding section or feature in the app. The navigation drawer should be intuitive and easy to use, testing ensures that users can find and access features and sections of your app without confusion or difficulty. It's important to ensure that the navigation drawer works as it important feature in the app and needs to work with other components and features of the app.
 
 Example:
+```
 @RunWith(AndroidJUnit4.class)
 @LargeTest
 public class EspressoTest {
@@ -489,6 +494,7 @@ public class EspressoTest {
         onView(withId(R.id.temp)).check(matches(isDisplayed()));
     }
 }
+```
 
 ### 4.5 Production Testing 
 The aim of production testing is to validate the SIHMON system against its design specifications. This ensures functionality, operational reliability, and user requirement fulfillment across all components of the system.
