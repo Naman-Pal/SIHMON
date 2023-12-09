@@ -291,9 +291,11 @@ The settings screen in the application is a comprehensive control panel that all
 ### 3.2 Flow diagram  
 The flow of the mobile application is strategically designed to ensure a smooth user journey from start to finish. Upon launching the app, users are greeted with a splash screen, followed by a login page. Once authenticated, they land on the home screen, which serves as a gateway to various features accessible through the navigation drawer and the toolbar. The navigation drawer offers detailed monitoring options like temperature and sleep, while the toolbar provides quick access to user profile settings and emergency contacts, encapsulating a comprehensive user experience.
 ###### <a name="fig11.6">Figure 11.6: Flow Diagram of mobile application</a>
-<img src="https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/133720897/4f2c7a2f-488a-4df3-812a-2136da0f6cb3" alt="Flow Diagram of mobile application" width="200" height="500" depth="200">
+<img src="https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/133720897/4f2c7a2f-488a-4df3-812a-2136da0f6cb3" alt="Flow Diagram of mobile application">
 
-#### 3.2.1 Toast message   
+#### 3.2.1 Toast message  
+On the Login Page, Toast messages are employed to provide informative feedback to the user during the login process. If the user attempts to log in without entering their email or password, a short-duration Toast message is displayed, prompting them to enter the required information. Additionally, upon successful login, a Toast message confirms the login's success, enhancing the user experience by providing real-time feedback."
+
 #### 3.2.2 Exit confirmation dialog   
 ### 3.3 Navigation drawer   
 ### 3.4 End-user Considerations   
