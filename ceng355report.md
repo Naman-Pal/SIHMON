@@ -309,13 +309,12 @@ The app incorporates easily recognizable navigation cues like icons and menu lis
 The InfantHealthMonitor app features a sophisticated interface, characterized by a serene color palette, intuitive controls, and clear data visualization. These deliberate design elements prioritize rapid information absorption and user ease—a pivotal aspect for an application centered on sensitive health monitoring tasks.
 
 ### 3.5 Firebase authentication   
-In the app, Firebase Authentication is used to make secure authentication easy while improving the sign-in and onboarding experience for end users. It provides endless scalability, supporting login for email and password accounts, Google, Twitter, and Facebook.
+The app, Firebase Authentication is used to make secure authentication easy while improving the sign-in and onboarding experience for end users. It provides endless scalability, supporting login for email and password accounts, Google, Twitter, and Facebook.
 #### 3.5.1 Backend- push/pull from Firebase database   
 ### 3.6 Internationalization   
 ### 3.7 Test cases
 In this project test cases are utilized to test the proper functionality of specific components of the app. The app uses a navigation drawer to enhance end users' UI experience, specific test cases are made to ensure the user is getting the expected result.
-
-here is an example of one test case that tested the navigation drawer to open the oxygen/pulse fragment
+Example of one test case that tested the navigation drawer to open the oxygen/pulse fragment:
  @Test
     public void PulseOxymeterFragmentIsDisplayed(){
         onView(withId(R.id.activity_main_drawer_layout))
@@ -327,6 +326,8 @@ here is an example of one test case that tested the navigation drawer to open th
 
         onView(withId(R.id.tab_layout)).check(matches(isDisplayed()));
     }
+
+The project uses the same concept to test other functionality of the app 
 
 ## 4.0 Integration   
 ### 4.1 Enterprise wireless connectivity   
@@ -363,41 +364,132 @@ In developing the monitor, a paramount concern is the secure and reliable transm
 - **Firebase Connection with JSON Key**: To facilitate secure communication with Firebase, a JSON key is used. This key provides a secure way to authenticate and connect the Raspberry Pi to the Firebase database, ensuring end-to-end encryption and data integrity.
 
 ### 4.4 Unit Testing 
-JUnit for Unit Testing
-JUnit is one of the most popular frameworks for unit testing in Java applications, including Android apps. In the context of your project:
-
-Purpose and Usage:
-
-JUnit is typically used for testing the business logic of your application. It tests individual methods and classes in isolation from the Android framework and UI.
-For instance, you can use JUnit to test the logic behind what happens when an item in the navigation drawer is selected (e.g., data processing, calculations, or interactions with a database).
+**JUnit:**
+JUnit is used for testing user authentication. Tests verify that the system correctly identifies and authenticates legitimate users. Testing also helps ensure that the system handles invalid inputs, such as incorrect passwords, and provides appropriate feedback.
 
 Example:
+public class UserAuthenticationUnitTest {
+    @Test
+    public void testValidEmail() {
+        Validate validate = new Validate();
+        assertTrue(validate.Email("test@example.com"));
+    }
 
-Espresso for UI Testing
-Espresso is a UI testing framework specifically designed for Android. It allows you to write concise and reliable UI tests.
+    @Test
+    public void testInvalidEmail() {
+        Validate validate = new Validate();
+        assertFalse(validate.Email("testexample.com"));
+    }
 
-Purpose and Usage:
+    @Test
+    public void testEmptyEmail() {
+        Validate validate = new Validate();
+        assertFalse(validate.Email(""));
+    }
 
-Espresso tests are used for automating user interactions with the UI of the app. These tests run on actual devices or emulators.
-In your project, Espresso would be ideal for testing the functionality of the navigation drawer and ensuring the UI behaves as expected when interacted with.
-Real Interaction:
+    @Test
+    public void testEmptyPassword() {
+        Validate validate = new Validate();
+        assertFalse(validate.Password(""));
+    }
 
-Espresso interacts with the UI elements on the screen just as a real user would. It can open the navigation drawer, click on items, and verify the resulting UI changes.
-Example:
-As you provided in your test case, an Espresso test would look like:
+    @Test
+    public void testValidPassword() {
+        Validate validate = new Validate();
+        assertTrue(validate.Password("Test21!"));
+    }
 
-java
-Copy code
-@Test
-public void PulseOxymeterFragmentIsDisplayed() {
-    onView(withId(R.id.activity_main_drawer_layout))
-            .perform(DrawerActions.open()); // Open Drawer
+    @Test
+    public void testInvalidPasswordWithNoCharacter() {
+        Validate validate = new Validate();
+        assertFalse(validate.Password("Testing"));
+    }
 
-    onView(withId(R.id.activity_main_nav_view))
-            .perform(NavigationViewActions.navigateTo(R.id.activity_main_drawer_pulse));
+    @Test
+    public void testInvalidPasswordWithNoNumber() {
+        Validate validate = new Validate();
+        assertFalse(validate.Password("Testing!!"));
+    }
 
-    onView(withId(R.id.tab_layout)).check(matches(isDisplayed()));
+    @Test
+    public void testInvalidPasswordWithNoCapLetter() {
+        Validate validate = new Validate();
+        assertFalse(validate.Password("test21!"));
+    }
 }
+
+**Espresso:**
+Espresso is used for tests that verify each menu item in the drawer correctly navigates to the corresponding section or feature in the app. The navigation drawer should be intuitive and easy to use, testing ensures that users can find and access features and sections of your app without confusion or difficulty. It's important to ensure that the navigation drawer works as it important feature in the app and needs to work with other components and features of the app.
+
+Example:
+@RunWith(AndroidJUnit4.class)
+@LargeTest
+public class EspressoTest {
+    @Rule
+    public ActivityScenarioRule<HomeMainActivity> activityRule =
+            new ActivityScenarioRule<HomeMainActivity>(HomeMainActivity.class);
+
+    @Test
+    public void AboutUsFragmentIsDisplayed(){
+        onView(withId(R.id.activity_main_drawer_layout))
+                .perform(DrawerActions.open()); // Open Drawer
+
+        // Start the screen of your activity.
+        onView(withId(R.id.activity_main_nav_view))
+                .perform(NavigationViewActions.navigateTo(R.id.about_us_menu));
+
+        onView(withId(R.id.about_us_page)).check(matches(isDisplayed()));
+    }
+
+    @Test
+    public void FeedbackFragmentIsDisplayed(){
+        onView(withId(R.id.activity_main_drawer_layout))
+                .perform(DrawerActions.open()); // Open Drawer
+
+        // Start the screen of your activity.
+        onView(withId(R.id.activity_main_nav_view))
+                .perform(NavigationViewActions.navigateTo(R.id.feedback));
+
+        onView(withId(R.id.textView2)).check(matches(isDisplayed()));
+    }
+
+    @Test
+    public void SleepFragmentIsDisplayed(){
+        onView(withId(R.id.activity_main_drawer_layout))
+                .perform(DrawerActions.open()); // Open Drawer
+
+        // Start the screen of your activity.
+        onView(withId(R.id.activity_main_nav_view))
+                .perform(NavigationViewActions.navigateTo(R.id.activity_main_drawer_sleepmonitor));
+
+        onView(withId(R.id.tab_layout)).check(matches(isDisplayed()));
+    }
+
+    @Test
+    public void PulseOxymeterFragmentIsDisplayed(){
+        onView(withId(R.id.activity_main_drawer_layout))
+                .perform(DrawerActions.open()); // Open Drawer
+
+        // Start the screen of your activity.
+        onView(withId(R.id.activity_main_nav_view))
+                .perform(NavigationViewActions.navigateTo(R.id.activity_main_drawer_pulse));
+
+        onView(withId(R.id.tab_layout)).check(matches(isDisplayed()));
+    }
+
+    @Test
+    public void TempFragmentIsDisplayed(){
+        onView(withId(R.id.activity_main_drawer_layout))
+                .perform(DrawerActions.open()); // Open Drawer
+
+        // Start the screen of your activity.
+        onView(withId(R.id.activity_main_nav_view))
+                .perform(NavigationViewActions.navigateTo(R.id.activity_main_drawer_temperature));
+
+        onView(withId(R.id.temp)).check(matches(isDisplayed()));
+    }
+}
+
 ### 4.5 Production Testing 
 The aim of production testing is to validate the SIHMON system against its design specifications. This ensures functionality, operational reliability, and user requirement fulfillment across all components of the system.
 - **Hardware Testing**: Hardware components underwent rigorous validation processes. Each sensor, circuit board, and connectivity interface was tested for functionality. Stress tests were conducted to ascertain durability and resilience under high operational loads.
