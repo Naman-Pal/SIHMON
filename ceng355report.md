@@ -362,7 +362,42 @@ In developing the monitor, a paramount concern is the secure and reliable transm
 - **Secure User Authentication**: The mobile application incorporates robust authentication protocols. Using methods such as MAuth and token-based authentication, we ensure that only authorized users have access to the health data.
 - **Firebase Connection with JSON Key**: To facilitate secure communication with Firebase, a JSON key is used. This key provides a secure way to authenticate and connect the Raspberry Pi to the Firebase database, ensuring end-to-end encryption and data integrity.
 
-### 4.4 Unit Testing   
+### 4.4 Unit Testing 
+JUnit for Unit Testing
+JUnit is one of the most popular frameworks for unit testing in Java applications, including Android apps. In the context of your project:
+
+Purpose and Usage:
+
+JUnit is typically used for testing the business logic of your application. It tests individual methods and classes in isolation from the Android framework and UI.
+For instance, you can use JUnit to test the logic behind what happens when an item in the navigation drawer is selected (e.g., data processing, calculations, or interactions with a database).
+
+Example:
+
+Espresso for UI Testing
+Espresso is a UI testing framework specifically designed for Android. It allows you to write concise and reliable UI tests.
+
+Purpose and Usage:
+
+Espresso tests are used for automating user interactions with the UI of the app. These tests run on actual devices or emulators.
+In your project, Espresso would be ideal for testing the functionality of the navigation drawer and ensuring the UI behaves as expected when interacted with.
+Real Interaction:
+
+Espresso interacts with the UI elements on the screen just as a real user would. It can open the navigation drawer, click on items, and verify the resulting UI changes.
+Example:
+As you provided in your test case, an Espresso test would look like:
+
+java
+Copy code
+@Test
+public void PulseOxymeterFragmentIsDisplayed() {
+    onView(withId(R.id.activity_main_drawer_layout))
+            .perform(DrawerActions.open()); // Open Drawer
+
+    onView(withId(R.id.activity_main_nav_view))
+            .perform(NavigationViewActions.navigateTo(R.id.activity_main_drawer_pulse));
+
+    onView(withId(R.id.tab_layout)).check(matches(isDisplayed()));
+}
 ### 4.5 Production Testing 
 The aim of production testing is to validate the SIHMON system against its design specifications. This ensures functionality, operational reliability, and user requirement fulfillment across all components of the system.
 - Hardware Testing: Hardware components underwent rigorous validation processes. Each sensor, circuit board, and connectivity interface was tested for functionality. Stress tests were conducted to ascertain durability and resilience under high operational loads.
