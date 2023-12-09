@@ -144,7 +144,7 @@ In essence, SIHMON is a straightforward yet impactful solution. It envisions a f
 [Figure 10.2: PCB in Gerber Format on the JLCPCB website](#fig10.2)  
 [Figure 10.3: Unassembled PCB from JLCPCB](#fig10.3)  
 [Figure 10.4: PCB after assembly: includes 4 sensors, resistors, transistor, short pin headers, LED, and connection with Raspberry Pi](#fig10.4)  
-
+[Figure 11: Layout of the mobile application](#fig11)
 
 ## 1.0 Introduction   
 ### 1.1 Background   
@@ -238,6 +238,8 @@ The design was sent to Humber's Laser Cut Studio for precision cutting. Post-cut
 ## 3.0 Mobile Application Report   
 ### 3.1 Layout
 In the mobile application, Navigation Drawer Layout is being used. It consists of a list of menu items for different app features, including 'Temperature,' 'Sleep Monitor,' 'Pulse Oximeter,' 'About Us,' and 'Give Feedback,' enabling easy navigation between the app's main functionalities.
+###### <a name="fig11">Figure 11: Layout of the mobile application</a>  
+![image](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/133720897/2f9046b0-a8a7-40a6-a77c-4cab13cfbc38)
 
 #### 3.1.1 Splash screen with drawable image   
 #### 3.1.2 App icon   
