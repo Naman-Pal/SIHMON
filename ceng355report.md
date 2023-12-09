@@ -236,7 +236,9 @@ The design was sent to Humber's Laser Cut Studio for precision cutting. Post-cut
 ### 2.7 Connectivity/testing   
 
 ## 3.0 Mobile Application Report   
-### 3.1 Layout   
+### 3.1 Layout
+In the mobile application, Navigation Drawer Layout is being used. It consists of a list of menu items for different app features, including 'Temperature,' 'Sleep Monitor,' 'Pulse Oximeter,' 'About Us,' and 'Give Feedback,' enabling easy navigation between the app's main functionalities.
+
 #### 3.1.1 Splash screen with drawable image   
 #### 3.1.2 App icon   
 #### 3.1.3 User sign-up/registration, Login activity, reset/lost password   
