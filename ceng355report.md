@@ -265,10 +265,17 @@ These pages are integrated with Firebase, ensuring secure data handling and user
 ###### <a name="fig11.3">Figure 11.3: Login Page</a>
 <img src="https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/133720897/8529bc6f-cd91-4387-8803-6cd459cba834" alt="Login Page" width="200" height="400" depth="100">
 
-#### 3.1.4 Data Visualization Activity   
+#### 3.1.4 Data Visualization Activity  
+The application's data visualization uses line charts to display key health metrics—temperature, movement, and pulse oximetry—highlighting crucial high and low values for easy trend analysis and infant well-being monitoring.
+
 #### 3.1.5 Action Control Activity   
-#### 3.1.6 About   
-#### 3.1.7 Help   
+
+#### 3.1.6 About  
+The "About Us" section of the application articulates the core objective of facilitating infant health monitoring, outlining the functionality of the smart bracelet and its integration with the mobile app for real-time updates and alerts. It features a section that introduces the development team, adding a personal touch with illustrated avatars and names, which enhances user trust. 
+###### <a name="fig11.4">Figure 11.4: About</a>
+<img src="https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/133720897/2c18510e-138c-4eb0-9d89-8a334995588e" alt="About" width="200" height="400" depth="100">
+
+#### 3.1.7 Emergency   
 #### 3.1.8 Settings   
 ### 3.2 Flow diagram   
 #### 3.2.1 Toast message   
