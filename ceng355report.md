@@ -400,7 +400,7 @@ public void PulseOxymeterFragmentIsDisplayed() {
 }
 ### 4.5 Production Testing 
 The aim of production testing is to validate the SIHMON system against its design specifications. This ensures functionality, operational reliability, and user requirement fulfillment across all components of the system.
-- Hardware Testing: Hardware components underwent rigorous validation processes. Each sensor, circuit board, and connectivity interface was tested for functionality. Stress tests were conducted to ascertain durability and resilience under high operational loads.
+- **Hardware Testing**: Hardware components underwent rigorous validation processes. Each sensor, circuit board, and connectivity interface was tested for functionality. Stress tests were conducted to ascertain durability and resilience under high operational loads.
 - **Software Testing**: Software components, including firmware and the mobile application, were subject to in-depth code reviews to detect vulnerabilities and potential bugs. Unit tests were performed to ensure individual functions performed as intended.
 - **Integration Testing**: Comprehensive system integration testing verified the seamless operation of hardware and software components together. This included ensuring accurate data capture by the sensors, transmission to the Raspberry Pi, and appropriate logging within the Firebase database.
 - **Interface Testing**: The mobile application's user interface was evaluated for usability, responsiveness, and accuracy in displaying sensor data. The Firebase database interface was also tested to confirm correct data storage, retrieval, and real-time update capabilities.
@@ -423,7 +423,21 @@ The development team faced several technical challenges that required deep analy
 The team's approach to these challenges was characterized by proactive engagement and the application of interdisciplinary expertise, augmented by constructive user feedback. The resolution of these issues was pivotal to the maturation of SIHMON into a solution that effectively serves the needs of its user base. The experience gained has substantially fortified the team's proficiency and will be of significant value in subsequent endeavors.
 
 
-### 4.7 Solutions   
+### 4.7 Solutions  
+
+In addressing the technical challenges encountered during the project, the development team implemented the following strategic solutions:
+
+- **Sensor Integration**: The team addressed the complexity of integrating various sensors by adopting a modular design approach, which allowed for isolated testing and precise calibration. A custom-designed printed circuit board facilitated the integration, ensuring electrical compatibility and robust data communication.
+
+- **Software Development Process**: Software reliability was strengthened through an incremental and agile development methodology. This process involved continuous integration, regular code reviews, and comprehensive testing cycles to systematically identify and rectify bugs, thereby ensuring a stable software environment.
+
+- **Data Management System**: A data management pipeline was engineered to accommodate the real-time nature of sensor data. This system employed advanced algorithms for error checking and data synchronization, ensuring the integrity and consistency of the data as it transitioned from capture to storage.
+
+- **Connectivity Framework**: To achieve reliable connectivity, the team implemented a resilient network architecture. This architecture featured redundancy, automatic reconnection mechanisms, and data encryption protocols to secure data across all transmission points, particularly in environments with the potential for network interruptions.
+
+- **Iterative UI Design and Testing**: The mobile application's UI underwent multiple design iterations, informed by user testing and feedback loops. This iterative process aimed to fine-tune the interface, focusing on enhancing usability and ensuring the UI met the practical needs of end-users while maintaining aesthetic quality.
+
+The team's proactive and methodical approach to overcoming the project's challenges has led to significant advancements in SIHMON's development. By leveraging interdisciplinary expertise and incorporating user-centric feedback, SIHMON has been transformed into a robust and dependable health monitoring solution. The knowledge and experience acquired through this process have been invaluable and will undoubtedly influence future project developments.
 
 ## 5.0 Results and Discussion   
 ### <a name="research">5.1 Research on Infant Health Worldwide</a>
