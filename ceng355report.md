@@ -277,7 +277,9 @@ The "About Us" section of the application articulates the core objective of faci
 ###### <a name="fig11.4">Figure 11.4: About</a>
 <img src="https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/133720897/2c18510e-138c-4eb0-9d89-8a334995588e" alt="About" width="200" height="400" depth="100">
 
-#### 3.1.7 Emergency   
+#### 3.1.7 Emergency  
+The 'Emergency' feature in the toolbar menu is a critical functionality designed for urgent situations. When accessed, it allows the user to make an immediate call to 911, ensuring rapid assistance can be sought during potential crises.
+
 #### 3.1.8 Settings   
 ### 3.2 Flow diagram   
 #### 3.2.1 Toast message   
