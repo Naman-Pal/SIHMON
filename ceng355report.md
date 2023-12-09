@@ -311,6 +311,19 @@ In the app, Firebase Authentication is used to make secure authentication easy w
 ### 3.7 Test cases
 In this project test cases are utilized to test the proper functionality of specific components of the app. The app uses a navigation drawer to enhance end users' UI experience, specific test cases are made to ensure the user is getting the expected result.
 
+here is an example of one test case that tested the navigation drawer to open the oxygen/pulse fragment
+ @Test
+    public void PulseOxymeterFragmentIsDisplayed(){
+        onView(withId(R.id.activity_main_drawer_layout))
+                .perform(DrawerActions.open()); // Open Drawer
+
+        // Start the screen of your activity.
+        onView(withId(R.id.activity_main_nav_view))
+                .perform(NavigationViewActions.navigateTo(R.id.activity_main_drawer_pulse));
+
+        onView(withId(R.id.tab_layout)).check(matches(isDisplayed()));
+    }
+
 ## 4.0 Integration   
 ### 4.1 Enterprise wireless connectivity   
 ### 4.2 Database configuration   
