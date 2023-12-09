@@ -270,6 +270,7 @@ These pages are integrated with Firebase, ensuring secure data handling and user
 The application's data visualization uses line charts to display key health metrics—temperature, movement, and pulse oximetry—highlighting crucial high and low values for easy trend analysis and infant well-being monitoring.
 
 #### 3.1.5 Action Control Activity   
+The action control activity centers around setting threshold values, which is crucial for personalized health monitoring. Users can adjust the minimum and maximum ranges for temperature, heart rate, and oxygen saturation (SpO2), as well as establish movement sensitivity. These settings are instrumental for configuring the app to send alerts based on individual health criteria, ensuring that users are promptly informed about significant deviations in an infant’s health metrics.
 
 #### 3.1.6 About  
 The "About Us" section of the application articulates the core objective of facilitating infant health monitoring, outlining the functionality of the smart bracelet and its integration with the mobile app for real-time updates and alerts. It features a section that introduces the development team, adding a personal touch with illustrated avatars and names, which enhances user trust. 
