@@ -217,8 +217,7 @@ One PCB was assembled per sensor by soldering resistors, transistors, LED, and a
 
 #### 2.4.1 Independent   
 #### 2.4.2 Combined   
-### 2.5 Enclosure   
-#### 2.5.1 Laser cutting   
+### 2.5 Enclosure     
 #### Design and Material Selection
 The enclosure was designed using CorelDRAW, a vector graphics editor, to achieve an intricate design suitable for laser cutting.3mm acrylic material was chosen due to its transparency, sturdiness, and laser-friendly properties, allowing for a clear view of the internal components while protecting them.
 
