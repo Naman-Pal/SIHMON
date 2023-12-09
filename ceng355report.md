@@ -269,39 +269,55 @@ The Realtime Database offers a highly efficient platform for handling the live s
 #### Record Retention and Cloud Functions
 Sensor records are retained in the Firestore database for a period of 7 days. This duration is programmatically managed using Firebase Cloud Functions, which also facilitate the transfer of real-time readings from the Realtime Database to Firestore. The functions include:
 
-- createDailyRecord: Initializes a new record for daily data capture.
+- **createDailyRecord**: Initializes a new record for daily data capture.
 
-- deleteOldRecords: Scheduled to clean up records older than 7 days.
+- **deleteOldRecords**: Scheduled to clean up records older than 7 days.
 
-- updateMovementRecord: Triggers upon movement data update in the Realtime Database.
+- **updateMovementRecord**: Triggers upon movement data update in the Realtime Database.
 
-- updateOxygenRecord: Activates when new oxygen saturation data is received.
+- **updateOxygenRecord**: Activates when new oxygen saturation data is received.
 
-- updatePulseRecord: Responds to changes in the heart rate data.
+- **updatePulseRecord**: Responds to changes in the heart rate data.
 
-- updateTemperatureRecord: Captures updates to temperature readings.
+- **updateTemperatureRecord**: Captures updates to temperature readings.
 
 This configuration ensures up-to-date health monitoring with a manageable historical data footprint.
 
 ### 4.3 Network and Security Considerations   
 In developing the monitor, a paramount concern is the secure and reliable transmission of sensitive health data from the BioSensor bracelet to the mobile application. This section outlines the key network and security measures implemented to ensure the integrity, confidentiality, and availability of data.
 #### Network Infrastructure and Connectivity
-- Stable Connectivity: SIHMON requires a consistent and stable network connection, utilizing wireless protocols such as Wi-Fi. This ensures real-time data transmission from the BioSensor bracelet to the Firebase database and the mobile application.
+- **Stable Connectivity**: SIHMON requires a consistent and stable network connection, utilizing wireless protocols such as Wi-Fi. This ensures real-time data transmission from the BioSensor bracelet to the Firebase database and the mobile application.
   
 #### Data Security and Privacy
-- Secure User Authentication: The mobile application incorporates robust authentication protocols. Using methods such as MAuth and token-based authentication, we ensure that only authorized users have access to the health data.
-- Firebase Connection with JSON Key: To facilitate secure communication with Firebase, a JSON key is used. This key provides a secure way to authenticate and connect the Raspberry Pi to the Firebase database, ensuring end-to-end encryption and data integrity.
+- **Secure User Authentication**: The mobile application incorporates robust authentication protocols. Using methods such as MAuth and token-based authentication, we ensure that only authorized users have access to the health data.
+- **Firebase Connection with JSON Key**: To facilitate secure communication with Firebase, a JSON key is used. This key provides a secure way to authenticate and connect the Raspberry Pi to the Firebase database, ensuring end-to-end encryption and data integrity.
 
 ### 4.4 Unit Testing   
 ### 4.5 Production Testing 
 The aim of production testing is to validate the SIHMON system against its design specifications. This ensures functionality, operational reliability, and user requirement fulfillment across all components of the system.
 - Hardware Testing: Hardware components underwent rigorous validation processes. Each sensor, circuit board, and connectivity interface was tested for functionality. Stress tests were conducted to ascertain durability and resilience under high operational loads.
-- Software Testing: Software components, including firmware and the mobile application, were subject to in-depth code reviews to detect vulnerabilities and potential bugs. Unit tests were performed to ensure individual functions performed as intended.
-- Integration Testing: Comprehensive system integration testing verified the seamless operation of hardware and software components together. This included ensuring accurate data capture by the sensors, transmission to the Raspberry Pi, and appropriate logging within the Firebase database.
-- Interface Testing: The mobile application's user interface was evaluated for usability, responsiveness, and accuracy in displaying sensor data. The Firebase database interface was also tested to confirm correct data storage, retrieval, and real-time update capabilities.
-- Performance Testing: System performance was assessed under typical and peak loads, focusing on data processing and transmission efficiency. Latency measurements were taken to evaluate the communication speed between the BioSensor bracelet, Firebase database, and the mobile application.
-- Environmental Testing: The BioSensor bracelet was exposed to a variety of environmental conditions it might encounter during real-world operation, to test its adaptability and reliability.
+- **Software Testing**: Software components, including firmware and the mobile application, were subject to in-depth code reviews to detect vulnerabilities and potential bugs. Unit tests were performed to ensure individual functions performed as intended.
+- **Integration Testing**: Comprehensive system integration testing verified the seamless operation of hardware and software components together. This included ensuring accurate data capture by the sensors, transmission to the Raspberry Pi, and appropriate logging within the Firebase database.
+- **Interface Testing**: The mobile application's user interface was evaluated for usability, responsiveness, and accuracy in displaying sensor data. The Firebase database interface was also tested to confirm correct data storage, retrieval, and real-time update capabilities.
+- **Performance Testing**: System performance was assessed under typical and peak loads, focusing on data processing and transmission efficiency. Latency measurements were taken to evaluate the communication speed between the BioSensor bracelet, Firebase database, and the mobile application.
+- **Environmental Testing**: The BioSensor bracelet was exposed to a variety of environmental conditions it might encounter during real-world operation, to test its adaptability and reliability.
 ### 4.6 Challenges/Problems   
+
+The development team faced several technical challenges that required deep analysis and resolution. A systematic overview of the encountered difficulties and their implications on the project trajectory is as follows:
+
+- **Sensor Integration Complexity**: The combination of diverse sensors into a unified hardware framework posed significant challenges. These pertained to electrical compatibility and the maintenance of consistent data communication protocols, vital for the precision and stability of the sensor outputs within the confines of the BioSensor bracelet's compact form factor.
+
+- **Ensuring Software Reliability**: The software development for both embedded firmware and the companion mobile application demanded a thorough debugging process. This iterative procedure was critical to addressing unexpected system failures and achieving a robust operational environment.
+
+- **Data Management Efficacy**: The construction of a fault-tolerant data management pipeline, extending from sensor data capture to processing on the Raspberry Pi, and subsequent storage on Firebase, needed acute focus on data integrity and synchronization, a non-trivial task given the real-time nature of the data involved.
+
+- **Connectivity Assurance**: Guaranteeing consistent and secure connectivity was a non-negotiable requirement, given the sensitive nature of health data. The team encountered challenges related to network dropouts and the safeguarding of data transmission across potentially unsecured networks.
+
+- **User Interface (UI) Optimization**: The UI design process for the mobile application was iterative, focusing on achieving an optimal balance between intuitive usability for non-technical end-users and the provision of comprehensive functionality.
+
+The team's approach to these challenges was characterized by proactive engagement and the application of interdisciplinary expertise, augmented by constructive user feedback. The resolution of these issues was pivotal to the maturation of SIHMON into a solution that effectively serves the needs of its user base. The experience gained has substantially fortified the team's proficiency and will be of significant value in subsequent endeavors.
+
+
 ### 4.7 Solutions   
 
 ## 5.0 Results and Discussion   
