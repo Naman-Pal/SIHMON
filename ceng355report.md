@@ -240,7 +240,7 @@ The design was sent to Humber's Laser Cut Studio for precision cutting. Post-cut
 ### 3.1 Layout
 In the mobile application, Navigation Drawer Layout is being used. It consists of a list of menu items for different app features, including 'Temperature,' 'Sleep Monitor,' 'Pulse Oximeter,' 'About Us,' and 'Give Feedback,' enabling easy navigation between the app's main functionalities.
 ###### <a name="fig11">Figure 11: Layout of the mobile application</a>  
-![image](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/133720897/2f9046b0-a8a7-40a6-a77c-4cab13cfbc38)
+!<img src="https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/133720897/2f9046b0-a8a7-40a6-a77c-4cab13cfbc38.png" alt="Layout of the mobile application" width="200" height="400" depth="100">
 
 #### 3.1.1 Splash screen 
 The splash screen of the "Infant Health Monitor" app presents a welcoming graphic featuring a stethoscope, signaling the app's health-tracking purpose. It includes the app's name and a tagline highlighting the product's aim to serve modern, health-conscious families. Designed with an attractive background color, the screen captivates users for a deliberate three seconds, engaging them with the app's features before transitioning to the login interface.
