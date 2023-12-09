@@ -284,6 +284,14 @@ Sensor records are retained in the Firestore database for a period of 7 days. Th
 This configuration ensures up-to-date health monitoring with a manageable historical data footprint.
 
 ### 4.3 Network and Security Considerations   
+In developing the monitor, a paramount concern is the secure and reliable transmission of sensitive health data from the BioSensor bracelet to the mobile application. This section outlines the key network and security measures implemented to ensure the integrity, confidentiality, and availability of data.
+#### Network Infrastructure and Connectivity
+- Stable Connectivity: SIHMON requires a consistent and stable network connection, utilizing wireless protocols such as Wi-Fi. This ensures real-time data transmission from the BioSensor bracelet to the Firebase database and the mobile application.
+  
+#### Data Security and Privacy
+- Secure User Authentication: The mobile application incorporates robust authentication protocols. Using methods such as MAuth and token-based authentication, we ensure that only authorized users have access to the health data.
+- Firebase Connection with JSON Key: To facilitate secure communication with Firebase, a JSON key is used. This key provides a secure way to authenticate and connect the Raspberry Pi to the Firebase database, ensuring end-to-end encryption and data integrity.
+
 ### 4.4 Unit Testing   
 ### 4.5 Production Testing   
 ### 4.6 Challenges/Problems   
