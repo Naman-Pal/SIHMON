@@ -302,8 +302,11 @@ In the Home screen, a thoughtful user experience feature is implemented through 
 ### 3.3 Navigation drawer   
 The navigation drawer is a key component of the mobile application's user interface, designed to facilitate easy and efficient navigation without disrupting the primary content display. It comprises a list of menu options, including 'Temperature,' 'Sleep Monitor,' and 'Pulse Oximeter,' all indicative of the app's health monitoring capabilities. Additionally, there are other items like 'About Us' and 'Give Feedback' that likely direct users to informational and customer service sections within the app.
 
-### 3.4 End-user Considerations   
-#### 3.4.1 User interface   
+### 3.4 End-user Considerations 
+
+#### 3.4.1 User interface  
+The InfantHealthMonitor app features a sophisticated interface, characterized by a serene color palette, intuitive controls, and clear data visualization. These deliberate design elements prioritize rapid information absorption and user ease—a pivotal aspect for an application centered on sensitive health monitoring tasks.
+
 ### 3.5 Firebase authentication   
 In the app, Firebase Authentication is used to make secure authentication easy while improving the sign-in and onboarding experience for end users. It provides endless scalability, supporting login for email and password accounts, Google, Twitter, and Facebook.
 #### 3.5.1 Backend- push/pull from Firebase database   
