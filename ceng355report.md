@@ -146,7 +146,8 @@ In essence, SIHMON is a straightforward yet impactful solution. It envisions a f
 [Figure 10.4: PCB after assembly: includes 4 sensors, resistors, transistor, short pin headers, LED, and connection with Raspberry Pi](#fig10.4)  
 [Figure 11: Layout of the mobile application](#fig11)
 [Figure 11.1: Splash Screen of the mobile application](#fig11.1)
-
+[Figure 11.2: Registration page of the mobile application](#fig11.2)
+[Figure 11.3: Login Page of the mobile application](#fig11.3)
 ## 1.0 Introduction   
 ### 1.1 Background   
 Our vision is to provide parents/caregivers, with a convenient way to monitor their infant’s health in real-time. With the baby wearing the bracelet, parents can track their baby's critical health metrics and receive alerts if the metrics cross a certain threshold. Inspired by the increasing deaths worldwide caused by SIDS (Sudden Infant Death Syndrome), SIHMON was created (Smart Infant Health MONitor). SIHMON will revolutionize the Healthcare Industry by providing a user-friendly interface to monitor the health information of the infant, understand trends, and share information with healthcare professionals. Even non-technical caregivers can easily navigate our app. Ultimately, we aim to help parents/caregivers ensure their baby's well-being and give them peace of mind. This report dives into the development methodologies and strategies, including the software and hardware used to bring the idea of SIHMON to reality. We have used an iterative approach to build this report.
@@ -250,9 +251,20 @@ The splash screen of the "Infant Health Monitor" app presents a welcoming graphi
 #### 3.1.2 App icon  
 The app icon for "Infant Health" features a heart with a pulse line running through it, clearly symbolizing the app’s focus on monitoring vital health signs. The icon is simple yet effective, utilizing medical imagery to communicate the app's purpose.
 ###### <a name="fig11.1">Figure 11.1: App Icon</a>
-<img src="https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/133720897/ac973a5b-7165-4d66-b0ed-31ef0b2ffd16.png" alt="App Icon" width="200" height="200" depth="100">
+<img src="https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/133720897/ac973a5b-7165-4d66-b0ed-31ef0b2ffd16.png"  alt="App Icon" width="200" height="200" depth="100">
 
-#### 3.1.3 User sign-up/registration, Login activity, reset/lost password   
+#### 3.1.3 User sign-up/registration, Login
+- The registration page of the app is designed for simplicity and ease of use, requesting essential information like full name, email, password, confirmation of password, and phone number. It features clear fields for each entry, and a prominent "Sign up" button to complete the registration process. A convenient link to switch to the login page is provided for users who already have an account.
+
+- The login page follows a similar design ethos, with fields for email and password and a "Remember me" option for user convenience. There's also a "Login" button and an alternative option to sign in with Google, offering users multiple ways to access their account. 
+
+These pages are integrated with Firebase, ensuring secure data handling and user authentication.
+###### <a name="fig11.2">Figure 11.2: Registration Page</a>
+<img src="(https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/133720897/ccd0eb76-49c0-4c33-8a26-30ac36cc1b1c.png" alt="Registration Page" width="200" height="400" depth="100">
+
+###### <a name="fig11.3">Figure 11.3: Login Page</a>
+<img src="(https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/133720897/8529bc6f-cd91-4387-8803-6cd459cba834.png" alt="Login Page" width="200" height="400" depth="100">
+
 #### 3.1.4 Data Visualization Activity   
 #### 3.1.5 Action Control Activity   
 #### 3.1.6 About   
