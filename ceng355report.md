@@ -256,7 +256,8 @@ The design was sent to Humber's Laser Cut Studio for precision cutting. Post-cut
 In the app, Firebase Authentication is used to make secure authentication easy while improving the sign-in and onboarding experience for end users. It provides endless scalability, supporting login for email and password accounts, Google, Twitter, and Facebook.
 #### 3.5.1 Backend- push/pull from Firebase database   
 ### 3.6 Internationalization   
-### 3.7 Test cases   
+### 3.7 Test cases
+In this project test cases are utilized to test the proper functionality of specific components of the app. The app uses a navigation drawer to enhance end users' UI experience, specific test cases are made to ensure the user is getting the expected result.
 
 ## 4.0 Integration   
 ### 4.1 Enterprise wireless connectivity   
