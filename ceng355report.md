@@ -303,6 +303,7 @@ In the Home screen, a thoughtful user experience feature is implemented through 
 The navigation drawer is a key component of the mobile application's user interface, designed to facilitate easy and efficient navigation without disrupting the primary content display. It comprises a list of menu options, including 'Temperature,' 'Sleep Monitor,' and 'Pulse Oximeter,' all indicative of the app's health monitoring capabilities. Additionally, there are other items like 'About Us' and 'Give Feedback' that likely direct users to informational and customer service sections within the app.
 
 ### 3.4 End-user Considerations 
+The app incorporates easily recognizable navigation cues like icons and menu lists, complemented by a consistent color scheme that improves readability. Its seamless integration of interactive elements, like graphs, suggests a focus on user-friendly design. Moreover, the inclusion of feedback and information sections demonstrates a commitment to user support and accessible information.
 
 #### 3.4.1 User interface  
 The InfantHealthMonitor app features a sophisticated interface, characterized by a serene color palette, intuitive controls, and clear data visualization. These deliberate design elements prioritize rapid information absorption and user ease—a pivotal aspect for an application centered on sensitive health monitoring tasks.
