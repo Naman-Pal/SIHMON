@@ -294,7 +294,14 @@ In developing the monitor, a paramount concern is the secure and reliable transm
 - Firebase Connection with JSON Key: To facilitate secure communication with Firebase, a JSON key is used. This key provides a secure way to authenticate and connect the Raspberry Pi to the Firebase database, ensuring end-to-end encryption and data integrity.
 
 ### 4.4 Unit Testing   
-### 4.5 Production Testing   
+### 4.5 Production Testing 
+The aim of production testing is to validate the SIHMON system against its design specifications. This ensures functionality, operational reliability, and user requirement fulfillment across all components of the system.
+- Hardware Testing: Hardware components underwent rigorous validation processes. Each sensor, circuit board, and connectivity interface was tested for functionality. Stress tests were conducted to ascertain durability and resilience under high operational loads.
+- Software Testing: Software components, including firmware and the mobile application, were subject to in-depth code reviews to detect vulnerabilities and potential bugs. Unit tests were performed to ensure individual functions performed as intended.
+- Integration Testing: Comprehensive system integration testing verified the seamless operation of hardware and software components together. This included ensuring accurate data capture by the sensors, transmission to the Raspberry Pi, and appropriate logging within the Firebase database.
+- Interface Testing: The mobile application's user interface was evaluated for usability, responsiveness, and accuracy in displaying sensor data. The Firebase database interface was also tested to confirm correct data storage, retrieval, and real-time update capabilities.
+- Performance Testing: System performance was assessed under typical and peak loads, focusing on data processing and transmission efficiency. Latency measurements were taken to evaluate the communication speed between the BioSensor bracelet, Firebase database, and the mobile application.
+- Environmental Testing: The BioSensor bracelet was exposed to a variety of environmental conditions it might encounter during real-world operation, to test its adaptability and reliability.
 ### 4.6 Challenges/Problems   
 ### 4.7 Solutions   
 
