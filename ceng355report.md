@@ -296,7 +296,9 @@ The flow of the mobile application is strategically designed to ensure a smooth 
 #### 3.2.1 Toast message  
 On the Login Page, Toast messages are employed to provide informative feedback to the user during the login process. If the user attempts to log in without entering their email or password, a short-duration Toast message is displayed, prompting them to enter the required information. Additionally, upon successful login, a Toast message confirms the login's success, enhancing the user experience by providing real-time feedback."
 
-#### 3.2.2 Exit confirmation dialog   
+#### 3.2.2 Exit confirmation dialog 
+In the Home screen, a thoughtful user experience feature is implemented through the use of an exit confirmation dialog. When a user presses the back button, a dialog prompt appears, seeking confirmation before closing the app. This dialog serves as a safeguard against accidental app closures, allowing users to confirm their intent to exit or cancel the action.
+
 ### 3.3 Navigation drawer   
 ### 3.4 End-user Considerations   
 #### 3.4.1 User interface   
