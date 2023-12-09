@@ -302,8 +302,6 @@ In the Home screen, a thoughtful user experience feature is implemented through 
 ### 3.3 Navigation drawer   
 The navigation drawer is a key component of the mobile application's user interface, designed to facilitate easy and efficient navigation without disrupting the primary content display. It comprises a list of menu options, including 'Temperature,' 'Sleep Monitor,' and 'Pulse Oximeter,' all indicative of the app's health monitoring capabilities. Additionally, there are other items like 'About Us' and 'Give Feedback' that likely direct users to informational and customer service sections within the app.
 
-I made minor changes to enhance clarity and ensure that the information flows smoothly.
-
 ### 3.4 End-user Considerations   
 #### 3.4.1 User interface   
 ### 3.5 Firebase authentication   
