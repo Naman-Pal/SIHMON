@@ -150,7 +150,7 @@ In essence, SIHMON is a straightforward yet impactful solution. It envisions a f
 [Figure 11.3: Login Page of the mobile application](#fig11.3)
 [Figure 11.4: About Us Screen of the mobile application](#fig11.4)
 [Figure 11.5: Settings Screen of the mobile application](#fig11.5)
-[Figure 11.6: Mobile Application Flow](#fig11.6)
+[Figure 11.6: Flow Diagram of mobile application](#fig11.6)
 
 ## 1.0 Introduction   
 ### 1.1 Background   
@@ -290,7 +290,7 @@ The settings screen in the application is a comprehensive control panel that all
 
 ### 3.2 Flow diagram  
 The flow of the mobile application is strategically designed to ensure a smooth user journey from start to finish. Upon launching the app, users are greeted with a splash screen, followed by a login page. Once authenticated, they land on the home screen, which serves as a gateway to various features accessible through the navigation drawer and the toolbar. The navigation drawer offers detailed monitoring options like temperature and sleep, while the toolbar provides quick access to user profile settings and emergency contacts, encapsulating a comprehensive user experience.
-###### <a name="fig11.6">Figure 11.6: Mobile Application Flow</a>
+###### <a name="fig11.6">Figure 11.6: Flow Diagram of mobile application</a>
 <img src="https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/133720897/4f2c7a2f-488a-4df3-812a-2136da0f6cb3" alt="Flow Diagram of mobile application" width="200" height="500" depth="200">
 
 #### 3.2.1 Toast message   
