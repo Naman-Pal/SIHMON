@@ -145,7 +145,7 @@ In essence, SIHMON is a straightforward yet impactful solution. It envisions a f
 [Figure 10.3: Unassembled PCB from JLCPCB](#fig10.3)  
 [Figure 10.4: PCB after assembly: includes 4 sensors, resistors, transistor, short pin headers, LED, and connection with Raspberry Pi](#fig10.4)  
 [Figure 11: Layout of the mobile application](#fig11)
-
+[Figure 11.1: Splash Screen of the mobile application](#fig11.1)
 ## 1.0 Introduction   
 ### 1.1 Background   
 Our vision is to provide parents/caregivers, with a convenient way to monitor their infant’s health in real-time. With the baby wearing the bracelet, parents can track their baby's critical health metrics and receive alerts if the metrics cross a certain threshold. Inspired by the increasing deaths worldwide caused by SIDS (Sudden Infant Death Syndrome), SIHMON was created (Smart Infant Health MONitor). SIHMON will revolutionize the Healthcare Industry by providing a user-friendly interface to monitor the health information of the infant, understand trends, and share information with healthcare professionals. Even non-technical caregivers can easily navigate our app. Ultimately, we aim to help parents/caregivers ensure their baby's well-being and give them peace of mind. This report dives into the development methodologies and strategies, including the software and hardware used to bring the idea of SIHMON to reality. We have used an iterative approach to build this report.
@@ -241,7 +241,11 @@ In the mobile application, Navigation Drawer Layout is being used. It consists o
 ###### <a name="fig11">Figure 11: Layout of the mobile application</a>  
 ![image](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/133720897/2f9046b0-a8a7-40a6-a77c-4cab13cfbc38)
 
-#### 3.1.1 Splash screen with drawable image   
+#### 3.1.1 Splash screen 
+The splash screen of the "Infant Health Monitor" app presents a welcoming graphic featuring a stethoscope, signaling the app's health-tracking purpose. It includes the app's name and a tagline highlighting the product's aim to serve modern, health-conscious families. Designed with an attractive background color, the screen captivates users for a deliberate three seconds, engaging them with the app's features before transitioning to the login interface.
+###### <a name="fig11.1">Figure 11.1: Splash Screen</a>  
+![image](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/133720897/f2fbb502-fbe9-4994-b665-ed157d77ef32)
+
 #### 3.1.2 App icon   
 #### 3.1.3 User sign-up/registration, Login activity, reset/lost password   
 #### 3.1.4 Data Visualization Activity   
