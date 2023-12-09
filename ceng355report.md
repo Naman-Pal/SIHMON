@@ -148,7 +148,9 @@ In essence, SIHMON is a straightforward yet impactful solution. It envisions a f
 [Figure 11.1: Splash Screen of the mobile application](#fig11.1)
 [Figure 11.2: Registration page of the mobile application](#fig11.2)
 [Figure 11.3: Login Page of the mobile application](#fig11.3)
-[Figure 11.4: Login Page of the mobile application](#fig11.4)
+[Figure 11.4: About Us Screen of the mobile application](#fig11.4)
+[Figure 11.5: Settings Screen of the mobile application](#fig11.5)
+
 ## 1.0 Introduction   
 ### 1.1 Background   
 Our vision is to provide parents/caregivers, with a convenient way to monitor their infant’s health in real-time. With the baby wearing the bracelet, parents can track their baby's critical health metrics and receive alerts if the metrics cross a certain threshold. Inspired by the increasing deaths worldwide caused by SIDS (Sudden Infant Death Syndrome), SIHMON was created (Smart Infant Health MONitor). SIHMON will revolutionize the Healthcare Industry by providing a user-friendly interface to monitor the health information of the infant, understand trends, and share information with healthcare professionals. Even non-technical caregivers can easily navigate our app. Ultimately, we aim to help parents/caregivers ensure their baby's well-being and give them peace of mind. This report dives into the development methodologies and strategies, including the software and hardware used to bring the idea of SIHMON to reality. We have used an iterative approach to build this report.
@@ -280,7 +282,11 @@ The "About Us" section of the application articulates the core objective of faci
 #### 3.1.7 Emergency  
 The 'Emergency' feature in the toolbar menu is a critical functionality designed for urgent situations. When accessed, it allows the user to make an immediate call to 911, ensuring rapid assistance can be sought during potential crises.
 
-#### 3.1.8 Settings   
+#### 3.1.8 Settings 
+The settings screen in the application is a comprehensive control panel that allows users to customize their experience. It provides options to manage notifications, enable a portrait orientation lock, and set sound alerts. It features sliders for setting threshold values for various health indicators such as movement, temperature, heart rate, and oxygen saturation levels—critical for receiving personalized alerts. Additional settings include feedback submission, informational access to 'About Us', and a logout function for user security.
+###### <a name="fig11.5">Figure 11.5: Settings</a>
+<img src="https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/133720897/1fbf982f-6a03-456a-9a41-6d26965d4379" alt="Settings" width="200" height="400" depth="100">
+
 ### 3.2 Flow diagram   
 #### 3.2.1 Toast message   
 #### 3.2.2 Exit confirmation dialog   
