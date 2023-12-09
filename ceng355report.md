@@ -260,10 +260,10 @@ The app icon for "Infant Health" features a heart with a pulse line running thro
 
 These pages are integrated with Firebase, ensuring secure data handling and user authentication.
 ###### <a name="fig11.2">Figure 11.2: Registration Page</a>
-<img src="(https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/133720897/ccd0eb76-49c0-4c33-8a26-30ac36cc1b1c.png" alt="Registration Page" width="200" height="400" depth="100">
+<img src="https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/133720897/ccd0eb76-49c0-4c33-8a26-30ac36cc1b1c.png" alt="Registration Page" width="200" height="400" depth="100">
 
 ###### <a name="fig11.3">Figure 11.3: Login Page</a>
-<img src="(https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/133720897/8529bc6f-cd91-4387-8803-6cd459cba834.png" alt="Login Page" width="200" height="400" depth="100">
+<img src="https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/133720897/8529bc6f-cd91-4387-8803-6cd459cba834.png" alt="Login Page" width="200" height="400" depth="100">
 
 #### 3.1.4 Data Visualization Activity   
 #### 3.1.5 Action Control Activity   
