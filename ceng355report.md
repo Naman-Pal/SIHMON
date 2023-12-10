@@ -183,6 +183,20 @@ Final Schedule: 2 Latest Sprint Plans
 #### <a name="safety">2.1.1 Equipment and Safety</a>   
 The equipment used to develop the hardware, including the solder station, oscilloscope, multimeter (for testing), and microscope, was provided by Humber College ITAL. Other equipment and parts, which were not facilitated by Humber College have been included in the Bill of Materials below. Proper safety procedures, including the ones placed by Humber College, were strictly followed throughout the development. The total time expenditure to complete the hardware prototype is 8 months.   
 #### <a name="bill">2.1.2 Bill of Materials</a>   
+| Label               | Part Type                                       | Properties                                                                                                  |
+|---------------------|-------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| Accelerometer       | Triple Axis Accelerometer Breakout - ADXL345    | interface Digital; range +/-2,4,8,16g                                                                       |
+| Extra Header        | Generic female header - 8 pins                  | pins 8; row single; form ♀ (female); pin spacing 0.1in (2.54mm); hole size 1.0mm,0.508mm; package THT         |
+| LED                 | Red (633nm) LED                                 | leg yes; color Red (633nm); package 5 mm [THT]                                                             |
+| Pulse Oximeter      | GY-MAX30102                                     | variant variant 1                                                                                           |
+| R1                  | 220Ω Resistor                                  | bands 4; pin spacing 400 mil; resistance 220Ω; tolerance ±5%; package THT                                  |
+| R2                  | 2.2kΩ Resistor                                 | bands 4; pin spacing 400 mil; resistance 2.2kΩ; tolerance ±5%; package THT                                 |
+| R3                  | 1kΩ Resistor                                   | bands 4; pin spacing 400 mil; resistance 1kΩ; tolerance ±5%; package THT                                   |
+| R4                  | 2kΩ Resistor                                   | bands 4; pin spacing 400 mil; resistance 2kΩ; tolerance ±5%; package THT                                   |
+| Raspberry Pi 3      | Raspberry Pi 3                                  | revision RPI-3-V1.2; variant Raspberry Pi 3; processor Broadcom BCM2837 64-bit ARMv8; part # RPI-3-V1.2    |
+| Sound Sensor        | KY-037 High Sensitivity Sound Detection Module | pins 4; operating voltage 3.3V to 5.5V; board dimensions 15mm x 36mm [0.6in x 1.4in]; microphone sensitivity -42 ±3 db; editable pin labels false; current consumption ~0.5mA; pin spacing 300mil; variant variant 1; chip label KY-037; package Breakout board |
+| Temperature Sensor  | TMP006 Thermopile Sensor                        | variant variant 1                                                                                           |
+| Transistor          | NPN-Transistor                                  | type NPN (EBC); package TO92 [THT]                                                                         |
 
 #### <a name="budget">2.1.3 Overall Budget</a>
 
