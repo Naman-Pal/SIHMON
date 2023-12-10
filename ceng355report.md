@@ -107,11 +107,11 @@ In essence, SIHMON is a straightforward yet impactful solution. It envisions a f
 
 [4.0 Integration](#40-integration)  
 [4.1 Database Configuration](#4.0)  
-[4.2 Network and Security Considerations](#43-network-and-security-considerations)  
-[4.3 Unit Testing](#44-unit-testing)  
-[4.4 Production Testing](#45-production-testing)  
-[4.5 Challenges/Problems](#46-challengesproblems)  
-[4.6 Solutions](#47-solutions)  
+[4.2 Network and Security Considerations](#4.2)  
+[4.3 Unit Testing](#4.3)  
+[4.4 Production Testing](#4.4)  
+[4.5 Challenges/Problems](#4.5)  
+[4.6 Solutions](#4.6)  
 
 [5.0 Results and Discussion](#50-results-and-discussion)   
 [5.1 Research on Infant Health Worldwide](#research)   
