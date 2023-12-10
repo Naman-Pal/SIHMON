@@ -284,7 +284,7 @@ The design was sent to Humber's Laser Cut Studio for precision cutting. Post-cut
 - Sensor Accessibility: The design features a dedicated cutout aligned with the microphone of the sound sensor, permitting unobstructed sound detection. A top opening allows easy access to the sensors, ensuring convenience in monitoring and maintenance tasks.
 ### 2.6 Image/firmware   
 The firmware is built using the Thonny Python IDE, using Python language. A link to the complete source code can be found in the Appendix section. The Python uses threads to run 4 sensors together, along with a 5th thread for the LED control. The pulse and oximeter sensor (Max30102) requires separate calculations, unlike other sensors, whose raw values can easily be converted to results and sent to the Firebase real-time database. Hence, to keep the main code file manageable and simple, all calculations of the Max30102 sensor are isolated in 2 separate files, which are imported and run along with the main file.   
-LED is set to light up if any one of the sensor readings crosses the threshold. All thresholds can be adjusted based on the infant's needs. It uses a single variable, which is updated by all 4 sensor threads. If any of the readings crosses the threshold, the boolean variable is set, and is input to the LED thread; which lights up the LED, indicating the alert for the parent that the baby's health might be at risk. 
+LED is set to light up if any one of the sensor readings crosses the threshold. All thresholds can be adjusted based on the infant's needs. It uses a single variable, which is updated by all 4 sensor threads. If any of the readings crosses the threshold, the boolean variable is set, and is input to the LED thread; which lights up the LED, indicating the alert to the parent that the baby's health might be at risk. 
 All 3 sensors update their readings and upload the same to Firebase every second; except for the temperature sensor which is updated every 5 seconds. This is because temperature updates are not required as often. This reduces the load on the computer as well as the sensor. 
 
 ## 3.0 Mobile Application Report   
@@ -379,8 +379,7 @@ Example of one test case that tested the navigation drawer to open the oxygen/pu
 The project uses the same concept to test other functionality of the app 
 
 ## 4.0 Integration   
-### 4.1 Enterprise wireless connectivity   
-### 4.2 Database configuration   
+### 4.1 Database configuration   
 The database architecture is built on Firebase's ecosystem, utilizing both Firestore and the Realtime Database to manage user profiles, authentication, and sensor data.
 #### User Authentication and Profiles
 Firebase Authentication is utilized to manage user access and credentials, ensuring security and a seamless user experience. Upon successful login, user profiles are stored within the Firestore database, which is designed for richer, more complex data structures.
@@ -403,7 +402,7 @@ Sensor records are retained in the Firestore database for 7 days. This duration 
 
 This configuration ensures up-to-date health monitoring with a manageable historical data footprint.
 
-### 4.3 Network and Security Considerations   
+### 4.2 Network and Security Considerations   
 In developing the monitor, a paramount concern is the secure and reliable transmission of sensitive health data from the BioSensor bracelet to the mobile application. This section outlines the key network and security measures implemented to ensure the integrity, confidentiality, and availability of data.
 #### Network Infrastructure and Connectivity
 - **Stable Connectivity**: SIHMON requires a consistent and stable network connection, utilizing wireless protocols such as Wi-Fi. This ensures real-time data transmission from the BioSensor bracelet to the Firebase database and the mobile application.
@@ -412,7 +411,7 @@ In developing the monitor, a paramount concern is the secure and reliable transm
 - **Secure User Authentication**: The mobile application incorporates robust authentication protocols. Using methods such as MAuth and token-based authentication, we ensure that only authorized users have access to the health data.
 - **Firebase Connection with JSON Key**: To facilitate secure communication with Firebase, a JSON key is used. This key provides a secure way to authenticate and connect the Raspberry Pi to the Firebase database, ensuring end-to-end encryption and data integrity.
 
-### 4.4 Unit Testing 
+### 4.3 Unit Testing 
 **JUnit:**
 JUnit is used for testing user authentication. Tests verify that the system correctly identifies and authenticates legitimate users. Testing also helps ensure that the system handles invalid inputs, such as incorrect passwords, and provides appropriate feedback.
 
@@ -542,7 +541,7 @@ public class EspressoTest {
 }
 ```
 
-### 4.5 Production Testing 
+### 4.4 Production Testing 
 Production testing aims to validate the SIHMON system against its design specifications. This ensures functionality, operational reliability, and user requirement fulfillment across all components of the system.
 - **Hardware Testing**: Hardware components underwent rigorous validation processes. Each sensor, circuit board, and connectivity interface was tested for functionality. Stress tests were conducted to ascertain durability and resilience under high operational loads.
 - **Software Testing**: Software components, including firmware and the mobile application, were subject to in-depth code reviews to detect vulnerabilities and potential bugs. Unit tests were performed to ensure individual functions performed as intended.
@@ -550,7 +549,7 @@ Production testing aims to validate the SIHMON system against its design specifi
 - **Interface Testing**: The mobile application's user interface was evaluated for usability, responsiveness, and accuracy in displaying sensor data. The Firebase database interface was also tested to confirm correct data storage, retrieval, and real-time update capabilities.
 - **Performance Testing**: System performance was assessed under typical and peak loads, focusing on data processing and transmission efficiency. Latency measurements were taken to evaluate the communication speed between the BioSensor bracelet, the Firebase database, and the mobile application.
 - **Environmental Testing**: The BioSensor bracelet was exposed to a variety of environmental conditions it might encounter during real-world operation, to test its adaptability and reliability.
-### 4.6 Challenges/Problems   
+### 4.5 Challenges/Problems   
 
 The development team faced several technical challenges that required deep analysis and resolution. A systematic overview of the encountered difficulties and their implications on the project trajectory is as follows:
 
@@ -567,7 +566,7 @@ The development team faced several technical challenges that required deep analy
 The team's approach to these challenges was characterized by proactive engagement and the application of interdisciplinary expertise, augmented by constructive user feedback. The resolution of these issues was pivotal to the maturation of SIHMON into a solution that effectively serves the needs of its user base. The experience gained has substantially fortified the team's proficiency and will be of significant value in subsequent endeavours.
 
 
-### 4.7 Solutions  
+### 4.6 Solutions  
 
 In addressing the technical challenges encountered during the project, the development team implemented the following strategic solutions:
 
