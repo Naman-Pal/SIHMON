@@ -143,15 +143,15 @@ In essence, SIHMON is a straightforward yet impactful solution. It envisions a f
 [Figure 10.2: PCB in Gerber Format on the JLCPCB website](#fig10.2)  
 [Figure 10.3: Unassembled PCB from JLCPCB](#fig10.3)  
 [Figure 10.4: PCB after assembly: includes 4 sensors, resistors, transistor, short pin headers, LED, and connection with Raspberry Pi](#fig10.4)  
-[Figure 11: Layout of the mobile application](#fig11)
-[Figure 11.1: Splash Screen of the mobile application](#fig11.1)
-[Figure 11.2: Mobile application icon](#fig11.2)
-[Figure 11.3: Registration page of the mobile application](#fig11.3)
-[Figure 11.4: Login Page of the mobile application](#fig11.4)
-[Figure 11.5: About Us Screen of the mobile application](#fig11.5)
-[Figure 11.6: Settings Screen of the mobile application](#fig11.6)
-[Figure 11.7: Flow Diagram of mobile application](#fig11.7)
-
+[Figure 11: Layout of the mobile application](#fig11)   
+[Figure 11.1: Splash Screen of the mobile application](#fig11.1)   
+[Figure 11.2: Mobile application icon](#fig11.2)   
+[Figure 11.3: Registration page of the mobile application](#fig11.3)   
+[Figure 11.4: Login Page of the mobile application](#fig11.4)   
+[Figure 11.5: About Us Screen of the mobile application](#fig11.5)   
+[Figure 11.6: Settings Screen of the mobile application](#fig11.6)   
+[Figure 11.7: Flow Diagram of mobile application](#fig11.7)   
+ 
 
 ## 1.0 Introduction   
 ### 1.1 Background   
