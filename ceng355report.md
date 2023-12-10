@@ -151,6 +151,7 @@ In essence, SIHMON is a straightforward yet impactful solution. It envisions a f
 [Figure 11.5: About Us Screen of the mobile application](#fig11.5)   
 [Figure 11.6: Settings Screen of the mobile application](#fig11.6)   
 [Figure 11.7: Flow Diagram of mobile application](#fig11.7)   
+[Figure 12: Laser Cut Enclosure Design](#fig12)   
  
 
 ## 1.0 Introduction   
@@ -254,7 +255,7 @@ After rigorously and successfully testing all the sensors on a breadboard, each 
 
 JLCPCB, a well-known Chinese PCB manufacturer, produced the PCBs. The design was sent to JLCPCB in Gerber format. 
 ###### <a name="fig10.2">Figure 10.2: PCB in Gerber Format on the JLCPCB website</a>     
-<img src="https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/37bfbe9f-8e8d-4b63-90d6-997300b11087" width="50%" />    
+<img src="https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/37bfbe9f-8e8d-4b63-90d6-997300b11087" width="60%" />    
 
 ###### <a name="fig10.3">Figure 10.3: Unassembled PCB from JLCPCB</a>     
 <img src="https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/7ad4ed43-4457-4faf-972a-4695bc36d2ff" />    
@@ -262,15 +263,16 @@ JLCPCB, a well-known Chinese PCB manufacturer, produced the PCBs. The design was
 One PCB was assembled per sensor by soldering resistors, transistors, LED, and a short pin header onto each PCB. Short pin headers were soldered onto the PCB instead of the sensors themselves so that sensors could be attached or removed sensors, hence making it easier to troubleshoot any potential errors. and successfully tested all 4 circuits. Hence, all 4 sensors were combined into one PCB and tested the final circuit.   
 ###### <a name="fig10.4">Figures 10.4.1 and 10.4.2: PCB after assembly: includes 4 sensors, resistors, transistor, short pin headers, LED, and connection with Raspberry Pi</a>     
 <img src="https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/8fbb4bfd-a01d-4df6-ac9f-fafe25a3ce31" width="40%" />    
-<img src="https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/0a773493-3250-4506-9092-09e1d2dc94bb" width="50%" />    
+<img src="https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/0a773493-3250-4506-9092-09e1d2dc94bb" width="55%" />    
 
 #### 2.4.1 Independent   
 #### 2.4.2 Combined   
 ### 2.5 Enclosure     
 #### Design and Material Selection
-The enclosure was designed using CorelDRAW, a vector graphics editor, to achieve an intricate design suitable for laser cutting.3mm acrylic material was chosen due to its transparency, sturdiness, and laser-friendly properties, allowing for a clear view of the internal components while protecting them.
+The enclosure was designed using CorelDRAW, a vector graphics editor, to achieve an intricate design suitable for laser cutting. 3mm acrylic material was chosen due to its transparency, sturdiness, and laser-friendly properties, allowing for a clear view of the internal components while protecting them.
+###### <a name="fig12">Figure 12: Laser Cut Enclosure Design</a>     
+<img src="https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/105024283/3ae148f4-b9ec-4693-a295-600a1a1c0cd4" width="80%" />    
 
-![image](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/105024283/3ae148f4-b9ec-4693-a295-600a1a1c0cd4)
 #### Fabrication Process, Assembly and Features
 The design was sent to Humber's Laser Cut Studio for precision cutting. Post-cutting, the enclosure was assembled with features tailored for functionality:
 
