@@ -199,6 +199,20 @@ The equipment used to develop the hardware, including the solder station, oscill
 | Transistor          | NPN-Transistor                                  | type NPN (EBC); package TO92 [THT]                                                                         |
 
 #### <a name="budget">2.1.3 Overall Budget</a>
+| Serial Number       | Part Type                                       | Cost                                                                                                       |
+|---------------------|-------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| 1                   | Triple Axis Accelerometer Breakout - ADXL345    | $10.00                                                                                                    |
+| 2                   | Generic female header - 8 pins                  | $2.50                                                                                                     |
+| 3                   | Red (633nm) LED                                 | $0.50                                                                                                     |
+| 4                   | GY-MAX30102                                     | $8.00                                                                                                     |
+| 5                   | 220Ω Resistor                                  | $0.10                                                                                                     |
+| 6                   | 2.2kΩ Resistor                                 | $0.15                                                                                                     |
+| 7                   | 1kΩ Resistor                                   | $0.12                                                                                                     |
+| 8                   | 2kΩ Resistor                                   | $0.18                                                                                                     |
+| 9                   | Raspberry Pi 3                                  | $35.00                                                                                                    |
+| 10                  | KY-037 High Sensitivity Sound Detection Module | $5.00                                                                                                     |
+| 11                  | TMP006 Thermopile Sensor                        | $12.00                                                                                                    |
+| 12                  | NPN-Transistor                                  | $0.25                                                                                                     |
 
 
 
