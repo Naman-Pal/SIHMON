@@ -400,8 +400,9 @@ Sensor records are retained in the Firestore database for 7 days. This duration 
 - **updateTemperatureRecord**: Captures updates to temperature readings.
 
 This configuration ensures up-to-date health monitoring with a manageable historical data footprint.
+   
+### <a name="4.2">4.2 Network and Security Considerations</a>
 
-### 4.2 Network and Security Considerations   
 In developing the monitor, a paramount concern is the secure and reliable transmission of sensitive health data from the BioSensor bracelet to the mobile application. This section outlines the key network and security measures implemented to ensure the integrity, confidentiality, and availability of data.
 #### Network Infrastructure and Connectivity
 - **Stable Connectivity**: SIHMON requires a consistent and stable network connection, utilizing wireless protocols such as Wi-Fi. This ensures real-time data transmission from the BioSensor bracelet to the Firebase database and the mobile application.
@@ -410,7 +411,7 @@ In developing the monitor, a paramount concern is the secure and reliable transm
 - **Secure User Authentication**: The mobile application incorporates robust authentication protocols. Using methods such as MAuth and token-based authentication, we ensure that only authorized users have access to the health data.
 - **Firebase Connection with JSON Key**: To facilitate secure communication with Firebase, a JSON key is used. This key provides a secure way to authenticate and connect the Raspberry Pi to the Firebase database, ensuring end-to-end encryption and data integrity.
 
-### 4.3 Unit Testing 
+### <a name="4.3">4.3 Unit Testing</a>
 **JUnit:**
 JUnit is used for testing user authentication. Tests verify that the system correctly identifies and authenticates legitimate users. Testing also helps ensure that the system handles invalid inputs, such as incorrect passwords, and provides appropriate feedback.
 
@@ -539,16 +540,18 @@ public class EspressoTest {
     }
 }
 ```
+ 
+### <a name="4.4">4.4 Production Testing</a>
 
-### 4.4 Production Testing 
 Production testing aims to validate the SIHMON system against its design specifications. This ensures functionality, operational reliability, and user requirement fulfillment across all components of the system.
 - **Hardware Testing**: Hardware components underwent rigorous validation processes. Each sensor, circuit board, and connectivity interface was tested for functionality. Stress tests were conducted to ascertain durability and resilience under high operational loads.
 - **Software Testing**: Software components, including firmware and the mobile application, were subject to in-depth code reviews to detect vulnerabilities and potential bugs. Unit tests were performed to ensure individual functions performed as intended.
 - **Integration Testing**: Comprehensive system integration testing verified the seamless operation of hardware and software components together. This included ensuring accurate data capture by the sensors, transmission to the Raspberry Pi, and appropriate logging within the Firebase database.
 - **Interface Testing**: The mobile application's user interface was evaluated for usability, responsiveness, and accuracy in displaying sensor data. The Firebase database interface was also tested to confirm correct data storage, retrieval, and real-time update capabilities.
 - **Performance Testing**: System performance was assessed under typical and peak loads, focusing on data processing and transmission efficiency. Latency measurements were taken to evaluate the communication speed between the BioSensor bracelet, the Firebase database, and the mobile application.
-- **Environmental Testing**: The BioSensor bracelet was exposed to a variety of environmental conditions it might encounter during real-world operation, to test its adaptability and reliability.
-### 4.5 Challenges/Problems   
+- **Environmental Testing**: The BioSensor bracelet was exposed to a variety of environmental conditions it might encounter during real-world operation, to test its adaptability and reliability.   
+
+### <a name="4.5">4.5 Challenges/Problems</a>
 
 The development team faced several technical challenges that required deep analysis and resolution. A systematic overview of the encountered difficulties and their implications on the project trajectory is as follows:
 
@@ -564,8 +567,9 @@ The development team faced several technical challenges that required deep analy
 
 The team's approach to these challenges was characterized by proactive engagement and the application of interdisciplinary expertise, augmented by constructive user feedback. The resolution of these issues was pivotal to the maturation of SIHMON into a solution that effectively serves the needs of its user base. The experience gained has substantially fortified the team's proficiency and will be of significant value in subsequent endeavours.
 
+  
+### <a name="4.6">4.6 Solutions</a>
 
-### 4.6 Solutions  
 
 In addressing the technical challenges encountered during the project, the development team implemented the following strategic solutions:
 
