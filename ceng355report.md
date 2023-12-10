@@ -309,10 +309,10 @@ The app icon for "Infant Health" features a heart with a pulse line running thro
 
 These pages are integrated with Firebase, ensuring secure data handling and user authentication.
 ###### <a name="fig11.3">Figure 11.3: Registration Page</a>
-![image](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/133720897/ccd0eb76-49c0-4c33-8a26-30ac36cc1b1c)
+<img src="https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/133720897/ccd0eb76-49c0-4c33-8a26-30ac36cc1b1c" width="25%" />    
 
 ###### <a name="fig11.4">Figure 11.4: Login Page</a>
-![image](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/133720897/8529bc6f-cd91-4387-8803-6cd459cba834)
+<img src="https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/133720897/8529bc6f-cd91-4387-8803-6cd459cba834" width="25%" />    
 #### 3.1.4 Data Visualization Activity  
 The application's data visualization uses line charts to display key health metrics—temperature, movement, and pulse oximetry—highlighting crucial high and low values for easy trend analysis and infant well-being monitoring.
 
@@ -322,7 +322,7 @@ The action control activity centers around setting threshold values, which is cr
 #### 3.1.6 About  
 The "About Us" section of the application articulates the core objective of facilitating infant health monitoring, outlining the functionality of the smart bracelet and its integration with the mobile app for real-time updates and alerts. It features a section that introduces the development team, adding a personal touch with illustrated avatars and names, which enhances user trust. 
 ###### <a name="fig11.5">Figure 11.5: About</a>
-![image](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/133720897/2c18510e-138c-4eb0-9d89-8a334995588e)
+<img src="https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/133720897/2c18510e-138c-4eb0-9d89-8a334995588e" width="25%" />    
 
 #### 3.1.7 Emergency  
 The 'Emergency' feature in the toolbar menu is a critical functionality designed for urgent situations. When accessed, it allows the user to make an immediate call to 911, ensuring rapid assistance can be sought during potential crises.
@@ -330,7 +330,7 @@ The 'Emergency' feature in the toolbar menu is a critical functionality designed
 #### 3.1.8 Settings 
 The settings screen in the application is a comprehensive control panel that allows users to customize their experience. It provides options to manage notifications, enable a portrait orientation lock, and set sound alerts. It features sliders for setting threshold values for various health indicators such as movement, temperature, heart rate, and oxygen saturation levels—critical for receiving personalized alerts. Additional settings include feedback submission, informational access to 'About Us', and a logout function for user security.
 ###### <a name="fig11.6">Figure 11.6: Settings</a>
-![image](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/133720897/27a73cb2-19a4-415c-944d-79610c8a92bc)
+<img src="https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/133720897/27a73cb2-19a4-415c-944d-79610c8a92bc" width="25%" />    
 
 ### 3.2 Flow diagram  
 The flow of the mobile application is strategically designed to ensure a smooth user journey from start to finish. Upon launching the app, users are greeted with a splash screen, followed by a login page. Once authenticated, they land on the home screen, which serves as a gateway to various features accessible through the navigation drawer and the toolbar. The navigation drawer offers detailed monitoring options like temperature and sleep, while the toolbar provides quick access to user profile settings and emergency contacts, encapsulating a comprehensive user experience.
