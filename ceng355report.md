@@ -70,12 +70,11 @@ In essence, SIHMON is a straightforward yet impactful solution. It envisions a f
 [1.2 Project Requirements and Specifications](#12-project-requirements-and-specifications)   
 [1.3 Project Schedule](#13-project-schedule)   
 
-[2.0 Hardware Development Platform Report/Build Instructions](#20-hardware-development-platform-reportbuild-instructions)  
-[2.1 Parts, Components, Materials](#21-parts-components-materials)  
-[2.1.1 Tools, Facilities, and Safety](#211-tools-facilities-and-safety)   
-[2.1.2 Time Expenditure](#212-time-expenditure)  
-[2.1.3 PCB Bill of Materials](#213-pcb-bill-of-materials)  
-[2.1.4 Overall Budget (incl. shipping, duty, taxes)](#214-overall-budget-incl-shipping-duty-taxes)  
+[2.0 Hardware Development](#hard_develop)  
+[2.1 Parts, Equipment, and Setup](#parts_equip_setup)  
+[2.1.1 Equipment and Safety](#safety)   
+[2.1.2 Bill of Materials](#bill)  
+[2.1.3 Overall Budget](#budget)  
 [2.2 Schematic](#22-schematic)  
 [2.3 Breadboard](#23-breadboard)  
 [2.4 Printed Circuit Board](#24-printed-circuit-board)  
@@ -177,13 +176,14 @@ Final Schedule: 2 Latest Sprint Plans
 ![image](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/8ad69c1a-97be-4e0e-ba37-841f52a5c109)
 
 
-## 2.0 Hardware Development    
-### 2.1 Parts, Components, and Materials   
-#### 2.1.1 Equipment and Safety   
+## <a name="hard_develop">2.0 Hardware Development</a>   
+### <a name="parts_equip_setup">2.1 Parts, Equipment, and Setup</a>
+#### <a name="safety">2.1.1 Equipment and Safety</a>   
 The equipment used to develop the hardware, including the solder station, oscilloscope, multimeter (for testing), and microscope, was provided by Humber College ITAL. Other equipment and parts, which were not facilitated by Humber College have been included in the Bill of Materials below. Proper safety procedures, including the ones placed by Humber College, were strictly followed throughout the development. The total time expenditure to complete the hardware prototype is 8 months.   
-#### 2.1.3 Bill of Materials   
+#### <a name="bill">2.1.2 Bill of Materials</a>   
 
-#### 2.1.4 Overall Budget   
+#### <a name="budget">2.1.3 Overall Budget</a>
+
 
 
 ### 2.2 Schematic   
