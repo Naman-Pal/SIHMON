@@ -145,12 +145,13 @@ In essence, SIHMON is a straightforward yet impactful solution. It envisions a f
 [Figure 10.4: PCB after assembly: includes 4 sensors, resistors, transistor, short pin headers, LED, and connection with Raspberry Pi](#fig10.4)  
 [Figure 11: Layout of the mobile application](#fig11)
 [Figure 11.1: Splash Screen of the mobile application](#fig11.1)
-[Figure 11.2: Registration page of the mobile application](#fig11.2)
-[Figure 11.3: Login Page of the mobile application](#fig11.3)
-[Figure 11.4: About Us Screen of the mobile application](#fig11.4)
-[Figure 11.5: Settings Screen of the mobile application](#fig11.5)
-[Figure 11.6: Flow Diagram of mobile application](#fig11.6)
-[Figure 11.6: Mobile application icon](#fig11.7)
+[Figure 11.2: Mobile application icon](#fig11.2)
+[Figure 11.3: Registration page of the mobile application](#fig11.3)
+[Figure 11.4: Login Page of the mobile application](#fig11.4)
+[Figure 11.5: About Us Screen of the mobile application](#fig11.5)
+[Figure 11.6: Settings Screen of the mobile application](#fig11.6)
+[Figure 11.7: Flow Diagram of mobile application](#fig11.7)
+
 
 ## 1.0 Introduction   
 ### 1.1 Background   
@@ -258,7 +259,7 @@ The splash screen of the "Infant Health Monitor" app presents a welcoming graphi
 
 #### 3.1.2 App icon  
 The app icon for "Infant Health" features a heart with a pulse line running through it, clearly symbolizing the app’s focus on monitoring vital health signs. The icon is simple yet effective, utilizing medical imagery to communicate the app's purpose.
-###### <a name="fig11.7">Figure 11.7: App Icon</a>
+###### <a name="fig11.2">Figure 11.2: App Icon</a>
 <img src="https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/133720897/ac973a5b-7165-4d66-b0ed-31ef0b2ffd16.png"  alt="App Icon" width="200" height="200" depth="100">
 
 #### 3.1.3 User sign-up/registration, Login
@@ -267,10 +268,10 @@ The app icon for "Infant Health" features a heart with a pulse line running thro
 - The login page follows a similar design ethos, with fields for email and password and a "Remember me" option for user convenience. There's also a "Login" button and an alternative option to sign in with Google, offering users multiple ways to access their account. 
 
 These pages are integrated with Firebase, ensuring secure data handling and user authentication.
-###### <a name="fig11.2">Figure 11.2: Registration Page</a>
+###### <a name="fig11.3">Figure 11.3: Registration Page</a>
 <img src="https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/133720897/ccd0eb76-49c0-4c33-8a26-30ac36cc1b1c" alt="Registration Page" width="200" height="400" depth="100">
 
-###### <a name="fig11.3">Figure 11.3: Login Page</a>
+###### <a name="fig11.4">Figure 11.4: Login Page</a>
 <img src="https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/133720897/8529bc6f-cd91-4387-8803-6cd459cba834" alt="Login Page" width="200" height="400" depth="100">
 
 #### 3.1.4 Data Visualization Activity  
@@ -281,7 +282,7 @@ The action control activity centers around setting threshold values, which is cr
 
 #### 3.1.6 About  
 The "About Us" section of the application articulates the core objective of facilitating infant health monitoring, outlining the functionality of the smart bracelet and its integration with the mobile app for real-time updates and alerts. It features a section that introduces the development team, adding a personal touch with illustrated avatars and names, which enhances user trust. 
-###### <a name="fig11.4">Figure 11.4: About</a>
+###### <a name="fig11.5">Figure 11.5: About</a>
 <img src="https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/133720897/2c18510e-138c-4eb0-9d89-8a334995588e" alt="About Us Screen" width="200" height="400" depth="100">
 
 #### 3.1.7 Emergency  
@@ -289,12 +290,12 @@ The 'Emergency' feature in the toolbar menu is a critical functionality designed
 
 #### 3.1.8 Settings 
 The settings screen in the application is a comprehensive control panel that allows users to customize their experience. It provides options to manage notifications, enable a portrait orientation lock, and set sound alerts. It features sliders for setting threshold values for various health indicators such as movement, temperature, heart rate, and oxygen saturation levels—critical for receiving personalized alerts. Additional settings include feedback submission, informational access to 'About Us', and a logout function for user security.
-###### <a name="fig11.5">Figure 11.5: Settings</a>
+###### <a name="fig11.6">Figure 11.6: Settings</a>
 <img src="https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/133720897/27a73cb2-19a4-415c-944d-79610c8a92bc" alt="Settings Screen" width="200" height="400" depth="100">
 
 ### 3.2 Flow diagram  
 The flow of the mobile application is strategically designed to ensure a smooth user journey from start to finish. Upon launching the app, users are greeted with a splash screen, followed by a login page. Once authenticated, they land on the home screen, which serves as a gateway to various features accessible through the navigation drawer and the toolbar. The navigation drawer offers detailed monitoring options like temperature and sleep, while the toolbar provides quick access to user profile settings and emergency contacts, encapsulating a comprehensive user experience.
-###### <a name="fig11.6">Figure 11.6: Flow Diagram of mobile application</a>
+###### <a name="fig11.7">Figure 11.7: Flow Diagram of mobile application</a>
 <img src="https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/133720897/4f2c7a2f-488a-4df3-812a-2136da0f6cb3" alt="Flow Diagram of mobile application">
 
 #### 3.2.1 Toast message  
