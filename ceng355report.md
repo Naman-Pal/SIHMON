@@ -227,12 +227,14 @@ The schematic circuit design was completed on Fritzing PC software and laid the 
 The breadboard circuit was extensively used to test the circuits and sensors. Every sensor was tested individually before assembling them onto the PCB.   
 
 ###### <a name="fig6.1">Figure 6.1: adxl345 accelerometer sensor breadboard testing</a>     
-<img src="https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/a7d28919-b1b4-4d71-b8bf-20df09e7203f" width="500" height="500" />    
+<img src="https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/a7d28919-b1b4-4d71-b8bf-20df09e7203f" width="50%" />    
 
 ###### <a name="fig6.2">Figure 6.2: adxl345 with LED breadboard testing</a>     
-![image](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/0e0e88fa-92df-4040-a812-154719fe6073)
+<img src="https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/0e0e88fa-92df-4040-a812-154719fe6073" />    
+
 ###### <a name="fig7.1">Figure 7.1: tmp006 temperature sensor and LED breadboard testing</a>     
-![LED](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/cec45bdc-3eca-4be9-af97-8a9e0a747d84)
+<img src="https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/cec45bdc-3eca-4be9-af97-8a9e0a747d84" />    
+
 ###### <a name="fig7.2">Figure 7.2: tmp006 temperature sensor breadboard testing with Raspberry Pi</a>     
 ![PI](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/154cb657-83c6-44c1-ad5f-2538c8d68da9)
 ###### <a name="fig8.1">Figure 8.1: max30102 pulse and oximeter sensor breadboard testing using finger</a>     
