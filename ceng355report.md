@@ -250,16 +250,19 @@ The breadboard circuit was extensively used to test the circuits and sensors. Ev
 ### 2.4 Printed Circuit Board   
 After rigorously and successfully testing all the sensors on a breadboard, each circuit was tested on the PCB. The Fritzing software was used to build the PCB design. 
 ###### <a name="fig10.1">Figure 10.1: PCB View in Fritzing Software</a>     
-![PCB View](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/cafe0a56-8a6f-419c-8b30-12b104b90955)   
+<img src="https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/cafe0a56-8a6f-419c-8b30-12b104b90955" />    
+
 JLCPCB, a well-known Chinese PCB manufacturer, produced the PCBs. The design was sent to JLCPCB in Gerber format. 
 ###### <a name="fig10.2">Figure 10.2: PCB in Gerber Format on the JLCPCB website</a>     
-![Gerber View](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/37bfbe9f-8e8d-4b63-90d6-997300b11087)   
+<img src="https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/37bfbe9f-8e8d-4b63-90d6-997300b11087" width="50%" />    
+
 ###### <a name="fig10.3">Figure 10.3: Unassembled PCB from JLCPCB</a>     
-![unz](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/7ad4ed43-4457-4faf-972a-4695bc36d2ff)   
+<img src="https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/7ad4ed43-4457-4faf-972a-4695bc36d2ff" />    
+
 One PCB was assembled per sensor by soldering resistors, transistors, LED, and a short pin header onto each PCB. Short pin headers were soldered onto the PCB instead of the sensors themselves so that sensors could be attached or removed sensors, hence making it easier to troubleshoot any potential errors. and successfully tested all 4 circuits. Hence, all 4 sensors were combined into one PCB and tested the final circuit.   
 ###### <a name="fig10.4">Figures 10.4.1 and 10.4.2: PCB after assembly: includes 4 sensors, resistors, transistor, short pin headers, LED, and connection with Raspberry Pi</a>     
-![as2z](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/8fbb4bfd-a01d-4df6-ac9f-fafe25a3ce31)    
-![as1z](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/0a773493-3250-4506-9092-09e1d2dc94bb)   
+<img src="https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/8fbb4bfd-a01d-4df6-ac9f-fafe25a3ce31" width="40%" />    
+<img src="https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/0a773493-3250-4506-9092-09e1d2dc94bb" width="50%" />    
 
 #### 2.4.1 Independent   
 #### 2.4.2 Combined   
