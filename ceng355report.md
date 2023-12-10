@@ -252,12 +252,12 @@ In the mobile application, Navigation Drawer Layout is being used. It consists o
 
 #### 3.1.1 Splash screen 
 The splash screen of the "Infant Health Monitor" app presents a welcoming graphic featuring a stethoscope, signaling the app's health-tracking purpose. It includes the app's name and a tagline highlighting the product's aim to serve modern, health-conscious families. Designed with an attractive background color, the screen captivates users for a deliberate three seconds, engaging them with the app's features before transitioning to the login interface.
-###### <p><a name="fig11.1">Figure 11.1: Splash Screen</p>
+###### <a name="fig11.1">Figure 11.1: Splash Screen</a>
 <img src="https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/133720897/7d2f9aa0-d187-488c-b313-f0c1d448fed3.jpeg" alt="Splash Screen" width="200" height="400" depth="100">
 
 #### 3.1.2 App icon  
 The app icon for "Infant Health" features a heart with a pulse line running through it, clearly symbolizing the app’s focus on monitoring vital health signs. The icon is simple yet effective, utilizing medical imagery to communicate the app's purpose.
-###### <a name="fig11.1">Figure 11.1: App Icon</a>
+###### <a name="fig11.7">Figure 11.7: App Icon</a>
 <img src="https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/133720897/ac973a5b-7165-4d66-b0ed-31ef0b2ffd16.png"  alt="App Icon" width="200" height="200" depth="100">
 
 #### 3.1.3 User sign-up/registration, Login
