@@ -201,19 +201,19 @@ The equipment used to develop the hardware, including the solder station, oscill
 #### <a name="budget">2.1.3 Overall Budget</a>
 
 
-| Serial Number       | Item Brief                                     | Quantity | Individual Cost (USD) | Total Cost (USD)                            |
+| Serial Number       | Item Brief                                      | Quantity | Individual Cost (CAD)  | Total Cost (CAD)                            |
 |---------------------|-------------------------------------------------|----------|------------------------|---------------------------------------------|
 | 1                   | Triple Axis Accelerometer Breakout - ADXL345    | 1        | $10.00                 | $10.00                                      |
-| 2                   | KY-037 High Sensitivity Sound Detection Module | 1        | $5.00                  | $5.00                                       |
-| 3                   | TMP006 Thermopile Sensor                        | 1        | $12.00                 | $12.00                                      |
-| 4                   | GY-MAX30102                                     | 1        | $8.00                  | $8.00                                       |
+| 2                   | KY-037 High Sensitivity Sound Sensor            | 1        | $5.00                  | $5.00                                       |
+| 3                   | TMP006 Thermopile Temperature Sensor            | 1        | $12.00                 | $12.00                                      |
+| 4                   | GY-MAX30102 Pulse and Oximeter (BPM and O2)     | 1        | $8.00                  | $8.00                                       |
 | 5                   | Raspberry Pi 3                                  | 1        | $35.00                 | $35.00                                      |
-| 6                   | Generic female header - 8 pins                  | 1        | $2.50                  | $2.50                                       |
+| 6                   | Generic female header - 40 pins                 | 1        | $2.50                  | $2.50                                       |
 | 7                   | Header Packet: with variety of headers          | 5        | $0.25                  | $1.25                                       |
-| 8                   | 220Ω Resistor                                  | 20       | $0.10                  | $2.00                                       |
-| 9                   | 2.2kΩ Resistor                                 | 10       | $0.15                  | $1.50                                       |
-| 10                  | 1kΩ Resistor                                   | 15       | $0.12                  | $1.80                                       |
-| 11                  | 2kΩ Resistor                                   | 10       | $0.18                  | $1.80                                       |
+| 8                   | 220Ω Resistor                                   | 20       | $0.10                  | $2.00                                       |
+| 9                   | 2.2kΩ Resistor                                  | 10       | $0.15                  | $1.50                                       |
+| 10                  | 1kΩ Resistor                                    | 15       | $0.12                  | $1.80                                       |
+| 11                  | 2kΩ Resistor                                    | 10       | $0.18                  | $1.80                                       |
 | 12                  | NPN-Transistor                                  | 5        | $0.25                  | $1.25                                       |
 | 13                  | Red (633nm) LED                                 | 10       | $0.50                  | $5.00                                       |
 
