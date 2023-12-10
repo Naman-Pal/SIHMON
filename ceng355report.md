@@ -106,7 +106,7 @@ In essence, SIHMON is a straightforward yet impactful solution. It envisions a f
 [3.7 Test Cases](#37-test-cases)  
 
 [4.0 Integration](#40-integration)  
-[4.1 Database Configuration](#42-database-configuration)  
+[4.1 Database Configuration](#4.0)  
 [4.2 Network and Security Considerations](#43-network-and-security-considerations)  
 [4.3 Unit Testing](#44-unit-testing)  
 [4.4 Production Testing](#45-production-testing)  
@@ -378,7 +378,7 @@ Example of one test case that tested the navigation drawer to open the oxygen/pu
 The project uses the same concept to test other functionality of the app 
 
 ## 4.0 Integration   
-### 4.1 Database configuration   
+### <a name="4.0">4.1 Database configuration</a>
 The database architecture is built on Firebase's ecosystem, utilizing both Firestore and the Realtime Database to manage user profiles, authentication, and sensor data.
 #### User Authentication and Profiles
 Firebase Authentication is utilized to manage user access and credentials, ensuring security and a seamless user experience. Upon successful login, user profiles are stored within the Firestore database, which is designed for richer, more complex data structures.
