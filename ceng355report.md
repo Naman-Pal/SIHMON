@@ -216,6 +216,7 @@ The equipment used to develop the hardware, including the solder station, oscill
 | 12                  | NPN-Transistor                                  | 5        | $0.25                  | $1.25                                       |
 | 13                  | Red (633nm) LED                                 | 10       | $0.50                  | $5.00                                       |
 | 14                  | Google Play Console Developer Account Fees      | 1        | $25.00                 | $25.00                                      |
+| **Total**           |                                                 | **95**   |                        | **$251.90**                                 |
 
 
 ### 2.2 Schematic   
