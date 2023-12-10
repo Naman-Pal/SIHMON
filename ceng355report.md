@@ -18,13 +18,13 @@ You will notice from the OACETT Guidelines pages 3 and 4 and from the PowerPoint
 | --- | --- | --- | --- | --- | --- |  
 | Preliminaries | 4 | 2 50% | 1 25% | 0.75 13% | 0.75 12% |  
 | Introduction | 4 | 4 100% | 0 0% | 0 0% | 0 0% |  
-| Hardware | x | 5 z% | y z% | y z% | y z% |  
-| Mobile Application Report | x | y z% | y z% | y z% | y z% |  
-| Integration | x | y z% | y z% | y z% | y z% |  
-| Results and Discussions | 3 | 3 100% | 0 0% | 0 0% | 0 0% |  
+| Hardware | 10 | 8 80% | 0 0% | 0 0% | 2 20% |  
+| Mobile Application Report | 10 | 0 0% | 2 20% | 8 80% | 0 0% |  
+| Integration | 8 | 0 0% | 2 25% | 0 0% | 6 75% |  
+| Results and Discussions | 2 | 2 100% | 0 0% | 0 0% | 0 0% |  
 | Conclusion | 0.75 | 0.75 100% | 0 0% | 0 0% | 0 0% |  
-| Appendix | 0.5 | 0.5 100% | 0 0% | 0 0% | 0 0% |
-| References | 1 | 0.5 50% | 0.25 25% | 0.25 25% | 0.25 25% |  
+| Appendix | 0.25 | 0.25 100% | 0 0% | 0 0% | 0 0% |
+| References | 1 | 1 100% | 0 0% | 0 0% | 0 0% |  
 | Total | x | 5 25% | 5 25% | 5 25% | 5 25% |  
 
 
@@ -312,7 +312,8 @@ These pages are integrated with Firebase, ensuring secure data handling and user
 <img src="https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/133720897/ccd0eb76-49c0-4c33-8a26-30ac36cc1b1c" width="25%" />    
 
 ###### <a name="fig11.4">Figure 11.4: Login Page</a>
-<img src="https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/133720897/8529bc6f-cd91-4387-8803-6cd459cba834" width="25%" />    
+<img src="https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/133720897/8529bc6f-cd91-4387-8803-6cd459cba834" width="25%" />   
+
 #### 3.1.4 Data Visualization Activity  
 The application's data visualization uses line charts to display key health metrics—temperature, movement, and pulse oximetry—highlighting crucial high and low values for easy trend analysis and infant well-being monitoring.
 
