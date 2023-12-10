@@ -571,10 +571,7 @@ The team's proactive and methodical approach to overcoming the project's challen
 
 ## 5.0 Results and Discussion   
 ### <a name="research">5.1 Research on Infant Health Worldwide</a>
-There are several 
-- SIDS: Sudden Infant Death Syndrome. ![Figure 2: How-to-Protect-the-child-from-SIDS](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/5795caeb-0ffc-4240-8e5a-332ec3118474)
-###### Figure 2: SIDS Poster: retrieved from www.drthindhomeopathy.com
-
+There are several health issues that infants face worldwide, impacting their development, and hence hindering their physical potential in the future. These include not just infants that are born with defects, but also perfectly healthy infants that develop serious health issues later on in life due to lack of care.  
   SIDS is the leading cause of death in infants between one month and one year of age in the United States alone, where approximately 2500 children per year die as a result of SIDS[^1][^2][^3][^4].
 
 [^1]: UpToDate.com . Available at :https://www.uptodate.com/contents/sudden-infant-death-syndrome-sids-beyond-the-basics/print#:~:text=SIDS%20is%20the%20leading%20cause,as%20a%20result%20of%20SIDS.
