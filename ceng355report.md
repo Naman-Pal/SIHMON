@@ -150,6 +150,7 @@ In essence, SIHMON is a straightforward yet impactful solution. It envisions a f
 [Figure 11.4: About Us Screen of the mobile application](#fig11.4)
 [Figure 11.5: Settings Screen of the mobile application](#fig11.5)
 [Figure 11.6: Flow Diagram of mobile application](#fig11.6)
+[Figure 11.6: Mobile application icon](#fig11.7)
 
 ## 1.0 Introduction   
 ### 1.1 Background   
