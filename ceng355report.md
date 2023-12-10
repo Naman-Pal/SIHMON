@@ -1,6 +1,6 @@
 # CENG 355: Smart Infant Health MONitor (SIHMON)
-Title Page (1st odd page not numbered, X.0 sections begin on odd pages, otherwise double-sided and numbered)  
-
+<!-- Title Page (1st odd page not numbered, X.0 sections begin on odd pages, otherwise double-sided and numbered)  
+-->
 ## Declaration of Joint Authorship   
 
 ### Table of Contributions
@@ -44,7 +44,7 @@ I, Eshan Salwan, confirm that this breakdown of authorship represents my contrib
 Introducing SIHMON (Smart Infant Health MONitor), a vital tool for parents navigating the challenges of infant care, especially those concerning Sudden Infant Death Syndrome (SIDS). SIHMON consists of two key parts:   
 
  - BioSensor Bracelet: 
-A wearable for infants packed with sensors (heart rate, oxygen levels, temperature, movement, and sound monitoring). This bracelet is connected to the database (Google Firebase), and provides continuous health data.   
+A wearable for infants packed with sensors (heart rate, oxygen levels, temperature, movement, and sound monitoring). This bracelet is connected to the database (Google Firebase) and provides continuous health data.   
 
  - Android App with Firebase: 
 The companion app, linked to the bracelet via Firebase, processes and displays real-time health information. It goes beyond data display, offering insightful analyses for parents and caregivers. The insights can be tailored to the infant, based on any pre-existing health conditions, environment, and daily routines.   
@@ -277,7 +277,7 @@ The design was sent to Humber's Laser Cut Studio for precision cutting. Post-cut
 
 - Cable Management: Openings were included to facilitate power and peripheral connections to the Raspberry Pi.
 
-- Network Connectivity: Accommodations were made to allow for Ethernet adapter connection without compromising the case's structure.
+- Network Connectivity: Accommodations were made to allow for an Ethernet adapter connection without compromising the case's structure.
 
 - Ventilation: Holes were strategically placed for airflow to prevent overheating.
 
@@ -294,7 +294,7 @@ In the mobile application, Navigation Drawer Layout is being used. It consists o
 <img src="https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/133720897/2f9046b0-a8a7-40a6-a77c-4cab13cfbc38.png" width="25%" />    
 
 #### 3.1.1 Splash screen 
-The splash screen of the "Infant Health Monitor" app presents a welcoming graphic featuring a stethoscope, signaling the app's health-tracking purpose. It includes the app's name and a tagline highlighting the product's aim to serve modern, health-conscious families. Designed with an attractive background color, the screen captivates users for a deliberate three seconds, engaging them with the app's features before transitioning to the login interface.
+The splash screen of the "Infant Health Monitor" app presents a welcoming graphic featuring a stethoscope, signalling the app's health-tracking purpose. It includes the app's name and a tagline highlighting the product's aim to serve modern, health-conscious families. Designed with an attractive background color, the screen captivates users for a deliberate three seconds, engaging them with the app's features before transitioning to the login interface.
 ###### <a name="fig11.1">Figure 11.1: Splash Screen</a>
 <img src="https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/133720897/7d2f9aa0-d187-488c-b313-f0c1d448fed3.jpeg" width="25%" />    
 
@@ -359,7 +359,7 @@ The app, Firebase Authentication is used to make secure authentication easy whil
 #### 3.5.1 Backend- push/pull from Firebase database   
 ### 3.6 Internationalization   
 ### 3.7 Test cases
-In this project test cases are utilized to test the proper functionality of specific components of the app. The app uses a navigation drawer to enhance end users' UI experience, specific test cases are made to ensure the user is getting the expected result.
+In this project test cases are utilized to test the proper functionality of specific components of the app. The app uses a navigation drawer to enhance end users' UI experience, and specific test cases are made to ensure the user is getting the expected result.
 
 Example of one test case that tested the navigation drawer to open the oxygen/pulse fragment:
 ```
@@ -387,7 +387,7 @@ Firebase Authentication is utilized to manage user access and credentials, ensur
 #### Sensor Data Management
 The Realtime Database offers a highly efficient platform for handling the live sensor data stream. Each sensor's data is nested under a 'sensor' key, ensuring an organized and scalable data model.
 #### Record Retention and Cloud Functions
-Sensor records are retained in the Firestore database for a period of 7 days. This duration is programmatically managed using Firebase Cloud Functions, which also facilitate the transfer of real-time readings from the Realtime Database to Firestore. The functions include:
+Sensor records are retained in the Firestore database for 7 days. This duration is programmatically managed using Firebase Cloud Functions, which also facilitate the transfer of real-time readings from the Realtime Database to Firestore. The functions include:
 
 - **createDailyRecord**: Initializes a new record for daily data capture.
 
@@ -543,12 +543,12 @@ public class EspressoTest {
 ```
 
 ### 4.5 Production Testing 
-The aim of production testing is to validate the SIHMON system against its design specifications. This ensures functionality, operational reliability, and user requirement fulfillment across all components of the system.
+Production testing aims to validate the SIHMON system against its design specifications. This ensures functionality, operational reliability, and user requirement fulfillment across all components of the system.
 - **Hardware Testing**: Hardware components underwent rigorous validation processes. Each sensor, circuit board, and connectivity interface was tested for functionality. Stress tests were conducted to ascertain durability and resilience under high operational loads.
 - **Software Testing**: Software components, including firmware and the mobile application, were subject to in-depth code reviews to detect vulnerabilities and potential bugs. Unit tests were performed to ensure individual functions performed as intended.
 - **Integration Testing**: Comprehensive system integration testing verified the seamless operation of hardware and software components together. This included ensuring accurate data capture by the sensors, transmission to the Raspberry Pi, and appropriate logging within the Firebase database.
 - **Interface Testing**: The mobile application's user interface was evaluated for usability, responsiveness, and accuracy in displaying sensor data. The Firebase database interface was also tested to confirm correct data storage, retrieval, and real-time update capabilities.
-- **Performance Testing**: System performance was assessed under typical and peak loads, focusing on data processing and transmission efficiency. Latency measurements were taken to evaluate the communication speed between the BioSensor bracelet, Firebase database, and the mobile application.
+- **Performance Testing**: System performance was assessed under typical and peak loads, focusing on data processing and transmission efficiency. Latency measurements were taken to evaluate the communication speed between the BioSensor bracelet, the Firebase database, and the mobile application.
 - **Environmental Testing**: The BioSensor bracelet was exposed to a variety of environmental conditions it might encounter during real-world operation, to test its adaptability and reliability.
 ### 4.6 Challenges/Problems   
 
@@ -564,7 +564,7 @@ The development team faced several technical challenges that required deep analy
 
 - **User Interface (UI) Optimization**: The UI design process for the mobile application was iterative, focusing on achieving an optimal balance between intuitive usability for non-technical end-users and the provision of comprehensive functionality.
 
-The team's approach to these challenges was characterized by proactive engagement and the application of interdisciplinary expertise, augmented by constructive user feedback. The resolution of these issues was pivotal to the maturation of SIHMON into a solution that effectively serves the needs of its user base. The experience gained has substantially fortified the team's proficiency and will be of significant value in subsequent endeavors.
+The team's approach to these challenges was characterized by proactive engagement and the application of interdisciplinary expertise, augmented by constructive user feedback. The resolution of these issues was pivotal to the maturation of SIHMON into a solution that effectively serves the needs of its user base. The experience gained has substantially fortified the team's proficiency and will be of significant value in subsequent endeavours.
 
 
 ### 4.7 Solutions  
