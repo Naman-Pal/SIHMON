@@ -612,11 +612,11 @@ There have been similar attempts at making health monitors, bracelets, and infan
 
 Some previously implemented projects include: -
 #### 5.2.1 Apple SmartWatch
-Description: Offers mobile phone features like calling, texting, voice assistants, and time on the smartwatch. Includes added features like heart rate monitoring and calorie-burnt counting [^10].
+Offers mobile phone features like calling, texting, voice assistants, and time on the smartwatch. Includes added features like heart rate monitoring and calorie-burnt counting. In contrast, the SIHMON Biosensor Bracelet is specifically designed for infant health monitoring, incorporating sensors for heart rate, oxygen levels, temperature, movement, and sound, serving a distinct purpose in addressing the unique needs of parents and caregivers for infant care and safety [^10].
 [^10]: bestbuy.ca. (n.d.). Apple Watch Series 9 (GPS). Available at :https://www.bestbuy.ca/en-ca/product/apple-watch-series-9-gps-45mm-midnight-aluminium-case-with-midnight-sport-band-medium-large-160-210mm/17278985
 
 #### 5.2.1 Owlet Dream Duo with Camera
-Description: Monitors the baby's movements, heart rate, and sounds; streams the baby's live sleep using a camera [^11]. 
+Monitors the baby's movements, heart rate, and sounds; streams the baby's live sleep using a camera. In contrast, the SIHMON Biosensor Bracelet is tailored for infant health monitoring. SIHMON can also sense motion to detect seizures, low oxygen levels, and overall physical activity in addition to heart rate and sound monitoring. The SIHMON system, comprising a wearable bracelet and a connected app, offers a more comprehensive approach to infant well-being, providing parents with detailed insights beyond live sleep monitoring [^11]. 
 [^11]: bestbuy.ca. (n.d.). Owlet Dream Duo with Camera. Available at :https://www.bestbuy.ca/en-ca/product/owlet-dream-duo-with-cam-2-wearable-baby-monitor-ps04nmbbj-mint-green/16370778?cmp=knc-s-71700000071826053&gad_source=1&gclid=Cj0KCQiA3uGqBhDdARIsAFeJ5r1eDRFvVe-JG9XNVT66-kG2XsYuzoVu2mWZphQhz-62qWaP-wFTgZgaAtzNEALw_wcB&gclsrc=aw.ds
 
 ## 6.0 Conclusions   
