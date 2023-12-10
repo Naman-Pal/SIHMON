@@ -594,15 +594,15 @@ Link to product: https://www.bestbuy.ca/en-ca/product/owlet-dream-duo-with-cam-2
 Description: Monitors the baby's movements, heart rate, and sounds; streams the baby's live sleep using a camera. 
 
 ## 6.0 Conclusions   
-In a nutshell, SIHMON (Smart Infant Health MONitor) is more than just a tech project; it's about making a real impact in the lives of parents worldwide. With its BioSensor bracelet and user-friendly app, SIHMON offers a simple yet powerful solution to monitor infants' health, particularly addressing the concern of Sudden Infant Death Syndrome (SIDS).
+SIHMON, or the Smart Infant Health Monitor, is not a mere technological initiative, but a solution designed to genuinely impact the lives of parents globally. Employing a BioSensor bracelet and an intuitive application, SIHMON provides a straightforward yet potent means to monitor infants' health, with a primary focus on addressing Sudden Infant Death Syndrome (SIDS).
 
-Picture this: a parent gets a friendly alert on their phone, prompting them to check on their baby as SIHMON detects any unusual health signs. It's not just about technology; it's about providing peace of mind in an unpredictable world.
+Consider this scenario: A parent receives a prompt on their mobile device, courtesy of SIHMON's detection of any anomalous health signs in their baby. This functionality extends beyond technological sophistication, emphasizing its core purpose of imparting peace of mind in an unpredictable world.
 
-Beyond individual families, SIHMON could change how we approach healthcare. It bridges the gap between parents and healthcare professionals, making infant health a shared responsibility. The goal is a world where technology isn't a barrier, but a tool that brings people together to protect the littlest lives.
+In a broader context, SIHMON has the potential to reshape our approach to healthcare by bridging the communication divide between parents and healthcare professionals. This positions infant health as a shared responsibility, envisioning a world where technology serves as a tool uniting people to safeguard the well-being of the youngest lives.
 
-Furthermore, SIHMON can be developed into many advanced solutions that can potentially save millions of lives and improve healthcare worldwide. SIHMON can be extended to be used for patients in general. Meaning that most patients who require close monitoring benefit from SIHMON, as they would not need to be admitted to the hospital to use their advanced tools for health monitoring, as it can be done easily using our product. This won't just help the users, but also free up space in the hospital so that the room can be used for other, more serious cases.  
+Moreover, SIHMON's adaptability allows for the development of advanced solutions capable of saving lives and enhancing global healthcare. It can be extended for use with a broader patient demographic, offering close monitoring without hospital admission, thereby optimizing healthcare resources and addressing more critical cases.
 
-In essence, SIHMON represents human ingenuity and care. Through SIHMON, we envision a future where parents can embrace the joys of parenthood without constant fear, and a progressive healthcare industry, accessible to all.
+In summary, SIHMON epitomizes human ingenuity and care. It represents a future where parents experience the joys of parenthood without perpetual fear, alongside a healthcare industry that is both progressive and accessible to all.
 
 ## 7.0 Appendix
 ### 7.1 Firmware code   
