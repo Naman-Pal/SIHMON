@@ -227,7 +227,8 @@ The schematic circuit design was completed on Fritzing PC software and laid the 
 The breadboard circuit was extensively used to test the circuits and sensors. Every sensor was tested individually before assembling them onto the PCB.   
 
 ###### <a name="fig6.1">Figure 6.1: adxl345 accelerometer sensor breadboard testing</a>     
-![Sensor testing picture 3](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/a7d28919-b1b4-4d71-b8bf-20df09e7203f)
+<img src="https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/a7d28919-b1b4-4d71-b8bf-20df09e7203f" width="500" height="500" />    
+
 ###### <a name="fig6.2">Figure 6.2: adxl345 with LED breadboard testing</a>     
 ![image](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/0e0e88fa-92df-4040-a812-154719fe6073)
 ###### <a name="fig7.1">Figure 7.1: tmp006 temperature sensor and LED breadboard testing</a>     
