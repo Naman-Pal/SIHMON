@@ -233,16 +233,19 @@ The breadboard circuit was extensively used to test the circuits and sensors. Ev
 <img src="https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/0e0e88fa-92df-4040-a812-154719fe6073" />    
 
 ###### <a name="fig7.1">Figure 7.1: tmp006 temperature sensor and LED breadboard testing</a>     
-<img src="https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/cec45bdc-3eca-4be9-af97-8a9e0a747d84" />    
+<img src="https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/cec45bdc-3eca-4be9-af97-8a9e0a747d84" width="40%" />    
 
 ###### <a name="fig7.2">Figure 7.2: tmp006 temperature sensor breadboard testing with Raspberry Pi</a>     
-![PI](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/154cb657-83c6-44c1-ad5f-2538c8d68da9)
+<img src="https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/154cb657-83c6-44c1-ad5f-2538c8d68da9" width="40%" />    
+
 ###### <a name="fig8.1">Figure 8.1: max30102 pulse and oximeter sensor breadboard testing using finger</a>     
-![w finger](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/7180bd8d-c992-420b-941e-3f820219f166)
+<img src="https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/7180bd8d-c992-420b-941e-3f820219f166" width="30%" />    
+
 ###### <a name="fig8.2">Figure 8.2: max30102 pulse and oximeter with Raspberry Pi</a>     
-![w pi](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/0cce92cf-6512-441a-8f7c-30b2c9858882)
+<img src="https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/0cce92cf-6512-441a-8f7c-30b2c9858882" width="25%" />    
+
 ###### <a name="fig9">Figure 9: lm393 sound sensor breadboard testing</a>     
-![WhatsApp Image 2023-11-28 at 09 24 58](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/a86ee815-86a9-4900-839d-57dea8ee8c61)
+<img src="https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/a86ee815-86a9-4900-839d-57dea8ee8c61" width="25%" />    
 
 ### 2.4 Printed Circuit Board   
 After rigorously and successfully testing all the sensors on a breadboard, each circuit was tested on the PCB. The Fritzing software was used to build the PCB design. 
