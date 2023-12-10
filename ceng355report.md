@@ -290,16 +290,17 @@ The design was sent to Humber's Laser Cut Studio for precision cutting. Post-cut
 ### 3.1 Layout
 In the mobile application, Navigation Drawer Layout is being used. It consists of a list of menu items for different app features, including 'Temperature,' 'Sleep Monitor,' 'Pulse Oximeter,' 'About Us,' and 'Give Feedback,' enabling easy navigation between the app's main functionalities.
 ###### <a name="fig11">Figure 11: Layout of the mobile application</a>  
-![image](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/133720897/2f9046b0-a8a7-40a6-a77c-4cab13cfbc38.png)
+<img src="https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/133720897/2f9046b0-a8a7-40a6-a77c-4cab13cfbc38.png" width="25%" />    
+
 #### 3.1.1 Splash screen 
 The splash screen of the "Infant Health Monitor" app presents a welcoming graphic featuring a stethoscope, signaling the app's health-tracking purpose. It includes the app's name and a tagline highlighting the product's aim to serve modern, health-conscious families. Designed with an attractive background color, the screen captivates users for a deliberate three seconds, engaging them with the app's features before transitioning to the login interface.
 ###### <a name="fig11.1">Figure 11.1: Splash Screen</a>
-![image](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/133720897/7d2f9aa0-d187-488c-b313-f0c1d448fed3.jpeg)
+<img src="https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/133720897/7d2f9aa0-d187-488c-b313-f0c1d448fed3.jpeg" width="25%" />    
 
 #### 3.1.2 App icon  
 The app icon for "Infant Health" features a heart with a pulse line running through it, clearly symbolizing the app’s focus on monitoring vital health signs. The icon is simple yet effective, utilizing medical imagery to communicate the app's purpose.
 ###### <a name="fig11.2">Figure 11.2: App Icon</a>
-![image](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/133720897/ac973a5b-7165-4d66-b0ed-31ef0b2ffd16.png)
+<img src="https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/133720897/ac973a5b-7165-4d66-b0ed-31ef0b2ffd16.png" width="25%" />    
 
 #### 3.1.3 User sign-up/registration, Login
 - The registration page of the app is designed for simplicity and ease of use, requesting essential information like full name, email, password, confirmation of password, and phone number. It features clear fields for each entry, and a prominent "Sign up" button to complete the registration process. A convenient link to switch to the login page is provided for users who already have an account.
