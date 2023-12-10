@@ -177,12 +177,15 @@ Final Schedule: 2 Latest Sprint Plans
 ![image](https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/8ad69c1a-97be-4e0e-ba37-841f52a5c109)
 
 
-## 2.0 Hardware Development Platform Report/Build instructions   
-### 2.1 Parts, Components, Materials   
-#### 2.1.1 Tools, Facilities, and Safety   
-#### 2.1.2 Time Expenditure   
-#### 2.1.3 PCB Bill of Materials   
-#### 2.1.4 Overall Budget (incl. shipping, duty, taxes)   
+## 2.0 Hardware Development    
+### 2.1 Parts, Components, and Materials   
+#### 2.1.1 Equipment and Safety   
+The equipment used to develop the hardware, including the solder station, oscilloscope, multimeter (for testing), and microscope, was provided by Humber College ITAL. Other equipment and parts, which were not facilitated by Humber College have been included in the Bill of Materials below. Proper safety procedures, including the ones placed by Humber College, were strictly followed throughout the development. The total time expenditure to complete the hardware prototype is 8 months.   
+#### 2.1.3 Bill of Materials   
+
+#### 2.1.4 Overall Budget   
+
+
 ### 2.2 Schematic   
 ###### <a name="fig5">Figure 5: Collective Schematic Design</a>     
 
