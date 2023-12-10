@@ -289,7 +289,7 @@ The 'Emergency' feature in the toolbar menu is a critical functionality designed
 #### 3.1.8 Settings 
 The settings screen in the application is a comprehensive control panel that allows users to customize their experience. It provides options to manage notifications, enable a portrait orientation lock, and set sound alerts. It features sliders for setting threshold values for various health indicators such as movement, temperature, heart rate, and oxygen saturation levels—critical for receiving personalized alerts. Additional settings include feedback submission, informational access to 'About Us', and a logout function for user security.
 ###### <a name="fig11.5">Figure 11.5: Settings</a>
-<img src="https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/133720897/1fbf982f-6a03-456a-9a41-6d26965d4379" alt="Settings Screen" width="200" height="400" depth="100">
+<img src="https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/133720897/27a73cb2-19a4-415c-944d-79610c8a92bc" alt="Settings Screen" width="200" height="400" depth="100">
 
 ### 3.2 Flow diagram  
 The flow of the mobile application is strategically designed to ensure a smooth user journey from start to finish. Upon launching the app, users are greeted with a splash screen, followed by a login page. Once authenticated, they land on the home screen, which serves as a gateway to various features accessible through the navigation drawer and the toolbar. The navigation drawer offers detailed monitoring options like temperature and sleep, while the toolbar provides quick access to user profile settings and emergency contacts, encapsulating a comprehensive user experience.
