@@ -614,6 +614,9 @@ Some previously implemented projects include: -
 #### 5.2.1 Apple SmartWatch
 Link to product: https://www.bestbuy.ca/en-ca/product/apple-watch-series-9-gps-45mm-midnight-aluminium-case-with-midnight-sport-band-medium-large-160-210mm/17278985
 
+[^10]: bestbuy.ca. (n.d.). Apple Watch Series 9 (GPS). Available at :https://www.bestbuy.ca/en-ca/product/apple-watch-series-9-gps-45mm-midnight-aluminium-case-with-midnight-sport-band-medium-large-160-210mm/17278985
+
+
 Description: Offers mobile phone features like calling, texting, voice assistants, and time on the smartwatch. Includes added features like heart rate monitoring and calorie-burnt counting.
 #### 5.2.1 Owlet Dream Duo with Camera
 Link to product: https://www.bestbuy.ca/en-ca/product/owlet-dream-duo-with-cam-2-wearable-baby-monitor-ps04nmbbj-mint-green/16370778?cmp=knc-s-71700000071826053&gad_source=1&gclid=Cj0KCQiA3uGqBhDdARIsAFeJ5r1eDRFvVe-JG9XNVT66-kG2XsYuzoVu2mWZphQhz-62qWaP-wFTgZgaAtzNEALw_wcB&gclsrc=aw.ds 
