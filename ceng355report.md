@@ -266,8 +266,6 @@ One PCB was assembled per sensor by soldering resistors, transistors, LED, and a
 <img src="https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/8fbb4bfd-a01d-4df6-ac9f-fafe25a3ce31" width="40%" />    
 <img src="https://github.com/PrototypeZone/computer-systems-project-biobytes/assets/98178255/0a773493-3250-4506-9092-09e1d2dc94bb" width="55%" />    
 
-#### 2.4.1 Independent   
-#### 2.4.2 Combined   
 ### 2.5 Enclosure     
 #### Design and Material Selection
 The enclosure was designed using CorelDRAW, a vector graphics editor, to achieve an intricate design suitable for laser cutting. 3mm acrylic material was chosen due to its transparency, sturdiness, and laser-friendly properties, allowing for a clear view of the internal components while protecting them.
@@ -285,7 +283,9 @@ The design was sent to Humber's Laser Cut Studio for precision cutting. Post-cut
 
 - Sensor Accessibility: The design features a dedicated cutout aligned with the microphone of the sound sensor, permitting unobstructed sound detection. A top opening allows easy access to the sensors, ensuring convenience in monitoring and maintenance tasks.
 ### 2.6 Image/firmware   
-### 2.7 Connectivity/testing   
+The firmware is built using the Thonny Python IDE, using Python language. A link to the complete source code can be found in the Appendix section. The Python uses threads to run 4 sensors together, along with a 5th thread for the LED control. The pulse and oximeter sensor (Max30102) requires separate calculations, unlike other sensors, whose raw values can easily be converted to results and sent to the Firebase real-time database. Hence, to keep the main code file manageable and simple, all calculations of the Max30102 sensor are isolated in 2 separate files, which are imported and run along with the main file.   
+LED is set to light up if any one of the sensor readings crosses the threshold. All thresholds can be adjusted based on the infant's needs. It uses a single variable, which is updated by all 4 sensor threads. If any of the readings crosses the threshold, the boolean variable is set, and is input to the LED thread; which lights up the LED, indicating the alert for the parent that the baby's health might be at risk. 
+All 3 sensors update their readings and upload the same to Firebase every second; except for the temperature sensor which is updated every 5 seconds. This is because temperature updates are not required as often. This reduces the load on the computer as well as the sensor. 
 
 ## 3.0 Mobile Application Report   
 ### 3.1 Layout
